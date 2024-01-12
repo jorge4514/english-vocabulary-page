@@ -1,0 +1,12002 @@
+[
+  {
+    "word": "a",
+    "learned": "false"
+  },
+  {
+    "word": "abandon",
+    "learned": "false"
+  },
+  {
+    "word": "ability",
+    "learned": "false"
+  },
+  {
+    "word": "able",
+    "learned": "false"
+  },
+  {
+    "word": "abortion",
+    "learned": "false"
+  },
+  {
+    "word": "about",
+    "learned": "false"
+  },
+  {
+    "word": "above",
+    "learned": "false"
+  },
+  {
+    "word": "abroad",
+    "learned": "false"
+  },
+  {
+    "word": "absence",
+    "learned": "false"
+  },
+  {
+    "word": "absolute",
+    "learned": "false"
+  },
+  {
+    "word": "absolutely",
+    "learned": "false"
+  },
+  {
+    "word": "absorb",
+    "learned": "false"
+  },
+  {
+    "word": "abuse",
+    "learned": "false"
+  },
+  {
+    "word": "academic",
+    "learned": "false"
+  },
+  {
+    "word": "accept",
+    "learned": "false"
+  },
+  {
+    "word": "access",
+    "learned": "false"
+  },
+  {
+    "word": "accident",
+    "learned": "false"
+  },
+  {
+    "word": "accompany",
+    "learned": "false"
+  },
+  {
+    "word": "accomplish",
+    "learned": "false"
+  },
+  {
+    "word": "according",
+    "learned": "false"
+  },
+  {
+    "word": "account",
+    "learned": "false"
+  },
+  {
+    "word": "accurate",
+    "learned": "false"
+  },
+  {
+    "word": "accuse",
+    "learned": "false"
+  },
+  {
+    "word": "achieve",
+    "learned": "false"
+  },
+  {
+    "word": "achievement",
+    "learned": "false"
+  },
+  {
+    "word": "acid",
+    "learned": "false"
+  },
+  {
+    "word": "acknowledge",
+    "learned": "false"
+  },
+  {
+    "word": "acquire",
+    "learned": "false"
+  },
+  {
+    "word": "across",
+    "learned": "false"
+  },
+  {
+    "word": "act",
+    "learned": "false"
+  },
+  {
+    "word": "action",
+    "learned": "false"
+  },
+  {
+    "word": "active",
+    "learned": "false"
+  },
+  {
+    "word": "activist",
+    "learned": "false"
+  },
+  {
+    "word": "activity",
+    "learned": "false"
+  },
+  {
+    "word": "actor",
+    "learned": "false"
+  },
+  {
+    "word": "actress",
+    "learned": "false"
+  },
+  {
+    "word": "actual",
+    "learned": "false"
+  },
+  {
+    "word": "actually",
+    "learned": "false"
+  },
+  {
+    "word": "ad",
+    "learned": "false"
+  },
+  {
+    "word": "adapt",
+    "learned": "false"
+  },
+  {
+    "word": "add",
+    "learned": "false"
+  },
+  {
+    "word": "addition",
+    "learned": "false"
+  },
+  {
+    "word": "additional",
+    "learned": "false"
+  },
+  {
+    "word": "address",
+    "learned": "false"
+  },
+  {
+    "word": "adequate",
+    "learned": "false"
+  },
+  {
+    "word": "adjust",
+    "learned": "false"
+  },
+  {
+    "word": "adjustment",
+    "learned": "false"
+  },
+  {
+    "word": "administration",
+    "learned": "false"
+  },
+  {
+    "word": "administrator",
+    "learned": "false"
+  },
+  {
+    "word": "admire",
+    "learned": "false"
+  },
+  {
+    "word": "admission",
+    "learned": "false"
+  },
+  {
+    "word": "admit",
+    "learned": "false"
+  },
+  {
+    "word": "adolescent",
+    "learned": "false"
+  },
+  {
+    "word": "adopt",
+    "learned": "false"
+  },
+  {
+    "word": "adult",
+    "learned": "false"
+  },
+  {
+    "word": "advance",
+    "learned": "false"
+  },
+  {
+    "word": "advanced",
+    "learned": "false"
+  },
+  {
+    "word": "advantage",
+    "learned": "false"
+  },
+  {
+    "word": "adventure",
+    "learned": "false"
+  },
+  {
+    "word": "advertising",
+    "learned": "false"
+  },
+  {
+    "word": "advice",
+    "learned": "false"
+  },
+  {
+    "word": "advise",
+    "learned": "false"
+  },
+  {
+    "word": "adviser",
+    "learned": "false"
+  },
+  {
+    "word": "advocate",
+    "learned": "false"
+  },
+  {
+    "word": "affair",
+    "learned": "false"
+  },
+  {
+    "word": "affect",
+    "learned": "false"
+  },
+  {
+    "word": "afford",
+    "learned": "false"
+  },
+  {
+    "word": "afraid",
+    "learned": "false"
+  },
+  {
+    "word": "African",
+    "learned": "false"
+  },
+  {
+    "word": "African-American",
+    "learned": "false"
+  },
+  {
+    "word": "after",
+    "learned": "false"
+  },
+  {
+    "word": "afternoon",
+    "learned": "false"
+  },
+  {
+    "word": "again",
+    "learned": "false"
+  },
+  {
+    "word": "against",
+    "learned": "false"
+  },
+  {
+    "word": "age",
+    "learned": "false"
+  },
+  {
+    "word": "agency",
+    "learned": "false"
+  },
+  {
+    "word": "agenda",
+    "learned": "false"
+  },
+  {
+    "word": "agent",
+    "learned": "false"
+  },
+  {
+    "word": "aggressive",
+    "learned": "false"
+  },
+  {
+    "word": "ago",
+    "learned": "false"
+  },
+  {
+    "word": "agree",
+    "learned": "false"
+  },
+  {
+    "word": "agreement",
+    "learned": "false"
+  },
+  {
+    "word": "agricultural",
+    "learned": "false"
+  },
+  {
+    "word": "ah",
+    "learned": "false"
+  },
+  {
+    "word": "ahead",
+    "learned": "false"
+  },
+  {
+    "word": "aid",
+    "learned": "false"
+  },
+  {
+    "word": "aide",
+    "learned": "false"
+  },
+  {
+    "word": "AIDS",
+    "learned": "false"
+  },
+  {
+    "word": "aim",
+    "learned": "false"
+  },
+  {
+    "word": "air",
+    "learned": "false"
+  },
+  {
+    "word": "aircraft",
+    "learned": "false"
+  },
+  {
+    "word": "airline",
+    "learned": "false"
+  },
+  {
+    "word": "airport",
+    "learned": "false"
+  },
+  {
+    "word": "album",
+    "learned": "false"
+  },
+  {
+    "word": "alcohol",
+    "learned": "false"
+  },
+  {
+    "word": "alive",
+    "learned": "false"
+  },
+  {
+    "word": "all",
+    "learned": "false"
+  },
+  {
+    "word": "alliance",
+    "learned": "false"
+  },
+  {
+    "word": "allow",
+    "learned": "false"
+  },
+  {
+    "word": "ally",
+    "learned": "false"
+  },
+  {
+    "word": "almost",
+    "learned": "false"
+  },
+  {
+    "word": "alone",
+    "learned": "false"
+  },
+  {
+    "word": "along",
+    "learned": "false"
+  },
+  {
+    "word": "already",
+    "learned": "false"
+  },
+  {
+    "word": "also",
+    "learned": "false"
+  },
+  {
+    "word": "alter",
+    "learned": "false"
+  },
+  {
+    "word": "alternative",
+    "learned": "false"
+  },
+  {
+    "word": "although",
+    "learned": "false"
+  },
+  {
+    "word": "always",
+    "learned": "false"
+  },
+  {
+    "word": "AM",
+    "learned": "false"
+  },
+  {
+    "word": "amazing",
+    "learned": "false"
+  },
+  {
+    "word": "American",
+    "learned": "false"
+  },
+  {
+    "word": "among",
+    "learned": "false"
+  },
+  {
+    "word": "amount",
+    "learned": "false"
+  },
+  {
+    "word": "analysis",
+    "learned": "false"
+  },
+  {
+    "word": "analyst",
+    "learned": "false"
+  },
+  {
+    "word": "analyze",
+    "learned": "false"
+  },
+  {
+    "word": "ancient",
+    "learned": "false"
+  },
+  {
+    "word": "and",
+    "learned": "false"
+  },
+  {
+    "word": "anger",
+    "learned": "false"
+  },
+  {
+    "word": "angle",
+    "learned": "false"
+  },
+  {
+    "word": "angry",
+    "learned": "false"
+  },
+  {
+    "word": "animal",
+    "learned": "false"
+  },
+  {
+    "word": "anniversary",
+    "learned": "false"
+  },
+  {
+    "word": "announce",
+    "learned": "false"
+  },
+  {
+    "word": "annual",
+    "learned": "false"
+  },
+  {
+    "word": "another",
+    "learned": "false"
+  },
+  {
+    "word": "answer",
+    "learned": "false"
+  },
+  {
+    "word": "anticipate",
+    "learned": "false"
+  },
+  {
+    "word": "anxiety",
+    "learned": "false"
+  },
+  {
+    "word": "any",
+    "learned": "false"
+  },
+  {
+    "word": "anybody",
+    "learned": "false"
+  },
+  {
+    "word": "anymore",
+    "learned": "false"
+  },
+  {
+    "word": "anyone",
+    "learned": "false"
+  },
+  {
+    "word": "anything",
+    "learned": "false"
+  },
+  {
+    "word": "anyway",
+    "learned": "false"
+  },
+  {
+    "word": "anywhere",
+    "learned": "false"
+  },
+  {
+    "word": "apart",
+    "learned": "false"
+  },
+  {
+    "word": "apartment",
+    "learned": "false"
+  },
+  {
+    "word": "apparent",
+    "learned": "false"
+  },
+  {
+    "word": "apparently",
+    "learned": "false"
+  },
+  {
+    "word": "appeal",
+    "learned": "false"
+  },
+  {
+    "word": "appear",
+    "learned": "false"
+  },
+  {
+    "word": "appearance",
+    "learned": "false"
+  },
+  {
+    "word": "apple",
+    "learned": "false"
+  },
+  {
+    "word": "application",
+    "learned": "false"
+  },
+  {
+    "word": "apply",
+    "learned": "false"
+  },
+  {
+    "word": "appoint",
+    "learned": "false"
+  },
+  {
+    "word": "appointment",
+    "learned": "false"
+  },
+  {
+    "word": "appreciate",
+    "learned": "false"
+  },
+  {
+    "word": "approach",
+    "learned": "false"
+  },
+  {
+    "word": "appropriate",
+    "learned": "false"
+  },
+  {
+    "word": "approval",
+    "learned": "false"
+  },
+  {
+    "word": "approve",
+    "learned": "false"
+  },
+  {
+    "word": "approximately",
+    "learned": "false"
+  },
+  {
+    "word": "Arab",
+    "learned": "false"
+  },
+  {
+    "word": "architect",
+    "learned": "false"
+  },
+  {
+    "word": "area",
+    "learned": "false"
+  },
+  {
+    "word": "argue",
+    "learned": "false"
+  },
+  {
+    "word": "argument",
+    "learned": "false"
+  },
+  {
+    "word": "arise",
+    "learned": "false"
+  },
+  {
+    "word": "arm",
+    "learned": "false"
+  },
+  {
+    "word": "armed",
+    "learned": "false"
+  },
+  {
+    "word": "army",
+    "learned": "false"
+  },
+  {
+    "word": "around",
+    "learned": "false"
+  },
+  {
+    "word": "arrange",
+    "learned": "false"
+  },
+  {
+    "word": "arrangement",
+    "learned": "false"
+  },
+  {
+    "word": "arrest",
+    "learned": "false"
+  },
+  {
+    "word": "arrival",
+    "learned": "false"
+  },
+  {
+    "word": "arrive",
+    "learned": "false"
+  },
+  {
+    "word": "art",
+    "learned": "false"
+  },
+  {
+    "word": "article",
+    "learned": "false"
+  },
+  {
+    "word": "artist",
+    "learned": "false"
+  },
+  {
+    "word": "artistic",
+    "learned": "false"
+  },
+  {
+    "word": "as",
+    "learned": "false"
+  },
+  {
+    "word": "Asian",
+    "learned": "false"
+  },
+  {
+    "word": "aside",
+    "learned": "false"
+  },
+  {
+    "word": "ask",
+    "learned": "false"
+  },
+  {
+    "word": "asleep",
+    "learned": "false"
+  },
+  {
+    "word": "aspect",
+    "learned": "false"
+  },
+  {
+    "word": "assault",
+    "learned": "false"
+  },
+  {
+    "word": "assert",
+    "learned": "false"
+  },
+  {
+    "word": "assess",
+    "learned": "false"
+  },
+  {
+    "word": "assessment",
+    "learned": "false"
+  },
+  {
+    "word": "asset",
+    "learned": "false"
+  },
+  {
+    "word": "assign",
+    "learned": "false"
+  },
+  {
+    "word": "assignment",
+    "learned": "false"
+  },
+  {
+    "word": "assist",
+    "learned": "false"
+  },
+  {
+    "word": "assistance",
+    "learned": "false"
+  },
+  {
+    "word": "assistant",
+    "learned": "false"
+  },
+  {
+    "word": "associate",
+    "learned": "false"
+  },
+  {
+    "word": "association",
+    "learned": "false"
+  },
+  {
+    "word": "assume",
+    "learned": "false"
+  },
+  {
+    "word": "assumption",
+    "learned": "false"
+  },
+  {
+    "word": "assure",
+    "learned": "false"
+  },
+  {
+    "word": "at",
+    "learned": "false"
+  },
+  {
+    "word": "athlete",
+    "learned": "false"
+  },
+  {
+    "word": "athletic",
+    "learned": "false"
+  },
+  {
+    "word": "atmosphere",
+    "learned": "false"
+  },
+  {
+    "word": "attach",
+    "learned": "false"
+  },
+  {
+    "word": "attack",
+    "learned": "false"
+  },
+  {
+    "word": "attempt",
+    "learned": "false"
+  },
+  {
+    "word": "attend",
+    "learned": "false"
+  },
+  {
+    "word": "attention",
+    "learned": "false"
+  },
+  {
+    "word": "attitude",
+    "learned": "false"
+  },
+  {
+    "word": "attorney",
+    "learned": "false"
+  },
+  {
+    "word": "attract",
+    "learned": "false"
+  },
+  {
+    "word": "attractive",
+    "learned": "false"
+  },
+  {
+    "word": "attribute",
+    "learned": "false"
+  },
+  {
+    "word": "audience",
+    "learned": "false"
+  },
+  {
+    "word": "author",
+    "learned": "false"
+  },
+  {
+    "word": "authority",
+    "learned": "false"
+  },
+  {
+    "word": "auto",
+    "learned": "false"
+  },
+  {
+    "word": "available",
+    "learned": "false"
+  },
+  {
+    "word": "average",
+    "learned": "false"
+  },
+  {
+    "word": "avoid",
+    "learned": "false"
+  },
+  {
+    "word": "award",
+    "learned": "false"
+  },
+  {
+    "word": "aware",
+    "learned": "false"
+  },
+  {
+    "word": "awareness",
+    "learned": "false"
+  },
+  {
+    "word": "away",
+    "learned": "false"
+  },
+  {
+    "word": "awful",
+    "learned": "false"
+  },
+  {
+    "word": "baby",
+    "learned": "false"
+  },
+  {
+    "word": "back",
+    "learned": "false"
+  },
+  {
+    "word": "background",
+    "learned": "false"
+  },
+  {
+    "word": "bad",
+    "learned": "false"
+  },
+  {
+    "word": "badly",
+    "learned": "false"
+  },
+  {
+    "word": "bag",
+    "learned": "false"
+  },
+  {
+    "word": "bake",
+    "learned": "false"
+  },
+  {
+    "word": "balance",
+    "learned": "false"
+  },
+  {
+    "word": "ball",
+    "learned": "false"
+  },
+  {
+    "word": "ban",
+    "learned": "false"
+  },
+  {
+    "word": "band",
+    "learned": "false"
+  },
+  {
+    "word": "bank",
+    "learned": "false"
+  },
+  {
+    "word": "bar",
+    "learned": "false"
+  },
+  {
+    "word": "barely",
+    "learned": "false"
+  },
+  {
+    "word": "barrel",
+    "learned": "false"
+  },
+  {
+    "word": "barrier",
+    "learned": "false"
+  },
+  {
+    "word": "base",
+    "learned": "false"
+  },
+  {
+    "word": "baseball",
+    "learned": "false"
+  },
+  {
+    "word": "basic",
+    "learned": "false"
+  },
+  {
+    "word": "basically",
+    "learned": "false"
+  },
+  {
+    "word": "basis",
+    "learned": "false"
+  },
+  {
+    "word": "basket",
+    "learned": "false"
+  },
+  {
+    "word": "basketball",
+    "learned": "false"
+  },
+  {
+    "word": "bathroom",
+    "learned": "false"
+  },
+  {
+    "word": "battery",
+    "learned": "false"
+  },
+  {
+    "word": "battle",
+    "learned": "false"
+  },
+  {
+    "word": "be",
+    "learned": "false"
+  },
+  {
+    "word": "beach",
+    "learned": "false"
+  },
+  {
+    "word": "bean",
+    "learned": "false"
+  },
+  {
+    "word": "bear",
+    "learned": "false"
+  },
+  {
+    "word": "beat",
+    "learned": "false"
+  },
+  {
+    "word": "beautiful",
+    "learned": "false"
+  },
+  {
+    "word": "beauty",
+    "learned": "false"
+  },
+  {
+    "word": "because",
+    "learned": "false"
+  },
+  {
+    "word": "become",
+    "learned": "false"
+  },
+  {
+    "word": "bed",
+    "learned": "false"
+  },
+  {
+    "word": "bedroom",
+    "learned": "false"
+  },
+  {
+    "word": "beer",
+    "learned": "false"
+  },
+  {
+    "word": "before",
+    "learned": "false"
+  },
+  {
+    "word": "begin",
+    "learned": "false"
+  },
+  {
+    "word": "beginning",
+    "learned": "false"
+  },
+  {
+    "word": "behavior",
+    "learned": "false"
+  },
+  {
+    "word": "behind",
+    "learned": "false"
+  },
+  {
+    "word": "being",
+    "learned": "false"
+  },
+  {
+    "word": "belief",
+    "learned": "false"
+  },
+  {
+    "word": "believe",
+    "learned": "false"
+  },
+  {
+    "word": "bell",
+    "learned": "false"
+  },
+  {
+    "word": "belong",
+    "learned": "false"
+  },
+  {
+    "word": "below",
+    "learned": "false"
+  },
+  {
+    "word": "belt",
+    "learned": "false"
+  },
+  {
+    "word": "bench",
+    "learned": "false"
+  },
+  {
+    "word": "bend",
+    "learned": "false"
+  },
+  {
+    "word": "beneath",
+    "learned": "false"
+  },
+  {
+    "word": "benefit",
+    "learned": "false"
+  },
+  {
+    "word": "beside",
+    "learned": "false"
+  },
+  {
+    "word": "besides",
+    "learned": "false"
+  },
+  {
+    "word": "best",
+    "learned": "false"
+  },
+  {
+    "word": "bet",
+    "learned": "false"
+  },
+  {
+    "word": "better",
+    "learned": "false"
+  },
+  {
+    "word": "between",
+    "learned": "false"
+  },
+  {
+    "word": "beyond",
+    "learned": "false"
+  },
+  {
+    "word": "Bible",
+    "learned": "false"
+  },
+  {
+    "word": "big",
+    "learned": "false"
+  },
+  {
+    "word": "bike",
+    "learned": "false"
+  },
+  {
+    "word": "bill",
+    "learned": "false"
+  },
+  {
+    "word": "billion",
+    "learned": "false"
+  },
+  {
+    "word": "bind",
+    "learned": "false"
+  },
+  {
+    "word": "biological",
+    "learned": "false"
+  },
+  {
+    "word": "bird",
+    "learned": "false"
+  },
+  {
+    "word": "birth",
+    "learned": "false"
+  },
+  {
+    "word": "birthday",
+    "learned": "false"
+  },
+  {
+    "word": "bit",
+    "learned": "false"
+  },
+  {
+    "word": "bite",
+    "learned": "false"
+  },
+  {
+    "word": "black",
+    "learned": "false"
+  },
+  {
+    "word": "blade",
+    "learned": "false"
+  },
+  {
+    "word": "blame",
+    "learned": "false"
+  },
+  {
+    "word": "blanket",
+    "learned": "false"
+  },
+  {
+    "word": "blind",
+    "learned": "false"
+  },
+  {
+    "word": "block",
+    "learned": "false"
+  },
+  {
+    "word": "blood",
+    "learned": "false"
+  },
+  {
+    "word": "blow",
+    "learned": "false"
+  },
+  {
+    "word": "blue",
+    "learned": "false"
+  },
+  {
+    "word": "board",
+    "learned": "false"
+  },
+  {
+    "word": "boat",
+    "learned": "false"
+  },
+  {
+    "word": "body",
+    "learned": "false"
+  },
+  {
+    "word": "bomb",
+    "learned": "false"
+  },
+  {
+    "word": "bombing",
+    "learned": "false"
+  },
+  {
+    "word": "bond",
+    "learned": "false"
+  },
+  {
+    "word": "bone",
+    "learned": "false"
+  },
+  {
+    "word": "book",
+    "learned": "false"
+  },
+  {
+    "word": "boom",
+    "learned": "false"
+  },
+  {
+    "word": "boot",
+    "learned": "false"
+  },
+  {
+    "word": "border",
+    "learned": "false"
+  },
+  {
+    "word": "born",
+    "learned": "false"
+  },
+  {
+    "word": "borrow",
+    "learned": "false"
+  },
+  {
+    "word": "boss",
+    "learned": "false"
+  },
+  {
+    "word": "both",
+    "learned": "false"
+  },
+  {
+    "word": "bother",
+    "learned": "false"
+  },
+  {
+    "word": "bottle",
+    "learned": "false"
+  },
+  {
+    "word": "bottom",
+    "learned": "false"
+  },
+  {
+    "word": "boundary",
+    "learned": "false"
+  },
+  {
+    "word": "bowl",
+    "learned": "false"
+  },
+  {
+    "word": "box",
+    "learned": "false"
+  },
+  {
+    "word": "boy",
+    "learned": "false"
+  },
+  {
+    "word": "boyfriend",
+    "learned": "false"
+  },
+  {
+    "word": "brain",
+    "learned": "false"
+  },
+  {
+    "word": "branch",
+    "learned": "false"
+  },
+  {
+    "word": "brand",
+    "learned": "false"
+  },
+  {
+    "word": "bread",
+    "learned": "false"
+  },
+  {
+    "word": "break",
+    "learned": "false"
+  },
+  {
+    "word": "breakfast",
+    "learned": "false"
+  },
+  {
+    "word": "breast",
+    "learned": "false"
+  },
+  {
+    "word": "breath",
+    "learned": "false"
+  },
+  {
+    "word": "breathe",
+    "learned": "false"
+  },
+  {
+    "word": "brick",
+    "learned": "false"
+  },
+  {
+    "word": "bridge",
+    "learned": "false"
+  },
+  {
+    "word": "brief",
+    "learned": "false"
+  },
+  {
+    "word": "briefly",
+    "learned": "false"
+  },
+  {
+    "word": "bright",
+    "learned": "false"
+  },
+  {
+    "word": "brilliant",
+    "learned": "false"
+  },
+  {
+    "word": "bring",
+    "learned": "false"
+  },
+  {
+    "word": "British",
+    "learned": "false"
+  },
+  {
+    "word": "broad",
+    "learned": "false"
+  },
+  {
+    "word": "broken",
+    "learned": "false"
+  },
+  {
+    "word": "brother",
+    "learned": "false"
+  },
+  {
+    "word": "brown",
+    "learned": "false"
+  },
+  {
+    "word": "brush",
+    "learned": "false"
+  },
+  {
+    "word": "buck",
+    "learned": "false"
+  },
+  {
+    "word": "budget",
+    "learned": "false"
+  },
+  {
+    "word": "build",
+    "learned": "false"
+  },
+  {
+    "word": "building",
+    "learned": "false"
+  },
+  {
+    "word": "bullet",
+    "learned": "false"
+  },
+  {
+    "word": "bunch",
+    "learned": "false"
+  },
+  {
+    "word": "burden",
+    "learned": "false"
+  },
+  {
+    "word": "burn",
+    "learned": "false"
+  },
+  {
+    "word": "bury",
+    "learned": "false"
+  },
+  {
+    "word": "bus",
+    "learned": "false"
+  },
+  {
+    "word": "business",
+    "learned": "false"
+  },
+  {
+    "word": "busy",
+    "learned": "false"
+  },
+  {
+    "word": "but",
+    "learned": "false"
+  },
+  {
+    "word": "butter",
+    "learned": "false"
+  },
+  {
+    "word": "button",
+    "learned": "false"
+  },
+  {
+    "word": "buy",
+    "learned": "false"
+  },
+  {
+    "word": "buyer",
+    "learned": "false"
+  },
+  {
+    "word": "by",
+    "learned": "false"
+  },
+  {
+    "word": "cabin",
+    "learned": "false"
+  },
+  {
+    "word": "cabinet",
+    "learned": "false"
+  },
+  {
+    "word": "cable",
+    "learned": "false"
+  },
+  {
+    "word": "cake",
+    "learned": "false"
+  },
+  {
+    "word": "calculate",
+    "learned": "false"
+  },
+  {
+    "word": "call",
+    "learned": "false"
+  },
+  {
+    "word": "camera",
+    "learned": "false"
+  },
+  {
+    "word": "camp",
+    "learned": "false"
+  },
+  {
+    "word": "campaign",
+    "learned": "false"
+  },
+  {
+    "word": "campus",
+    "learned": "false"
+  },
+  {
+    "word": "can",
+    "learned": "false"
+  },
+  {
+    "word": "Canadian",
+    "learned": "false"
+  },
+  {
+    "word": "cancer",
+    "learned": "false"
+  },
+  {
+    "word": "candidate",
+    "learned": "false"
+  },
+  {
+    "word": "cap",
+    "learned": "false"
+  },
+  {
+    "word": "capability",
+    "learned": "false"
+  },
+  {
+    "word": "capable",
+    "learned": "false"
+  },
+  {
+    "word": "capacity",
+    "learned": "false"
+  },
+  {
+    "word": "capital",
+    "learned": "false"
+  },
+  {
+    "word": "captain",
+    "learned": "false"
+  },
+  {
+    "word": "capture",
+    "learned": "false"
+  },
+  {
+    "word": "car",
+    "learned": "false"
+  },
+  {
+    "word": "carbon",
+    "learned": "false"
+  },
+  {
+    "word": "card",
+    "learned": "false"
+  },
+  {
+    "word": "care",
+    "learned": "false"
+  },
+  {
+    "word": "career",
+    "learned": "false"
+  },
+  {
+    "word": "careful",
+    "learned": "false"
+  },
+  {
+    "word": "carefully",
+    "learned": "false"
+  },
+  {
+    "word": "carrier",
+    "learned": "false"
+  },
+  {
+    "word": "carry",
+    "learned": "false"
+  },
+  {
+    "word": "case",
+    "learned": "false"
+  },
+  {
+    "word": "cash",
+    "learned": "false"
+  },
+  {
+    "word": "cast",
+    "learned": "false"
+  },
+  {
+    "word": "cat",
+    "learned": "false"
+  },
+  {
+    "word": "catch",
+    "learned": "false"
+  },
+  {
+    "word": "category",
+    "learned": "false"
+  },
+  {
+    "word": "Catholic",
+    "learned": "false"
+  },
+  {
+    "word": "cause",
+    "learned": "false"
+  },
+  {
+    "word": "ceiling",
+    "learned": "false"
+  },
+  {
+    "word": "celebrate",
+    "learned": "false"
+  },
+  {
+    "word": "celebration",
+    "learned": "false"
+  },
+  {
+    "word": "celebrity",
+    "learned": "false"
+  },
+  {
+    "word": "cell",
+    "learned": "false"
+  },
+  {
+    "word": "center",
+    "learned": "false"
+  },
+  {
+    "word": "central",
+    "learned": "false"
+  },
+  {
+    "word": "century",
+    "learned": "false"
+  },
+  {
+    "word": "CEO",
+    "learned": "false"
+  },
+  {
+    "word": "ceremony",
+    "learned": "false"
+  },
+  {
+    "word": "certain",
+    "learned": "false"
+  },
+  {
+    "word": "certainly",
+    "learned": "false"
+  },
+  {
+    "word": "chain",
+    "learned": "false"
+  },
+  {
+    "word": "chair",
+    "learned": "false"
+  },
+  {
+    "word": "chairman",
+    "learned": "false"
+  },
+  {
+    "word": "challenge",
+    "learned": "false"
+  },
+  {
+    "word": "chamber",
+    "learned": "false"
+  },
+  {
+    "word": "champion",
+    "learned": "false"
+  },
+  {
+    "word": "championship",
+    "learned": "false"
+  },
+  {
+    "word": "chance",
+    "learned": "false"
+  },
+  {
+    "word": "change",
+    "learned": "false"
+  },
+  {
+    "word": "changing",
+    "learned": "false"
+  },
+  {
+    "word": "channel",
+    "learned": "false"
+  },
+  {
+    "word": "chapter",
+    "learned": "false"
+  },
+  {
+    "word": "character",
+    "learned": "false"
+  },
+  {
+    "word": "characteristic",
+    "learned": "false"
+  },
+  {
+    "word": "characterize",
+    "learned": "false"
+  },
+  {
+    "word": "charge",
+    "learned": "false"
+  },
+  {
+    "word": "charity",
+    "learned": "false"
+  },
+  {
+    "word": "chart",
+    "learned": "false"
+  },
+  {
+    "word": "chase",
+    "learned": "false"
+  },
+  {
+    "word": "cheap",
+    "learned": "false"
+  },
+  {
+    "word": "check",
+    "learned": "false"
+  },
+  {
+    "word": "cheek",
+    "learned": "false"
+  },
+  {
+    "word": "cheese",
+    "learned": "false"
+  },
+  {
+    "word": "chef",
+    "learned": "false"
+  },
+  {
+    "word": "chemical",
+    "learned": "false"
+  },
+  {
+    "word": "chest",
+    "learned": "false"
+  },
+  {
+    "word": "chicken",
+    "learned": "false"
+  },
+  {
+    "word": "chief",
+    "learned": "false"
+  },
+  {
+    "word": "child",
+    "learned": "false"
+  },
+  {
+    "word": "childhood",
+    "learned": "false"
+  },
+  {
+    "word": "Chinese",
+    "learned": "false"
+  },
+  {
+    "word": "chip",
+    "learned": "false"
+  },
+  {
+    "word": "chocolate",
+    "learned": "false"
+  },
+  {
+    "word": "choice",
+    "learned": "false"
+  },
+  {
+    "word": "cholesterol",
+    "learned": "false"
+  },
+  {
+    "word": "choose",
+    "learned": "false"
+  },
+  {
+    "word": "Christian",
+    "learned": "false"
+  },
+  {
+    "word": "Christmas",
+    "learned": "false"
+  },
+  {
+    "word": "church",
+    "learned": "false"
+  },
+  {
+    "word": "cigarette",
+    "learned": "false"
+  },
+  {
+    "word": "circle",
+    "learned": "false"
+  },
+  {
+    "word": "circumstance",
+    "learned": "false"
+  },
+  {
+    "word": "cite",
+    "learned": "false"
+  },
+  {
+    "word": "citizen",
+    "learned": "false"
+  },
+  {
+    "word": "city",
+    "learned": "false"
+  },
+  {
+    "word": "civil",
+    "learned": "false"
+  },
+  {
+    "word": "civilian",
+    "learned": "false"
+  },
+  {
+    "word": "claim",
+    "learned": "false"
+  },
+  {
+    "word": "class",
+    "learned": "false"
+  },
+  {
+    "word": "classic",
+    "learned": "false"
+  },
+  {
+    "word": "classroom",
+    "learned": "false"
+  },
+  {
+    "word": "clean",
+    "learned": "false"
+  },
+  {
+    "word": "clear",
+    "learned": "false"
+  },
+  {
+    "word": "clearly",
+    "learned": "false"
+  },
+  {
+    "word": "client",
+    "learned": "false"
+  },
+  {
+    "word": "climate",
+    "learned": "false"
+  },
+  {
+    "word": "climb",
+    "learned": "false"
+  },
+  {
+    "word": "clinic",
+    "learned": "false"
+  },
+  {
+    "word": "clinical",
+    "learned": "false"
+  },
+  {
+    "word": "clock",
+    "learned": "false"
+  },
+  {
+    "word": "close",
+    "learned": "false"
+  },
+  {
+    "word": "closely",
+    "learned": "false"
+  },
+  {
+    "word": "closer",
+    "learned": "false"
+  },
+  {
+    "word": "clothes",
+    "learned": "false"
+  },
+  {
+    "word": "clothing",
+    "learned": "false"
+  },
+  {
+    "word": "cloud",
+    "learned": "false"
+  },
+  {
+    "word": "club",
+    "learned": "false"
+  },
+  {
+    "word": "clue",
+    "learned": "false"
+  },
+  {
+    "word": "cluster",
+    "learned": "false"
+  },
+  {
+    "word": "coach",
+    "learned": "false"
+  },
+  {
+    "word": "coal",
+    "learned": "false"
+  },
+  {
+    "word": "coalition",
+    "learned": "false"
+  },
+  {
+    "word": "coast",
+    "learned": "false"
+  },
+  {
+    "word": "coat",
+    "learned": "false"
+  },
+  {
+    "word": "code",
+    "learned": "false"
+  },
+  {
+    "word": "coffee",
+    "learned": "false"
+  },
+  {
+    "word": "cognitive",
+    "learned": "false"
+  },
+  {
+    "word": "cold",
+    "learned": "false"
+  },
+  {
+    "word": "collapse",
+    "learned": "false"
+  },
+  {
+    "word": "colleague",
+    "learned": "false"
+  },
+  {
+    "word": "collect",
+    "learned": "false"
+  },
+  {
+    "word": "collection",
+    "learned": "false"
+  },
+  {
+    "word": "collective",
+    "learned": "false"
+  },
+  {
+    "word": "college",
+    "learned": "false"
+  },
+  {
+    "word": "colonial",
+    "learned": "false"
+  },
+  {
+    "word": "color",
+    "learned": "false"
+  },
+  {
+    "word": "column",
+    "learned": "false"
+  },
+  {
+    "word": "combination",
+    "learned": "false"
+  },
+  {
+    "word": "combine",
+    "learned": "false"
+  },
+  {
+    "word": "come",
+    "learned": "false"
+  },
+  {
+    "word": "comedy",
+    "learned": "false"
+  },
+  {
+    "word": "comfort",
+    "learned": "false"
+  },
+  {
+    "word": "comfortable",
+    "learned": "false"
+  },
+  {
+    "word": "command",
+    "learned": "false"
+  },
+  {
+    "word": "commander",
+    "learned": "false"
+  },
+  {
+    "word": "comment",
+    "learned": "false"
+  },
+  {
+    "word": "commercial",
+    "learned": "false"
+  },
+  {
+    "word": "commission",
+    "learned": "false"
+  },
+  {
+    "word": "commit",
+    "learned": "false"
+  },
+  {
+    "word": "commitment",
+    "learned": "false"
+  },
+  {
+    "word": "committee",
+    "learned": "false"
+  },
+  {
+    "word": "common",
+    "learned": "false"
+  },
+  {
+    "word": "communicate",
+    "learned": "false"
+  },
+  {
+    "word": "communication",
+    "learned": "false"
+  },
+  {
+    "word": "community",
+    "learned": "false"
+  },
+  {
+    "word": "company",
+    "learned": "false"
+  },
+  {
+    "word": "compare",
+    "learned": "false"
+  },
+  {
+    "word": "comparison",
+    "learned": "false"
+  },
+  {
+    "word": "compete",
+    "learned": "false"
+  },
+  {
+    "word": "competition",
+    "learned": "false"
+  },
+  {
+    "word": "competitive",
+    "learned": "false"
+  },
+  {
+    "word": "competitor",
+    "learned": "false"
+  },
+  {
+    "word": "complain",
+    "learned": "false"
+  },
+  {
+    "word": "complaint",
+    "learned": "false"
+  },
+  {
+    "word": "complete",
+    "learned": "false"
+  },
+  {
+    "word": "completely",
+    "learned": "false"
+  },
+  {
+    "word": "complex",
+    "learned": "false"
+  },
+  {
+    "word": "complicated",
+    "learned": "false"
+  },
+  {
+    "word": "component",
+    "learned": "false"
+  },
+  {
+    "word": "compose",
+    "learned": "false"
+  },
+  {
+    "word": "composition",
+    "learned": "false"
+  },
+  {
+    "word": "comprehensive",
+    "learned": "false"
+  },
+  {
+    "word": "computer",
+    "learned": "false"
+  },
+  {
+    "word": "concentrate",
+    "learned": "false"
+  },
+  {
+    "word": "concentration",
+    "learned": "false"
+  },
+  {
+    "word": "concept",
+    "learned": "false"
+  },
+  {
+    "word": "concern",
+    "learned": "false"
+  },
+  {
+    "word": "concerned",
+    "learned": "false"
+  },
+  {
+    "word": "concert",
+    "learned": "false"
+  },
+  {
+    "word": "conclude",
+    "learned": "false"
+  },
+  {
+    "word": "conclusion",
+    "learned": "false"
+  },
+  {
+    "word": "concrete",
+    "learned": "false"
+  },
+  {
+    "word": "condition",
+    "learned": "false"
+  },
+  {
+    "word": "conduct",
+    "learned": "false"
+  },
+  {
+    "word": "conference",
+    "learned": "false"
+  },
+  {
+    "word": "confidence",
+    "learned": "false"
+  },
+  {
+    "word": "confident",
+    "learned": "false"
+  },
+  {
+    "word": "confirm",
+    "learned": "false"
+  },
+  {
+    "word": "conflict",
+    "learned": "false"
+  },
+  {
+    "word": "confront",
+    "learned": "false"
+  },
+  {
+    "word": "confusion",
+    "learned": "false"
+  },
+  {
+    "word": "Congress",
+    "learned": "false"
+  },
+  {
+    "word": "congressional",
+    "learned": "false"
+  },
+  {
+    "word": "connect",
+    "learned": "false"
+  },
+  {
+    "word": "connection",
+    "learned": "false"
+  },
+  {
+    "word": "consciousness",
+    "learned": "false"
+  },
+  {
+    "word": "consensus",
+    "learned": "false"
+  },
+  {
+    "word": "consequence",
+    "learned": "false"
+  },
+  {
+    "word": "conservative",
+    "learned": "false"
+  },
+  {
+    "word": "consider",
+    "learned": "false"
+  },
+  {
+    "word": "considerable",
+    "learned": "false"
+  },
+  {
+    "word": "consideration",
+    "learned": "false"
+  },
+  {
+    "word": "consist",
+    "learned": "false"
+  },
+  {
+    "word": "consistent",
+    "learned": "false"
+  },
+  {
+    "word": "constant",
+    "learned": "false"
+  },
+  {
+    "word": "constantly",
+    "learned": "false"
+  },
+  {
+    "word": "constitute",
+    "learned": "false"
+  },
+  {
+    "word": "constitutional",
+    "learned": "false"
+  },
+  {
+    "word": "construct",
+    "learned": "false"
+  },
+  {
+    "word": "construction",
+    "learned": "false"
+  },
+  {
+    "word": "consultant",
+    "learned": "false"
+  },
+  {
+    "word": "consume",
+    "learned": "false"
+  },
+  {
+    "word": "consumer",
+    "learned": "false"
+  },
+  {
+    "word": "consumption",
+    "learned": "false"
+  },
+  {
+    "word": "contact",
+    "learned": "false"
+  },
+  {
+    "word": "contain",
+    "learned": "false"
+  },
+  {
+    "word": "container",
+    "learned": "false"
+  },
+  {
+    "word": "contemporary",
+    "learned": "false"
+  },
+  {
+    "word": "content",
+    "learned": "false"
+  },
+  {
+    "word": "contest",
+    "learned": "false"
+  },
+  {
+    "word": "context",
+    "learned": "false"
+  },
+  {
+    "word": "continue",
+    "learned": "false"
+  },
+  {
+    "word": "continued",
+    "learned": "false"
+  },
+  {
+    "word": "contract",
+    "learned": "false"
+  },
+  {
+    "word": "contrast",
+    "learned": "false"
+  },
+  {
+    "word": "contribute",
+    "learned": "false"
+  },
+  {
+    "word": "contribution",
+    "learned": "false"
+  },
+  {
+    "word": "control",
+    "learned": "false"
+  },
+  {
+    "word": "controversial",
+    "learned": "false"
+  },
+  {
+    "word": "controversy",
+    "learned": "false"
+  },
+  {
+    "word": "convention",
+    "learned": "false"
+  },
+  {
+    "word": "conventional",
+    "learned": "false"
+  },
+  {
+    "word": "conversation",
+    "learned": "false"
+  },
+  {
+    "word": "convert",
+    "learned": "false"
+  },
+  {
+    "word": "conviction",
+    "learned": "false"
+  },
+  {
+    "word": "convince",
+    "learned": "false"
+  },
+  {
+    "word": "cook",
+    "learned": "false"
+  },
+  {
+    "word": "cookie",
+    "learned": "false"
+  },
+  {
+    "word": "cooking",
+    "learned": "false"
+  },
+  {
+    "word": "cool",
+    "learned": "false"
+  },
+  {
+    "word": "cooperation",
+    "learned": "false"
+  },
+  {
+    "word": "cop",
+    "learned": "false"
+  },
+  {
+    "word": "cope",
+    "learned": "false"
+  },
+  {
+    "word": "copy",
+    "learned": "false"
+  },
+  {
+    "word": "core",
+    "learned": "false"
+  },
+  {
+    "word": "corn",
+    "learned": "false"
+  },
+  {
+    "word": "corner",
+    "learned": "false"
+  },
+  {
+    "word": "corporate",
+    "learned": "false"
+  },
+  {
+    "word": "corporation",
+    "learned": "false"
+  },
+  {
+    "word": "correct",
+    "learned": "false"
+  },
+  {
+    "word": "correspondent",
+    "learned": "false"
+  },
+  {
+    "word": "cost",
+    "learned": "false"
+  },
+  {
+    "word": "cotton",
+    "learned": "false"
+  },
+  {
+    "word": "couch",
+    "learned": "false"
+  },
+  {
+    "word": "could",
+    "learned": "false"
+  },
+  {
+    "word": "council",
+    "learned": "false"
+  },
+  {
+    "word": "counselor",
+    "learned": "false"
+  },
+  {
+    "word": "count",
+    "learned": "false"
+  },
+  {
+    "word": "counter",
+    "learned": "false"
+  },
+  {
+    "word": "country",
+    "learned": "false"
+  },
+  {
+    "word": "county",
+    "learned": "false"
+  },
+  {
+    "word": "couple",
+    "learned": "false"
+  },
+  {
+    "word": "courage",
+    "learned": "false"
+  },
+  {
+    "word": "course",
+    "learned": "false"
+  },
+  {
+    "word": "court",
+    "learned": "false"
+  },
+  {
+    "word": "cousin",
+    "learned": "false"
+  },
+  {
+    "word": "cover",
+    "learned": "false"
+  },
+  {
+    "word": "coverage",
+    "learned": "false"
+  },
+  {
+    "word": "cow",
+    "learned": "false"
+  },
+  {
+    "word": "crack",
+    "learned": "false"
+  },
+  {
+    "word": "craft",
+    "learned": "false"
+  },
+  {
+    "word": "crash",
+    "learned": "false"
+  },
+  {
+    "word": "crazy",
+    "learned": "false"
+  },
+  {
+    "word": "cream",
+    "learned": "false"
+  },
+  {
+    "word": "create",
+    "learned": "false"
+  },
+  {
+    "word": "creation",
+    "learned": "false"
+  },
+  {
+    "word": "creative",
+    "learned": "false"
+  },
+  {
+    "word": "creature",
+    "learned": "false"
+  },
+  {
+    "word": "credit",
+    "learned": "false"
+  },
+  {
+    "word": "crew",
+    "learned": "false"
+  },
+  {
+    "word": "crime",
+    "learned": "false"
+  },
+  {
+    "word": "criminal",
+    "learned": "false"
+  },
+  {
+    "word": "crisis",
+    "learned": "false"
+  },
+  {
+    "word": "criteria",
+    "learned": "false"
+  },
+  {
+    "word": "critic",
+    "learned": "false"
+  },
+  {
+    "word": "critical",
+    "learned": "false"
+  },
+  {
+    "word": "criticism",
+    "learned": "false"
+  },
+  {
+    "word": "criticize",
+    "learned": "false"
+  },
+  {
+    "word": "crop",
+    "learned": "false"
+  },
+  {
+    "word": "cross",
+    "learned": "false"
+  },
+  {
+    "word": "crowd",
+    "learned": "false"
+  },
+  {
+    "word": "crucial",
+    "learned": "false"
+  },
+  {
+    "word": "cry",
+    "learned": "false"
+  },
+  {
+    "word": "cultural",
+    "learned": "false"
+  },
+  {
+    "word": "culture",
+    "learned": "false"
+  },
+  {
+    "word": "cup",
+    "learned": "false"
+  },
+  {
+    "word": "curious",
+    "learned": "false"
+  },
+  {
+    "word": "current",
+    "learned": "false"
+  },
+  {
+    "word": "currently",
+    "learned": "false"
+  },
+  {
+    "word": "curriculum",
+    "learned": "false"
+  },
+  {
+    "word": "custom",
+    "learned": "false"
+  },
+  {
+    "word": "customer",
+    "learned": "false"
+  },
+  {
+    "word": "cut",
+    "learned": "false"
+  },
+  {
+    "word": "cycle",
+    "learned": "false"
+  },
+  {
+    "word": "dad",
+    "learned": "false"
+  },
+  {
+    "word": "daily",
+    "learned": "false"
+  },
+  {
+    "word": "damage",
+    "learned": "false"
+  },
+  {
+    "word": "dance",
+    "learned": "false"
+  },
+  {
+    "word": "danger",
+    "learned": "false"
+  },
+  {
+    "word": "dangerous",
+    "learned": "false"
+  },
+  {
+    "word": "dare",
+    "learned": "false"
+  },
+  {
+    "word": "dark",
+    "learned": "false"
+  },
+  {
+    "word": "darkness",
+    "learned": "false"
+  },
+  {
+    "word": "data",
+    "learned": "false"
+  },
+  {
+    "word": "date",
+    "learned": "false"
+  },
+  {
+    "word": "daughter",
+    "learned": "false"
+  },
+  {
+    "word": "day",
+    "learned": "false"
+  },
+  {
+    "word": "dead",
+    "learned": "false"
+  },
+  {
+    "word": "deal",
+    "learned": "false"
+  },
+  {
+    "word": "dealer",
+    "learned": "false"
+  },
+  {
+    "word": "dear",
+    "learned": "false"
+  },
+  {
+    "word": "death",
+    "learned": "false"
+  },
+  {
+    "word": "debate",
+    "learned": "false"
+  },
+  {
+    "word": "debt",
+    "learned": "false"
+  },
+  {
+    "word": "decade",
+    "learned": "false"
+  },
+  {
+    "word": "decide",
+    "learned": "false"
+  },
+  {
+    "word": "decision",
+    "learned": "false"
+  },
+  {
+    "word": "deck",
+    "learned": "false"
+  },
+  {
+    "word": "declare",
+    "learned": "false"
+  },
+  {
+    "word": "decline",
+    "learned": "false"
+  },
+  {
+    "word": "decrease",
+    "learned": "false"
+  },
+  {
+    "word": "deep",
+    "learned": "false"
+  },
+  {
+    "word": "deeply",
+    "learned": "false"
+  },
+  {
+    "word": "deer",
+    "learned": "false"
+  },
+  {
+    "word": "defeat",
+    "learned": "false"
+  },
+  {
+    "word": "defend",
+    "learned": "false"
+  },
+  {
+    "word": "defendant",
+    "learned": "false"
+  },
+  {
+    "word": "defense",
+    "learned": "false"
+  },
+  {
+    "word": "defensive",
+    "learned": "false"
+  },
+  {
+    "word": "deficit",
+    "learned": "false"
+  },
+  {
+    "word": "define",
+    "learned": "false"
+  },
+  {
+    "word": "definitely",
+    "learned": "false"
+  },
+  {
+    "word": "definition",
+    "learned": "false"
+  },
+  {
+    "word": "degree",
+    "learned": "false"
+  },
+  {
+    "word": "delay",
+    "learned": "false"
+  },
+  {
+    "word": "deliver",
+    "learned": "false"
+  },
+  {
+    "word": "delivery",
+    "learned": "false"
+  },
+  {
+    "word": "demand",
+    "learned": "false"
+  },
+  {
+    "word": "democracy",
+    "learned": "false"
+  },
+  {
+    "word": "Democrat",
+    "learned": "false"
+  },
+  {
+    "word": "democratic",
+    "learned": "false"
+  },
+  {
+    "word": "demonstrate",
+    "learned": "false"
+  },
+  {
+    "word": "demonstration",
+    "learned": "false"
+  },
+  {
+    "word": "deny",
+    "learned": "false"
+  },
+  {
+    "word": "department",
+    "learned": "false"
+  },
+  {
+    "word": "depend",
+    "learned": "false"
+  },
+  {
+    "word": "dependent",
+    "learned": "false"
+  },
+  {
+    "word": "depending",
+    "learned": "false"
+  },
+  {
+    "word": "depict",
+    "learned": "false"
+  },
+  {
+    "word": "depression",
+    "learned": "false"
+  },
+  {
+    "word": "depth",
+    "learned": "false"
+  },
+  {
+    "word": "deputy",
+    "learned": "false"
+  },
+  {
+    "word": "derive",
+    "learned": "false"
+  },
+  {
+    "word": "describe",
+    "learned": "false"
+  },
+  {
+    "word": "description",
+    "learned": "false"
+  },
+  {
+    "word": "desert",
+    "learned": "false"
+  },
+  {
+    "word": "deserve",
+    "learned": "false"
+  },
+  {
+    "word": "design",
+    "learned": "false"
+  },
+  {
+    "word": "designer",
+    "learned": "false"
+  },
+  {
+    "word": "desire",
+    "learned": "false"
+  },
+  {
+    "word": "desk",
+    "learned": "false"
+  },
+  {
+    "word": "desperate",
+    "learned": "false"
+  },
+  {
+    "word": "despite",
+    "learned": "false"
+  },
+  {
+    "word": "destroy",
+    "learned": "false"
+  },
+  {
+    "word": "destruction",
+    "learned": "false"
+  },
+  {
+    "word": "detail",
+    "learned": "false"
+  },
+  {
+    "word": "detailed",
+    "learned": "false"
+  },
+  {
+    "word": "detect",
+    "learned": "false"
+  },
+  {
+    "word": "determine",
+    "learned": "false"
+  },
+  {
+    "word": "develop",
+    "learned": "false"
+  },
+  {
+    "word": "developing",
+    "learned": "false"
+  },
+  {
+    "word": "development",
+    "learned": "false"
+  },
+  {
+    "word": "device",
+    "learned": "false"
+  },
+  {
+    "word": "devote",
+    "learned": "false"
+  },
+  {
+    "word": "dialogue",
+    "learned": "false"
+  },
+  {
+    "word": "die",
+    "learned": "false"
+  },
+  {
+    "word": "diet",
+    "learned": "false"
+  },
+  {
+    "word": "differ",
+    "learned": "false"
+  },
+  {
+    "word": "difference",
+    "learned": "false"
+  },
+  {
+    "word": "different",
+    "learned": "false"
+  },
+  {
+    "word": "differently",
+    "learned": "false"
+  },
+  {
+    "word": "difficult",
+    "learned": "false"
+  },
+  {
+    "word": "difficulty",
+    "learned": "false"
+  },
+  {
+    "word": "dig",
+    "learned": "false"
+  },
+  {
+    "word": "digital",
+    "learned": "false"
+  },
+  {
+    "word": "dimension",
+    "learned": "false"
+  },
+  {
+    "word": "dining",
+    "learned": "false"
+  },
+  {
+    "word": "dinner",
+    "learned": "false"
+  },
+  {
+    "word": "direct",
+    "learned": "false"
+  },
+  {
+    "word": "direction",
+    "learned": "false"
+  },
+  {
+    "word": "directly",
+    "learned": "false"
+  },
+  {
+    "word": "director",
+    "learned": "false"
+  },
+  {
+    "word": "dirt",
+    "learned": "false"
+  },
+  {
+    "word": "dirty",
+    "learned": "false"
+  },
+  {
+    "word": "disability",
+    "learned": "false"
+  },
+  {
+    "word": "disagree",
+    "learned": "false"
+  },
+  {
+    "word": "disappear",
+    "learned": "false"
+  },
+  {
+    "word": "disaster",
+    "learned": "false"
+  },
+  {
+    "word": "discipline",
+    "learned": "false"
+  },
+  {
+    "word": "discourse",
+    "learned": "false"
+  },
+  {
+    "word": "discover",
+    "learned": "false"
+  },
+  {
+    "word": "discovery",
+    "learned": "false"
+  },
+  {
+    "word": "discrimination",
+    "learned": "false"
+  },
+  {
+    "word": "discuss",
+    "learned": "false"
+  },
+  {
+    "word": "discussion",
+    "learned": "false"
+  },
+  {
+    "word": "disease",
+    "learned": "false"
+  },
+  {
+    "word": "dish",
+    "learned": "false"
+  },
+  {
+    "word": "dismiss",
+    "learned": "false"
+  },
+  {
+    "word": "disorder",
+    "learned": "false"
+  },
+  {
+    "word": "display",
+    "learned": "false"
+  },
+  {
+    "word": "dispute",
+    "learned": "false"
+  },
+  {
+    "word": "distance",
+    "learned": "false"
+  },
+  {
+    "word": "distant",
+    "learned": "false"
+  },
+  {
+    "word": "distinct",
+    "learned": "false"
+  },
+  {
+    "word": "distinction",
+    "learned": "false"
+  },
+  {
+    "word": "distinguish",
+    "learned": "false"
+  },
+  {
+    "word": "distribute",
+    "learned": "false"
+  },
+  {
+    "word": "distribution",
+    "learned": "false"
+  },
+  {
+    "word": "district",
+    "learned": "false"
+  },
+  {
+    "word": "diverse",
+    "learned": "false"
+  },
+  {
+    "word": "diversity",
+    "learned": "false"
+  },
+  {
+    "word": "divide",
+    "learned": "false"
+  },
+  {
+    "word": "division",
+    "learned": "false"
+  },
+  {
+    "word": "divorce",
+    "learned": "false"
+  },
+  {
+    "word": "DNA",
+    "learned": "false"
+  },
+  {
+    "word": "do",
+    "learned": "false"
+  },
+  {
+    "word": "doctor",
+    "learned": "false"
+  },
+  {
+    "word": "document",
+    "learned": "false"
+  },
+  {
+    "word": "dog",
+    "learned": "false"
+  },
+  {
+    "word": "domestic",
+    "learned": "false"
+  },
+  {
+    "word": "dominant",
+    "learned": "false"
+  },
+  {
+    "word": "dominate",
+    "learned": "false"
+  },
+  {
+    "word": "door",
+    "learned": "false"
+  },
+  {
+    "word": "double",
+    "learned": "false"
+  },
+  {
+    "word": "doubt",
+    "learned": "false"
+  },
+  {
+    "word": "down",
+    "learned": "false"
+  },
+  {
+    "word": "downtown",
+    "learned": "false"
+  },
+  {
+    "word": "dozen",
+    "learned": "false"
+  },
+  {
+    "word": "draft",
+    "learned": "false"
+  },
+  {
+    "word": "drag",
+    "learned": "false"
+  },
+  {
+    "word": "drama",
+    "learned": "false"
+  },
+  {
+    "word": "dramatic",
+    "learned": "false"
+  },
+  {
+    "word": "dramatically",
+    "learned": "false"
+  },
+  {
+    "word": "draw",
+    "learned": "false"
+  },
+  {
+    "word": "drawing",
+    "learned": "false"
+  },
+  {
+    "word": "dream",
+    "learned": "false"
+  },
+  {
+    "word": "dress",
+    "learned": "false"
+  },
+  {
+    "word": "drink",
+    "learned": "false"
+  },
+  {
+    "word": "drive",
+    "learned": "false"
+  },
+  {
+    "word": "driver",
+    "learned": "false"
+  },
+  {
+    "word": "drop",
+    "learned": "false"
+  },
+  {
+    "word": "drug",
+    "learned": "false"
+  },
+  {
+    "word": "dry",
+    "learned": "false"
+  },
+  {
+    "word": "due",
+    "learned": "false"
+  },
+  {
+    "word": "during",
+    "learned": "false"
+  },
+  {
+    "word": "dust",
+    "learned": "false"
+  },
+  {
+    "word": "duty",
+    "learned": "false"
+  },
+  {
+    "word": "each",
+    "learned": "false"
+  },
+  {
+    "word": "eager",
+    "learned": "false"
+  },
+  {
+    "word": "ear",
+    "learned": "false"
+  },
+  {
+    "word": "early",
+    "learned": "false"
+  },
+  {
+    "word": "earn",
+    "learned": "false"
+  },
+  {
+    "word": "earnings",
+    "learned": "false"
+  },
+  {
+    "word": "earth",
+    "learned": "false"
+  },
+  {
+    "word": "ease",
+    "learned": "false"
+  },
+  {
+    "word": "easily",
+    "learned": "false"
+  },
+  {
+    "word": "east",
+    "learned": "false"
+  },
+  {
+    "word": "eastern",
+    "learned": "false"
+  },
+  {
+    "word": "easy",
+    "learned": "false"
+  },
+  {
+    "word": "eat",
+    "learned": "false"
+  },
+  {
+    "word": "economic",
+    "learned": "false"
+  },
+  {
+    "word": "economics",
+    "learned": "false"
+  },
+  {
+    "word": "economist",
+    "learned": "false"
+  },
+  {
+    "word": "economy",
+    "learned": "false"
+  },
+  {
+    "word": "edge",
+    "learned": "false"
+  },
+  {
+    "word": "edition",
+    "learned": "false"
+  },
+  {
+    "word": "editor",
+    "learned": "false"
+  },
+  {
+    "word": "educate",
+    "learned": "false"
+  },
+  {
+    "word": "education",
+    "learned": "false"
+  },
+  {
+    "word": "educational",
+    "learned": "false"
+  },
+  {
+    "word": "educator",
+    "learned": "false"
+  },
+  {
+    "word": "effect",
+    "learned": "false"
+  },
+  {
+    "word": "effective",
+    "learned": "false"
+  },
+  {
+    "word": "effectively",
+    "learned": "false"
+  },
+  {
+    "word": "efficiency",
+    "learned": "false"
+  },
+  {
+    "word": "efficient",
+    "learned": "false"
+  },
+  {
+    "word": "effort",
+    "learned": "false"
+  },
+  {
+    "word": "egg",
+    "learned": "false"
+  },
+  {
+    "word": "eight",
+    "learned": "false"
+  },
+  {
+    "word": "either",
+    "learned": "false"
+  },
+  {
+    "word": "elderly",
+    "learned": "false"
+  },
+  {
+    "word": "elect",
+    "learned": "false"
+  },
+  {
+    "word": "election",
+    "learned": "false"
+  },
+  {
+    "word": "electric",
+    "learned": "false"
+  },
+  {
+    "word": "electricity",
+    "learned": "false"
+  },
+  {
+    "word": "electronic",
+    "learned": "false"
+  },
+  {
+    "word": "element",
+    "learned": "false"
+  },
+  {
+    "word": "elementary",
+    "learned": "false"
+  },
+  {
+    "word": "eliminate",
+    "learned": "false"
+  },
+  {
+    "word": "elite",
+    "learned": "false"
+  },
+  {
+    "word": "else",
+    "learned": "false"
+  },
+  {
+    "word": "elsewhere",
+    "learned": "false"
+  },
+  {
+    "word": "e-mail",
+    "learned": "false"
+  },
+  {
+    "word": "embrace",
+    "learned": "false"
+  },
+  {
+    "word": "emerge",
+    "learned": "false"
+  },
+  {
+    "word": "emergency",
+    "learned": "false"
+  },
+  {
+    "word": "emission",
+    "learned": "false"
+  },
+  {
+    "word": "emotion",
+    "learned": "false"
+  },
+  {
+    "word": "emotional",
+    "learned": "false"
+  },
+  {
+    "word": "emphasis",
+    "learned": "false"
+  },
+  {
+    "word": "emphasize",
+    "learned": "false"
+  },
+  {
+    "word": "employ",
+    "learned": "false"
+  },
+  {
+    "word": "employee",
+    "learned": "false"
+  },
+  {
+    "word": "employer",
+    "learned": "false"
+  },
+  {
+    "word": "employment",
+    "learned": "false"
+  },
+  {
+    "word": "empty",
+    "learned": "false"
+  },
+  {
+    "word": "enable",
+    "learned": "false"
+  },
+  {
+    "word": "encounter",
+    "learned": "false"
+  },
+  {
+    "word": "encourage",
+    "learned": "false"
+  },
+  {
+    "word": "end",
+    "learned": "false"
+  },
+  {
+    "word": "enemy",
+    "learned": "false"
+  },
+  {
+    "word": "energy",
+    "learned": "false"
+  },
+  {
+    "word": "enforcement",
+    "learned": "false"
+  },
+  {
+    "word": "engage",
+    "learned": "false"
+  },
+  {
+    "word": "engine",
+    "learned": "false"
+  },
+  {
+    "word": "engineer",
+    "learned": "false"
+  },
+  {
+    "word": "engineering",
+    "learned": "false"
+  },
+  {
+    "word": "English",
+    "learned": "false"
+  },
+  {
+    "word": "enhance",
+    "learned": "false"
+  },
+  {
+    "word": "enjoy",
+    "learned": "false"
+  },
+  {
+    "word": "enormous",
+    "learned": "false"
+  },
+  {
+    "word": "enough",
+    "learned": "false"
+  },
+  {
+    "word": "ensure",
+    "learned": "false"
+  },
+  {
+    "word": "enter",
+    "learned": "false"
+  },
+  {
+    "word": "enterprise",
+    "learned": "false"
+  },
+  {
+    "word": "entertainment",
+    "learned": "false"
+  },
+  {
+    "word": "entire",
+    "learned": "false"
+  },
+  {
+    "word": "entirely",
+    "learned": "false"
+  },
+  {
+    "word": "entrance",
+    "learned": "false"
+  },
+  {
+    "word": "entry",
+    "learned": "false"
+  },
+  {
+    "word": "environment",
+    "learned": "false"
+  },
+  {
+    "word": "environmental",
+    "learned": "false"
+  },
+  {
+    "word": "episode",
+    "learned": "false"
+  },
+  {
+    "word": "equal",
+    "learned": "false"
+  },
+  {
+    "word": "equally",
+    "learned": "false"
+  },
+  {
+    "word": "equipment",
+    "learned": "false"
+  },
+  {
+    "word": "era",
+    "learned": "false"
+  },
+  {
+    "word": "error",
+    "learned": "false"
+  },
+  {
+    "word": "escape",
+    "learned": "false"
+  },
+  {
+    "word": "especially",
+    "learned": "false"
+  },
+  {
+    "word": "essay",
+    "learned": "false"
+  },
+  {
+    "word": "essential",
+    "learned": "false"
+  },
+  {
+    "word": "essentially",
+    "learned": "false"
+  },
+  {
+    "word": "establish",
+    "learned": "false"
+  },
+  {
+    "word": "establishment",
+    "learned": "false"
+  },
+  {
+    "word": "estate",
+    "learned": "false"
+  },
+  {
+    "word": "estimate",
+    "learned": "false"
+  },
+  {
+    "word": "etc",
+    "learned": "false"
+  },
+  {
+    "word": "ethics",
+    "learned": "false"
+  },
+  {
+    "word": "ethnic",
+    "learned": "false"
+  },
+  {
+    "word": "European",
+    "learned": "false"
+  },
+  {
+    "word": "evaluate",
+    "learned": "false"
+  },
+  {
+    "word": "evaluation",
+    "learned": "false"
+  },
+  {
+    "word": "even",
+    "learned": "false"
+  },
+  {
+    "word": "evening",
+    "learned": "false"
+  },
+  {
+    "word": "event",
+    "learned": "false"
+  },
+  {
+    "word": "eventually",
+    "learned": "false"
+  },
+  {
+    "word": "ever",
+    "learned": "false"
+  },
+  {
+    "word": "every",
+    "learned": "false"
+  },
+  {
+    "word": "everybody",
+    "learned": "false"
+  },
+  {
+    "word": "everyday",
+    "learned": "false"
+  },
+  {
+    "word": "everyone",
+    "learned": "false"
+  },
+  {
+    "word": "everything",
+    "learned": "false"
+  },
+  {
+    "word": "everywhere",
+    "learned": "false"
+  },
+  {
+    "word": "evidence",
+    "learned": "false"
+  },
+  {
+    "word": "evolution",
+    "learned": "false"
+  },
+  {
+    "word": "evolve",
+    "learned": "false"
+  },
+  {
+    "word": "exact",
+    "learned": "false"
+  },
+  {
+    "word": "exactly",
+    "learned": "false"
+  },
+  {
+    "word": "examination",
+    "learned": "false"
+  },
+  {
+    "word": "examine",
+    "learned": "false"
+  },
+  {
+    "word": "example",
+    "learned": "false"
+  },
+  {
+    "word": "exceed",
+    "learned": "false"
+  },
+  {
+    "word": "excellent",
+    "learned": "false"
+  },
+  {
+    "word": "except",
+    "learned": "false"
+  },
+  {
+    "word": "exception",
+    "learned": "false"
+  },
+  {
+    "word": "exchange",
+    "learned": "false"
+  },
+  {
+    "word": "exciting",
+    "learned": "false"
+  },
+  {
+    "word": "executive",
+    "learned": "false"
+  },
+  {
+    "word": "exercise",
+    "learned": "false"
+  },
+  {
+    "word": "exhibit",
+    "learned": "false"
+  },
+  {
+    "word": "exhibition",
+    "learned": "false"
+  },
+  {
+    "word": "exist",
+    "learned": "false"
+  },
+  {
+    "word": "existence",
+    "learned": "false"
+  },
+  {
+    "word": "existing",
+    "learned": "false"
+  },
+  {
+    "word": "expand",
+    "learned": "false"
+  },
+  {
+    "word": "expansion",
+    "learned": "false"
+  },
+  {
+    "word": "expect",
+    "learned": "false"
+  },
+  {
+    "word": "expectation",
+    "learned": "false"
+  },
+  {
+    "word": "expense",
+    "learned": "false"
+  },
+  {
+    "word": "expensive",
+    "learned": "false"
+  },
+  {
+    "word": "experience",
+    "learned": "false"
+  },
+  {
+    "word": "experiment",
+    "learned": "false"
+  },
+  {
+    "word": "expert",
+    "learned": "false"
+  },
+  {
+    "word": "explain",
+    "learned": "false"
+  },
+  {
+    "word": "explanation",
+    "learned": "false"
+  },
+  {
+    "word": "explode",
+    "learned": "false"
+  },
+  {
+    "word": "explore",
+    "learned": "false"
+  },
+  {
+    "word": "explosion",
+    "learned": "false"
+  },
+  {
+    "word": "expose",
+    "learned": "false"
+  },
+  {
+    "word": "exposure",
+    "learned": "false"
+  },
+  {
+    "word": "express",
+    "learned": "false"
+  },
+  {
+    "word": "expression",
+    "learned": "false"
+  },
+  {
+    "word": "extend",
+    "learned": "false"
+  },
+  {
+    "word": "extension",
+    "learned": "false"
+  },
+  {
+    "word": "extensive",
+    "learned": "false"
+  },
+  {
+    "word": "extent",
+    "learned": "false"
+  },
+  {
+    "word": "external",
+    "learned": "false"
+  },
+  {
+    "word": "extra",
+    "learned": "false"
+  },
+  {
+    "word": "extraordinary",
+    "learned": "false"
+  },
+  {
+    "word": "extreme",
+    "learned": "false"
+  },
+  {
+    "word": "extremely",
+    "learned": "false"
+  },
+  {
+    "word": "eye",
+    "learned": "false"
+  },
+  {
+    "word": "fabric",
+    "learned": "false"
+  },
+  {
+    "word": "face",
+    "learned": "false"
+  },
+  {
+    "word": "facility",
+    "learned": "false"
+  },
+  {
+    "word": "fact",
+    "learned": "false"
+  },
+  {
+    "word": "factor",
+    "learned": "false"
+  },
+  {
+    "word": "factory",
+    "learned": "false"
+  },
+  {
+    "word": "faculty",
+    "learned": "false"
+  },
+  {
+    "word": "fade",
+    "learned": "false"
+  },
+  {
+    "word": "fail",
+    "learned": "false"
+  },
+  {
+    "word": "failure",
+    "learned": "false"
+  },
+  {
+    "word": "fair",
+    "learned": "false"
+  },
+  {
+    "word": "fairly",
+    "learned": "false"
+  },
+  {
+    "word": "faith",
+    "learned": "false"
+  },
+  {
+    "word": "fall",
+    "learned": "false"
+  },
+  {
+    "word": "false",
+    "learned": "false"
+  },
+  {
+    "word": "familiar",
+    "learned": "false"
+  },
+  {
+    "word": "family",
+    "learned": "false"
+  },
+  {
+    "word": "famous",
+    "learned": "false"
+  },
+  {
+    "word": "fan",
+    "learned": "false"
+  },
+  {
+    "word": "fantasy",
+    "learned": "false"
+  },
+  {
+    "word": "far",
+    "learned": "false"
+  },
+  {
+    "word": "farm",
+    "learned": "false"
+  },
+  {
+    "word": "farmer",
+    "learned": "false"
+  },
+  {
+    "word": "fashion",
+    "learned": "false"
+  },
+  {
+    "word": "fast",
+    "learned": "false"
+  },
+  {
+    "word": "fat",
+    "learned": "false"
+  },
+  {
+    "word": "fate",
+    "learned": "false"
+  },
+  {
+    "word": "father",
+    "learned": "false"
+  },
+  {
+    "word": "fault",
+    "learned": "false"
+  },
+  {
+    "word": "favor",
+    "learned": "false"
+  },
+  {
+    "word": "favorite",
+    "learned": "false"
+  },
+  {
+    "word": "fear",
+    "learned": "false"
+  },
+  {
+    "word": "feature",
+    "learned": "false"
+  },
+  {
+    "word": "federal",
+    "learned": "false"
+  },
+  {
+    "word": "fee",
+    "learned": "false"
+  },
+  {
+    "word": "feed",
+    "learned": "false"
+  },
+  {
+    "word": "feel",
+    "learned": "false"
+  },
+  {
+    "word": "feeling",
+    "learned": "false"
+  },
+  {
+    "word": "fellow",
+    "learned": "false"
+  },
+  {
+    "word": "female",
+    "learned": "false"
+  },
+  {
+    "word": "fence",
+    "learned": "false"
+  },
+  {
+    "word": "few",
+    "learned": "false"
+  },
+  {
+    "word": "fewer",
+    "learned": "false"
+  },
+  {
+    "word": "fiber",
+    "learned": "false"
+  },
+  {
+    "word": "fiction",
+    "learned": "false"
+  },
+  {
+    "word": "field",
+    "learned": "false"
+  },
+  {
+    "word": "fifteen",
+    "learned": "false"
+  },
+  {
+    "word": "fifth",
+    "learned": "false"
+  },
+  {
+    "word": "fifty",
+    "learned": "false"
+  },
+  {
+    "word": "fight",
+    "learned": "false"
+  },
+  {
+    "word": "fighter",
+    "learned": "false"
+  },
+  {
+    "word": "fighting",
+    "learned": "false"
+  },
+  {
+    "word": "figure",
+    "learned": "false"
+  },
+  {
+    "word": "file",
+    "learned": "false"
+  },
+  {
+    "word": "fill",
+    "learned": "false"
+  },
+  {
+    "word": "film",
+    "learned": "false"
+  },
+  {
+    "word": "final",
+    "learned": "false"
+  },
+  {
+    "word": "finally",
+    "learned": "false"
+  },
+  {
+    "word": "finance",
+    "learned": "false"
+  },
+  {
+    "word": "financial",
+    "learned": "false"
+  },
+  {
+    "word": "find",
+    "learned": "false"
+  },
+  {
+    "word": "finding",
+    "learned": "false"
+  },
+  {
+    "word": "fine",
+    "learned": "false"
+  },
+  {
+    "word": "finger",
+    "learned": "false"
+  },
+  {
+    "word": "finish",
+    "learned": "false"
+  },
+  {
+    "word": "fire",
+    "learned": "false"
+  },
+  {
+    "word": "firm",
+    "learned": "false"
+  },
+  {
+    "word": "first",
+    "learned": "false"
+  },
+  {
+    "word": "fish",
+    "learned": "false"
+  },
+  {
+    "word": "fishing",
+    "learned": "false"
+  },
+  {
+    "word": "fit",
+    "learned": "false"
+  },
+  {
+    "word": "fitness",
+    "learned": "false"
+  },
+  {
+    "word": "five",
+    "learned": "false"
+  },
+  {
+    "word": "fix",
+    "learned": "false"
+  },
+  {
+    "word": "flag",
+    "learned": "false"
+  },
+  {
+    "word": "flame",
+    "learned": "false"
+  },
+  {
+    "word": "flat",
+    "learned": "false"
+  },
+  {
+    "word": "flavor",
+    "learned": "false"
+  },
+  {
+    "word": "flee",
+    "learned": "false"
+  },
+  {
+    "word": "flesh",
+    "learned": "false"
+  },
+  {
+    "word": "flight",
+    "learned": "false"
+  },
+  {
+    "word": "float",
+    "learned": "false"
+  },
+  {
+    "word": "floor",
+    "learned": "false"
+  },
+  {
+    "word": "flow",
+    "learned": "false"
+  },
+  {
+    "word": "flower",
+    "learned": "false"
+  },
+  {
+    "word": "fly",
+    "learned": "false"
+  },
+  {
+    "word": "focus",
+    "learned": "false"
+  },
+  {
+    "word": "folk",
+    "learned": "false"
+  },
+  {
+    "word": "follow",
+    "learned": "false"
+  },
+  {
+    "word": "following",
+    "learned": "false"
+  },
+  {
+    "word": "food",
+    "learned": "false"
+  },
+  {
+    "word": "foot",
+    "learned": "false"
+  },
+  {
+    "word": "football",
+    "learned": "false"
+  },
+  {
+    "word": "for",
+    "learned": "false"
+  },
+  {
+    "word": "force",
+    "learned": "false"
+  },
+  {
+    "word": "foreign",
+    "learned": "false"
+  },
+  {
+    "word": "forest",
+    "learned": "false"
+  },
+  {
+    "word": "forever",
+    "learned": "false"
+  },
+  {
+    "word": "forget",
+    "learned": "false"
+  },
+  {
+    "word": "form",
+    "learned": "false"
+  },
+  {
+    "word": "formal",
+    "learned": "false"
+  },
+  {
+    "word": "formation",
+    "learned": "false"
+  },
+  {
+    "word": "former",
+    "learned": "false"
+  },
+  {
+    "word": "formula",
+    "learned": "false"
+  },
+  {
+    "word": "forth",
+    "learned": "false"
+  },
+  {
+    "word": "fortune",
+    "learned": "false"
+  },
+  {
+    "word": "forward",
+    "learned": "false"
+  },
+  {
+    "word": "found",
+    "learned": "false"
+  },
+  {
+    "word": "foundation",
+    "learned": "false"
+  },
+  {
+    "word": "founder",
+    "learned": "false"
+  },
+  {
+    "word": "four",
+    "learned": "false"
+  },
+  {
+    "word": "fourth",
+    "learned": "false"
+  },
+  {
+    "word": "frame",
+    "learned": "false"
+  },
+  {
+    "word": "framework",
+    "learned": "false"
+  },
+  {
+    "word": "free",
+    "learned": "false"
+  },
+  {
+    "word": "freedom",
+    "learned": "false"
+  },
+  {
+    "word": "freeze",
+    "learned": "false"
+  },
+  {
+    "word": "French",
+    "learned": "false"
+  },
+  {
+    "word": "frequency",
+    "learned": "false"
+  },
+  {
+    "word": "frequent",
+    "learned": "false"
+  },
+  {
+    "word": "frequently",
+    "learned": "false"
+  },
+  {
+    "word": "fresh",
+    "learned": "false"
+  },
+  {
+    "word": "friend",
+    "learned": "false"
+  },
+  {
+    "word": "friendly",
+    "learned": "false"
+  },
+  {
+    "word": "friendship",
+    "learned": "false"
+  },
+  {
+    "word": "from",
+    "learned": "false"
+  },
+  {
+    "word": "front",
+    "learned": "false"
+  },
+  {
+    "word": "fruit",
+    "learned": "false"
+  },
+  {
+    "word": "frustration",
+    "learned": "false"
+  },
+  {
+    "word": "fuel",
+    "learned": "false"
+  },
+  {
+    "word": "full",
+    "learned": "false"
+  },
+  {
+    "word": "fully",
+    "learned": "false"
+  },
+  {
+    "word": "fun",
+    "learned": "false"
+  },
+  {
+    "word": "function",
+    "learned": "false"
+  },
+  {
+    "word": "fund",
+    "learned": "false"
+  },
+  {
+    "word": "fundamental",
+    "learned": "false"
+  },
+  {
+    "word": "funding",
+    "learned": "false"
+  },
+  {
+    "word": "funeral",
+    "learned": "false"
+  },
+  {
+    "word": "funny",
+    "learned": "false"
+  },
+  {
+    "word": "furniture",
+    "learned": "false"
+  },
+  {
+    "word": "furthermore",
+    "learned": "false"
+  },
+  {
+    "word": "future",
+    "learned": "false"
+  },
+  {
+    "word": "gain",
+    "learned": "false"
+  },
+  {
+    "word": "galaxy",
+    "learned": "false"
+  },
+  {
+    "word": "gallery",
+    "learned": "false"
+  },
+  {
+    "word": "game",
+    "learned": "false"
+  },
+  {
+    "word": "gang",
+    "learned": "false"
+  },
+  {
+    "word": "gap",
+    "learned": "false"
+  },
+  {
+    "word": "garage",
+    "learned": "false"
+  },
+  {
+    "word": "garden",
+    "learned": "false"
+  },
+  {
+    "word": "garlic",
+    "learned": "false"
+  },
+  {
+    "word": "gas",
+    "learned": "false"
+  },
+  {
+    "word": "gate",
+    "learned": "false"
+  },
+  {
+    "word": "gather",
+    "learned": "false"
+  },
+  {
+    "word": "gay",
+    "learned": "false"
+  },
+  {
+    "word": "gaze",
+    "learned": "false"
+  },
+  {
+    "word": "gear",
+    "learned": "false"
+  },
+  {
+    "word": "gender",
+    "learned": "false"
+  },
+  {
+    "word": "gene",
+    "learned": "false"
+  },
+  {
+    "word": "general",
+    "learned": "false"
+  },
+  {
+    "word": "generally",
+    "learned": "false"
+  },
+  {
+    "word": "generate",
+    "learned": "false"
+  },
+  {
+    "word": "generation",
+    "learned": "false"
+  },
+  {
+    "word": "genetic",
+    "learned": "false"
+  },
+  {
+    "word": "gentleman",
+    "learned": "false"
+  },
+  {
+    "word": "gently",
+    "learned": "false"
+  },
+  {
+    "word": "German",
+    "learned": "false"
+  },
+  {
+    "word": "gesture",
+    "learned": "false"
+  },
+  {
+    "word": "get",
+    "learned": "false"
+  },
+  {
+    "word": "ghost",
+    "learned": "false"
+  },
+  {
+    "word": "giant",
+    "learned": "false"
+  },
+  {
+    "word": "gift",
+    "learned": "false"
+  },
+  {
+    "word": "gifted",
+    "learned": "false"
+  },
+  {
+    "word": "girl",
+    "learned": "false"
+  },
+  {
+    "word": "girlfriend",
+    "learned": "false"
+  },
+  {
+    "word": "give",
+    "learned": "false"
+  },
+  {
+    "word": "given",
+    "learned": "false"
+  },
+  {
+    "word": "glad",
+    "learned": "false"
+  },
+  {
+    "word": "glance",
+    "learned": "false"
+  },
+  {
+    "word": "glass",
+    "learned": "false"
+  },
+  {
+    "word": "global",
+    "learned": "false"
+  },
+  {
+    "word": "glove",
+    "learned": "false"
+  },
+  {
+    "word": "go",
+    "learned": "false"
+  },
+  {
+    "word": "goal",
+    "learned": "false"
+  },
+  {
+    "word": "God",
+    "learned": "false"
+  },
+  {
+    "word": "gold",
+    "learned": "false"
+  },
+  {
+    "word": "golden",
+    "learned": "false"
+  },
+  {
+    "word": "golf",
+    "learned": "false"
+  },
+  {
+    "word": "good",
+    "learned": "false"
+  },
+  {
+    "word": "government",
+    "learned": "false"
+  },
+  {
+    "word": "governor",
+    "learned": "false"
+  },
+  {
+    "word": "grab",
+    "learned": "false"
+  },
+  {
+    "word": "grade",
+    "learned": "false"
+  },
+  {
+    "word": "gradually",
+    "learned": "false"
+  },
+  {
+    "word": "graduate",
+    "learned": "false"
+  },
+  {
+    "word": "grain",
+    "learned": "false"
+  },
+  {
+    "word": "grand",
+    "learned": "false"
+  },
+  {
+    "word": "grandfather",
+    "learned": "false"
+  },
+  {
+    "word": "grandmother",
+    "learned": "false"
+  },
+  {
+    "word": "grant",
+    "learned": "false"
+  },
+  {
+    "word": "grass",
+    "learned": "false"
+  },
+  {
+    "word": "grave",
+    "learned": "false"
+  },
+  {
+    "word": "gray",
+    "learned": "false"
+  },
+  {
+    "word": "great",
+    "learned": "false"
+  },
+  {
+    "word": "greatest",
+    "learned": "false"
+  },
+  {
+    "word": "green",
+    "learned": "false"
+  },
+  {
+    "word": "grocery",
+    "learned": "false"
+  },
+  {
+    "word": "ground",
+    "learned": "false"
+  },
+  {
+    "word": "group",
+    "learned": "false"
+  },
+  {
+    "word": "grow",
+    "learned": "false"
+  },
+  {
+    "word": "growing",
+    "learned": "false"
+  },
+  {
+    "word": "growth",
+    "learned": "false"
+  },
+  {
+    "word": "guarantee",
+    "learned": "false"
+  },
+  {
+    "word": "guard",
+    "learned": "false"
+  },
+  {
+    "word": "guess",
+    "learned": "false"
+  },
+  {
+    "word": "guest",
+    "learned": "false"
+  },
+  {
+    "word": "guide",
+    "learned": "false"
+  },
+  {
+    "word": "guideline",
+    "learned": "false"
+  },
+  {
+    "word": "guilty",
+    "learned": "false"
+  },
+  {
+    "word": "gun",
+    "learned": "false"
+  },
+  {
+    "word": "guy",
+    "learned": "false"
+  },
+  {
+    "word": "habit",
+    "learned": "false"
+  },
+  {
+    "word": "habitat",
+    "learned": "false"
+  },
+  {
+    "word": "hair",
+    "learned": "false"
+  },
+  {
+    "word": "half",
+    "learned": "false"
+  },
+  {
+    "word": "hall",
+    "learned": "false"
+  },
+  {
+    "word": "hand",
+    "learned": "false"
+  },
+  {
+    "word": "handful",
+    "learned": "false"
+  },
+  {
+    "word": "handle",
+    "learned": "false"
+  },
+  {
+    "word": "hang",
+    "learned": "false"
+  },
+  {
+    "word": "happen",
+    "learned": "false"
+  },
+  {
+    "word": "happy",
+    "learned": "false"
+  },
+  {
+    "word": "hard",
+    "learned": "false"
+  },
+  {
+    "word": "hardly",
+    "learned": "false"
+  },
+  {
+    "word": "hat",
+    "learned": "false"
+  },
+  {
+    "word": "hate",
+    "learned": "false"
+  },
+  {
+    "word": "have",
+    "learned": "false"
+  },
+  {
+    "word": "he",
+    "learned": "false"
+  },
+  {
+    "word": "head",
+    "learned": "false"
+  },
+  {
+    "word": "headline",
+    "learned": "false"
+  },
+  {
+    "word": "headquarters",
+    "learned": "false"
+  },
+  {
+    "word": "health",
+    "learned": "false"
+  },
+  {
+    "word": "healthy",
+    "learned": "false"
+  },
+  {
+    "word": "hear",
+    "learned": "false"
+  },
+  {
+    "word": "hearing",
+    "learned": "false"
+  },
+  {
+    "word": "heart",
+    "learned": "false"
+  },
+  {
+    "word": "heat",
+    "learned": "false"
+  },
+  {
+    "word": "heaven",
+    "learned": "false"
+  },
+  {
+    "word": "heavily",
+    "learned": "false"
+  },
+  {
+    "word": "heavy",
+    "learned": "false"
+  },
+  {
+    "word": "heel",
+    "learned": "false"
+  },
+  {
+    "word": "height",
+    "learned": "false"
+  },
+  {
+    "word": "helicopter",
+    "learned": "false"
+  },
+  {
+    "word": "hell",
+    "learned": "false"
+  },
+  {
+    "word": "hello",
+    "learned": "false"
+  },
+  {
+    "word": "help",
+    "learned": "false"
+  },
+  {
+    "word": "helpful",
+    "learned": "false"
+  },
+  {
+    "word": "her",
+    "learned": "false"
+  },
+  {
+    "word": "here",
+    "learned": "false"
+  },
+  {
+    "word": "heritage",
+    "learned": "false"
+  },
+  {
+    "word": "hero",
+    "learned": "false"
+  },
+  {
+    "word": "herself",
+    "learned": "false"
+  },
+  {
+    "word": "hey",
+    "learned": "false"
+  },
+  {
+    "word": "hi",
+    "learned": "false"
+  },
+  {
+    "word": "hide",
+    "learned": "false"
+  },
+  {
+    "word": "high",
+    "learned": "false"
+  },
+  {
+    "word": "highlight",
+    "learned": "false"
+  },
+  {
+    "word": "highly",
+    "learned": "false"
+  },
+  {
+    "word": "highway",
+    "learned": "false"
+  },
+  {
+    "word": "hill",
+    "learned": "false"
+  },
+  {
+    "word": "him",
+    "learned": "false"
+  },
+  {
+    "word": "himself",
+    "learned": "false"
+  },
+  {
+    "word": "hip",
+    "learned": "false"
+  },
+  {
+    "word": "hire",
+    "learned": "false"
+  },
+  {
+    "word": "his",
+    "learned": "false"
+  },
+  {
+    "word": "historian",
+    "learned": "false"
+  },
+  {
+    "word": "historic",
+    "learned": "false"
+  },
+  {
+    "word": "historical",
+    "learned": "false"
+  },
+  {
+    "word": "history",
+    "learned": "false"
+  },
+  {
+    "word": "hit",
+    "learned": "false"
+  },
+  {
+    "word": "hold",
+    "learned": "false"
+  },
+  {
+    "word": "hole",
+    "learned": "false"
+  },
+  {
+    "word": "holiday",
+    "learned": "false"
+  },
+  {
+    "word": "holy",
+    "learned": "false"
+  },
+  {
+    "word": "home",
+    "learned": "false"
+  },
+  {
+    "word": "homeless",
+    "learned": "false"
+  },
+  {
+    "word": "honest",
+    "learned": "false"
+  },
+  {
+    "word": "honey",
+    "learned": "false"
+  },
+  {
+    "word": "honor",
+    "learned": "false"
+  },
+  {
+    "word": "hope",
+    "learned": "false"
+  },
+  {
+    "word": "horizon",
+    "learned": "false"
+  },
+  {
+    "word": "horror",
+    "learned": "false"
+  },
+  {
+    "word": "horse",
+    "learned": "false"
+  },
+  {
+    "word": "hospital",
+    "learned": "false"
+  },
+  {
+    "word": "host",
+    "learned": "false"
+  },
+  {
+    "word": "hot",
+    "learned": "false"
+  },
+  {
+    "word": "hotel",
+    "learned": "false"
+  },
+  {
+    "word": "hour",
+    "learned": "false"
+  },
+  {
+    "word": "house",
+    "learned": "false"
+  },
+  {
+    "word": "household",
+    "learned": "false"
+  },
+  {
+    "word": "housing",
+    "learned": "false"
+  },
+  {
+    "word": "how",
+    "learned": "false"
+  },
+  {
+    "word": "however",
+    "learned": "false"
+  },
+  {
+    "word": "huge",
+    "learned": "false"
+  },
+  {
+    "word": "human",
+    "learned": "false"
+  },
+  {
+    "word": "humor",
+    "learned": "false"
+  },
+  {
+    "word": "hundred",
+    "learned": "false"
+  },
+  {
+    "word": "hungry",
+    "learned": "false"
+  },
+  {
+    "word": "hunter",
+    "learned": "false"
+  },
+  {
+    "word": "hunting",
+    "learned": "false"
+  },
+  {
+    "word": "hurt",
+    "learned": "false"
+  },
+  {
+    "word": "husband",
+    "learned": "false"
+  },
+  {
+    "word": "hypothesis",
+    "learned": "false"
+  },
+  {
+    "word": "I",
+    "learned": "false"
+  },
+  {
+    "word": "ice",
+    "learned": "false"
+  },
+  {
+    "word": "idea",
+    "learned": "false"
+  },
+  {
+    "word": "ideal",
+    "learned": "false"
+  },
+  {
+    "word": "identification",
+    "learned": "false"
+  },
+  {
+    "word": "identify",
+    "learned": "false"
+  },
+  {
+    "word": "identity",
+    "learned": "false"
+  },
+  {
+    "word": "ie",
+    "learned": "false"
+  },
+  {
+    "word": "if",
+    "learned": "false"
+  },
+  {
+    "word": "ignore",
+    "learned": "false"
+  },
+  {
+    "word": "ill",
+    "learned": "false"
+  },
+  {
+    "word": "illegal",
+    "learned": "false"
+  },
+  {
+    "word": "illness",
+    "learned": "false"
+  },
+  {
+    "word": "illustrate",
+    "learned": "false"
+  },
+  {
+    "word": "image",
+    "learned": "false"
+  },
+  {
+    "word": "imagination",
+    "learned": "false"
+  },
+  {
+    "word": "imagine",
+    "learned": "false"
+  },
+  {
+    "word": "immediate",
+    "learned": "false"
+  },
+  {
+    "word": "immediately",
+    "learned": "false"
+  },
+  {
+    "word": "immigrant",
+    "learned": "false"
+  },
+  {
+    "word": "immigration",
+    "learned": "false"
+  },
+  {
+    "word": "impact",
+    "learned": "false"
+  },
+  {
+    "word": "implement",
+    "learned": "false"
+  },
+  {
+    "word": "implication",
+    "learned": "false"
+  },
+  {
+    "word": "imply",
+    "learned": "false"
+  },
+  {
+    "word": "importance",
+    "learned": "false"
+  },
+  {
+    "word": "important",
+    "learned": "false"
+  },
+  {
+    "word": "impose",
+    "learned": "false"
+  },
+  {
+    "word": "impossible",
+    "learned": "false"
+  },
+  {
+    "word": "impress",
+    "learned": "false"
+  },
+  {
+    "word": "impression",
+    "learned": "false"
+  },
+  {
+    "word": "impressive",
+    "learned": "false"
+  },
+  {
+    "word": "improve",
+    "learned": "false"
+  },
+  {
+    "word": "improvement",
+    "learned": "false"
+  },
+  {
+    "word": "in",
+    "learned": "false"
+  },
+  {
+    "word": "incentive",
+    "learned": "false"
+  },
+  {
+    "word": "incident",
+    "learned": "false"
+  },
+  {
+    "word": "include",
+    "learned": "false"
+  },
+  {
+    "word": "including",
+    "learned": "false"
+  },
+  {
+    "word": "income",
+    "learned": "false"
+  },
+  {
+    "word": "incorporate",
+    "learned": "false"
+  },
+  {
+    "word": "increase",
+    "learned": "false"
+  },
+  {
+    "word": "increased",
+    "learned": "false"
+  },
+  {
+    "word": "increasing",
+    "learned": "false"
+  },
+  {
+    "word": "increasingly",
+    "learned": "false"
+  },
+  {
+    "word": "incredible",
+    "learned": "false"
+  },
+  {
+    "word": "indeed",
+    "learned": "false"
+  },
+  {
+    "word": "independence",
+    "learned": "false"
+  },
+  {
+    "word": "independent",
+    "learned": "false"
+  },
+  {
+    "word": "index",
+    "learned": "false"
+  },
+  {
+    "word": "Indian",
+    "learned": "false"
+  },
+  {
+    "word": "indicate",
+    "learned": "false"
+  },
+  {
+    "word": "indication",
+    "learned": "false"
+  },
+  {
+    "word": "individual",
+    "learned": "false"
+  },
+  {
+    "word": "industrial",
+    "learned": "false"
+  },
+  {
+    "word": "industry",
+    "learned": "false"
+  },
+  {
+    "word": "infant",
+    "learned": "false"
+  },
+  {
+    "word": "infection",
+    "learned": "false"
+  },
+  {
+    "word": "inflation",
+    "learned": "false"
+  },
+  {
+    "word": "influence",
+    "learned": "false"
+  },
+  {
+    "word": "inform",
+    "learned": "false"
+  },
+  {
+    "word": "information",
+    "learned": "false"
+  },
+  {
+    "word": "ingredient",
+    "learned": "false"
+  },
+  {
+    "word": "initial",
+    "learned": "false"
+  },
+  {
+    "word": "initially",
+    "learned": "false"
+  },
+  {
+    "word": "initiative",
+    "learned": "false"
+  },
+  {
+    "word": "injury",
+    "learned": "false"
+  },
+  {
+    "word": "inner",
+    "learned": "false"
+  },
+  {
+    "word": "innocent",
+    "learned": "false"
+  },
+  {
+    "word": "inquiry",
+    "learned": "false"
+  },
+  {
+    "word": "inside",
+    "learned": "false"
+  },
+  {
+    "word": "insight",
+    "learned": "false"
+  },
+  {
+    "word": "insist",
+    "learned": "false"
+  },
+  {
+    "word": "inspire",
+    "learned": "false"
+  },
+  {
+    "word": "install",
+    "learned": "false"
+  },
+  {
+    "word": "instance",
+    "learned": "false"
+  },
+  {
+    "word": "instead",
+    "learned": "false"
+  },
+  {
+    "word": "institution",
+    "learned": "false"
+  },
+  {
+    "word": "institutional",
+    "learned": "false"
+  },
+  {
+    "word": "instruction",
+    "learned": "false"
+  },
+  {
+    "word": "instructor",
+    "learned": "false"
+  },
+  {
+    "word": "instrument",
+    "learned": "false"
+  },
+  {
+    "word": "insurance",
+    "learned": "false"
+  },
+  {
+    "word": "intellectual",
+    "learned": "false"
+  },
+  {
+    "word": "intelligence",
+    "learned": "false"
+  },
+  {
+    "word": "intend",
+    "learned": "false"
+  },
+  {
+    "word": "intense",
+    "learned": "false"
+  },
+  {
+    "word": "intensity",
+    "learned": "false"
+  },
+  {
+    "word": "intention",
+    "learned": "false"
+  },
+  {
+    "word": "interaction",
+    "learned": "false"
+  },
+  {
+    "word": "interest",
+    "learned": "false"
+  },
+  {
+    "word": "interested",
+    "learned": "false"
+  },
+  {
+    "word": "interesting",
+    "learned": "false"
+  },
+  {
+    "word": "internal",
+    "learned": "false"
+  },
+  {
+    "word": "international",
+    "learned": "false"
+  },
+  {
+    "word": "Internet",
+    "learned": "false"
+  },
+  {
+    "word": "interpret",
+    "learned": "false"
+  },
+  {
+    "word": "interpretation",
+    "learned": "false"
+  },
+  {
+    "word": "intervention",
+    "learned": "false"
+  },
+  {
+    "word": "interview",
+    "learned": "false"
+  },
+  {
+    "word": "into",
+    "learned": "false"
+  },
+  {
+    "word": "introduce",
+    "learned": "false"
+  },
+  {
+    "word": "introduction",
+    "learned": "false"
+  },
+  {
+    "word": "invasion",
+    "learned": "false"
+  },
+  {
+    "word": "invest",
+    "learned": "false"
+  },
+  {
+    "word": "investigate",
+    "learned": "false"
+  },
+  {
+    "word": "investigation",
+    "learned": "false"
+  },
+  {
+    "word": "investigator",
+    "learned": "false"
+  },
+  {
+    "word": "investment",
+    "learned": "false"
+  },
+  {
+    "word": "investor",
+    "learned": "false"
+  },
+  {
+    "word": "invite",
+    "learned": "false"
+  },
+  {
+    "word": "involve",
+    "learned": "false"
+  },
+  {
+    "word": "involved",
+    "learned": "false"
+  },
+  {
+    "word": "involvement",
+    "learned": "false"
+  },
+  {
+    "word": "Iraqi",
+    "learned": "false"
+  },
+  {
+    "word": "Irish",
+    "learned": "false"
+  },
+  {
+    "word": "iron",
+    "learned": "false"
+  },
+  {
+    "word": "Islamic",
+    "learned": "false"
+  },
+  {
+    "word": "island",
+    "learned": "false"
+  },
+  {
+    "word": "Israeli",
+    "learned": "false"
+  },
+  {
+    "word": "issue",
+    "learned": "false"
+  },
+  {
+    "word": "it",
+    "learned": "false"
+  },
+  {
+    "word": "Italian",
+    "learned": "false"
+  },
+  {
+    "word": "item",
+    "learned": "false"
+  },
+  {
+    "word": "its",
+    "learned": "false"
+  },
+  {
+    "word": "itself",
+    "learned": "false"
+  },
+  {
+    "word": "jacket",
+    "learned": "false"
+  },
+  {
+    "word": "jail",
+    "learned": "false"
+  },
+  {
+    "word": "Japanese",
+    "learned": "false"
+  },
+  {
+    "word": "jet",
+    "learned": "false"
+  },
+  {
+    "word": "Jew",
+    "learned": "false"
+  },
+  {
+    "word": "Jewish",
+    "learned": "false"
+  },
+  {
+    "word": "job",
+    "learned": "false"
+  },
+  {
+    "word": "join",
+    "learned": "false"
+  },
+  {
+    "word": "joint",
+    "learned": "false"
+  },
+  {
+    "word": "joke",
+    "learned": "false"
+  },
+  {
+    "word": "journal",
+    "learned": "false"
+  },
+  {
+    "word": "journalist",
+    "learned": "false"
+  },
+  {
+    "word": "journey",
+    "learned": "false"
+  },
+  {
+    "word": "joy",
+    "learned": "false"
+  },
+  {
+    "word": "judge",
+    "learned": "false"
+  },
+  {
+    "word": "judgment",
+    "learned": "false"
+  },
+  {
+    "word": "juice",
+    "learned": "false"
+  },
+  {
+    "word": "jump",
+    "learned": "false"
+  },
+  {
+    "word": "junior",
+    "learned": "false"
+  },
+  {
+    "word": "jury",
+    "learned": "false"
+  },
+  {
+    "word": "just",
+    "learned": "false"
+  },
+  {
+    "word": "justice",
+    "learned": "false"
+  },
+  {
+    "word": "justify",
+    "learned": "false"
+  },
+  {
+    "word": "keep",
+    "learned": "false"
+  },
+  {
+    "word": "key",
+    "learned": "false"
+  },
+  {
+    "word": "kick",
+    "learned": "false"
+  },
+  {
+    "word": "kid",
+    "learned": "false"
+  },
+  {
+    "word": "kill",
+    "learned": "false"
+  },
+  {
+    "word": "killer",
+    "learned": "false"
+  },
+  {
+    "word": "killing",
+    "learned": "false"
+  },
+  {
+    "word": "kind",
+    "learned": "false"
+  },
+  {
+    "word": "king",
+    "learned": "false"
+  },
+  {
+    "word": "kiss",
+    "learned": "false"
+  },
+  {
+    "word": "kitchen",
+    "learned": "false"
+  },
+  {
+    "word": "knee",
+    "learned": "false"
+  },
+  {
+    "word": "knife",
+    "learned": "false"
+  },
+  {
+    "word": "knock",
+    "learned": "false"
+  },
+  {
+    "word": "know",
+    "learned": "false"
+  },
+  {
+    "word": "knowledge",
+    "learned": "false"
+  },
+  {
+    "word": "lab",
+    "learned": "false"
+  },
+  {
+    "word": "label",
+    "learned": "false"
+  },
+  {
+    "word": "labor",
+    "learned": "false"
+  },
+  {
+    "word": "laboratory",
+    "learned": "false"
+  },
+  {
+    "word": "lack",
+    "learned": "false"
+  },
+  {
+    "word": "lady",
+    "learned": "false"
+  },
+  {
+    "word": "lake",
+    "learned": "false"
+  },
+  {
+    "word": "land",
+    "learned": "false"
+  },
+  {
+    "word": "landscape",
+    "learned": "false"
+  },
+  {
+    "word": "language",
+    "learned": "false"
+  },
+  {
+    "word": "lap",
+    "learned": "false"
+  },
+  {
+    "word": "large",
+    "learned": "false"
+  },
+  {
+    "word": "largely",
+    "learned": "false"
+  },
+  {
+    "word": "last",
+    "learned": "false"
+  },
+  {
+    "word": "late",
+    "learned": "false"
+  },
+  {
+    "word": "later",
+    "learned": "false"
+  },
+  {
+    "word": "Latin",
+    "learned": "false"
+  },
+  {
+    "word": "latter",
+    "learned": "false"
+  },
+  {
+    "word": "laugh",
+    "learned": "false"
+  },
+  {
+    "word": "launch",
+    "learned": "false"
+  },
+  {
+    "word": "law",
+    "learned": "false"
+  },
+  {
+    "word": "lawn",
+    "learned": "false"
+  },
+  {
+    "word": "lawsuit",
+    "learned": "false"
+  },
+  {
+    "word": "lawyer",
+    "learned": "false"
+  },
+  {
+    "word": "lay",
+    "learned": "false"
+  },
+  {
+    "word": "layer",
+    "learned": "false"
+  },
+  {
+    "word": "lead",
+    "learned": "false"
+  },
+  {
+    "word": "leader",
+    "learned": "false"
+  },
+  {
+    "word": "leadership",
+    "learned": "false"
+  },
+  {
+    "word": "leading",
+    "learned": "false"
+  },
+  {
+    "word": "leaf",
+    "learned": "false"
+  },
+  {
+    "word": "league",
+    "learned": "false"
+  },
+  {
+    "word": "lean",
+    "learned": "false"
+  },
+  {
+    "word": "learn",
+    "learned": "false"
+  },
+  {
+    "word": "learning",
+    "learned": "false"
+  },
+  {
+    "word": "least",
+    "learned": "false"
+  },
+  {
+    "word": "leather",
+    "learned": "false"
+  },
+  {
+    "word": "leave",
+    "learned": "false"
+  },
+  {
+    "word": "left",
+    "learned": "false"
+  },
+  {
+    "word": "leg",
+    "learned": "false"
+  },
+  {
+    "word": "legacy",
+    "learned": "false"
+  },
+  {
+    "word": "legal",
+    "learned": "false"
+  },
+  {
+    "word": "legend",
+    "learned": "false"
+  },
+  {
+    "word": "legislation",
+    "learned": "false"
+  },
+  {
+    "word": "legitimate",
+    "learned": "false"
+  },
+  {
+    "word": "lemon",
+    "learned": "false"
+  },
+  {
+    "word": "length",
+    "learned": "false"
+  },
+  {
+    "word": "less",
+    "learned": "false"
+  },
+  {
+    "word": "lesson",
+    "learned": "false"
+  },
+  {
+    "word": "let",
+    "learned": "false"
+  },
+  {
+    "word": "letter",
+    "learned": "false"
+  },
+  {
+    "word": "level",
+    "learned": "false"
+  },
+  {
+    "word": "liberal",
+    "learned": "false"
+  },
+  {
+    "word": "library",
+    "learned": "false"
+  },
+  {
+    "word": "license",
+    "learned": "false"
+  },
+  {
+    "word": "lie",
+    "learned": "false"
+  },
+  {
+    "word": "life",
+    "learned": "false"
+  },
+  {
+    "word": "lifestyle",
+    "learned": "false"
+  },
+  {
+    "word": "lifetime",
+    "learned": "false"
+  },
+  {
+    "word": "lift",
+    "learned": "false"
+  },
+  {
+    "word": "light",
+    "learned": "false"
+  },
+  {
+    "word": "like",
+    "learned": "false"
+  },
+  {
+    "word": "likely",
+    "learned": "false"
+  },
+  {
+    "word": "limit",
+    "learned": "false"
+  },
+  {
+    "word": "limitation",
+    "learned": "false"
+  },
+  {
+    "word": "limited",
+    "learned": "false"
+  },
+  {
+    "word": "line",
+    "learned": "false"
+  },
+  {
+    "word": "link",
+    "learned": "false"
+  },
+  {
+    "word": "lip",
+    "learned": "false"
+  },
+  {
+    "word": "list",
+    "learned": "false"
+  },
+  {
+    "word": "listen",
+    "learned": "false"
+  },
+  {
+    "word": "literally",
+    "learned": "false"
+  },
+  {
+    "word": "literary",
+    "learned": "false"
+  },
+  {
+    "word": "literature",
+    "learned": "false"
+  },
+  {
+    "word": "little",
+    "learned": "false"
+  },
+  {
+    "word": "live",
+    "learned": "false"
+  },
+  {
+    "word": "living",
+    "learned": "false"
+  },
+  {
+    "word": "load",
+    "learned": "false"
+  },
+  {
+    "word": "loan",
+    "learned": "false"
+  },
+  {
+    "word": "local",
+    "learned": "false"
+  },
+  {
+    "word": "locate",
+    "learned": "false"
+  },
+  {
+    "word": "location",
+    "learned": "false"
+  },
+  {
+    "word": "lock",
+    "learned": "false"
+  },
+  {
+    "word": "long",
+    "learned": "false"
+  },
+  {
+    "word": "long-term",
+    "learned": "false"
+  },
+  {
+    "word": "look",
+    "learned": "false"
+  },
+  {
+    "word": "loose",
+    "learned": "false"
+  },
+  {
+    "word": "lose",
+    "learned": "false"
+  },
+  {
+    "word": "loss",
+    "learned": "false"
+  },
+  {
+    "word": "lost",
+    "learned": "false"
+  },
+  {
+    "word": "lot",
+    "learned": "false"
+  },
+  {
+    "word": "lots",
+    "learned": "false"
+  },
+  {
+    "word": "loud",
+    "learned": "false"
+  },
+  {
+    "word": "love",
+    "learned": "false"
+  },
+  {
+    "word": "lovely",
+    "learned": "false"
+  },
+  {
+    "word": "lover",
+    "learned": "false"
+  },
+  {
+    "word": "low",
+    "learned": "false"
+  },
+  {
+    "word": "lower",
+    "learned": "false"
+  },
+  {
+    "word": "luck",
+    "learned": "false"
+  },
+  {
+    "word": "lucky",
+    "learned": "false"
+  },
+  {
+    "word": "lunch",
+    "learned": "false"
+  },
+  {
+    "word": "lung",
+    "learned": "false"
+  },
+  {
+    "word": "machine",
+    "learned": "false"
+  },
+  {
+    "word": "mad",
+    "learned": "false"
+  },
+  {
+    "word": "magazine",
+    "learned": "false"
+  },
+  {
+    "word": "mail",
+    "learned": "false"
+  },
+  {
+    "word": "main",
+    "learned": "false"
+  },
+  {
+    "word": "mainly",
+    "learned": "false"
+  },
+  {
+    "word": "maintain",
+    "learned": "false"
+  },
+  {
+    "word": "maintenance",
+    "learned": "false"
+  },
+  {
+    "word": "major",
+    "learned": "false"
+  },
+  {
+    "word": "majority",
+    "learned": "false"
+  },
+  {
+    "word": "make",
+    "learned": "false"
+  },
+  {
+    "word": "maker",
+    "learned": "false"
+  },
+  {
+    "word": "makeup",
+    "learned": "false"
+  },
+  {
+    "word": "male",
+    "learned": "false"
+  },
+  {
+    "word": "mall",
+    "learned": "false"
+  },
+  {
+    "word": "man",
+    "learned": "false"
+  },
+  {
+    "word": "manage",
+    "learned": "false"
+  },
+  {
+    "word": "management",
+    "learned": "false"
+  },
+  {
+    "word": "manager",
+    "learned": "false"
+  },
+  {
+    "word": "manner",
+    "learned": "false"
+  },
+  {
+    "word": "manufacturer",
+    "learned": "false"
+  },
+  {
+    "word": "manufacturing",
+    "learned": "false"
+  },
+  {
+    "word": "many",
+    "learned": "false"
+  },
+  {
+    "word": "map",
+    "learned": "false"
+  },
+  {
+    "word": "margin",
+    "learned": "false"
+  },
+  {
+    "word": "mark",
+    "learned": "false"
+  },
+  {
+    "word": "market",
+    "learned": "false"
+  },
+  {
+    "word": "marketing",
+    "learned": "false"
+  },
+  {
+    "word": "marriage",
+    "learned": "false"
+  },
+  {
+    "word": "married",
+    "learned": "false"
+  },
+  {
+    "word": "marry",
+    "learned": "false"
+  },
+  {
+    "word": "mask",
+    "learned": "false"
+  },
+  {
+    "word": "mass",
+    "learned": "false"
+  },
+  {
+    "word": "massive",
+    "learned": "false"
+  },
+  {
+    "word": "master",
+    "learned": "false"
+  },
+  {
+    "word": "match",
+    "learned": "false"
+  },
+  {
+    "word": "material",
+    "learned": "false"
+  },
+  {
+    "word": "math",
+    "learned": "false"
+  },
+  {
+    "word": "matter",
+    "learned": "false"
+  },
+  {
+    "word": "may",
+    "learned": "false"
+  },
+  {
+    "word": "maybe",
+    "learned": "false"
+  },
+  {
+    "word": "mayor",
+    "learned": "false"
+  },
+  {
+    "word": "me",
+    "learned": "false"
+  },
+  {
+    "word": "meal",
+    "learned": "false"
+  },
+  {
+    "word": "mean",
+    "learned": "false"
+  },
+  {
+    "word": "meaning",
+    "learned": "false"
+  },
+  {
+    "word": "meanwhile",
+    "learned": "false"
+  },
+  {
+    "word": "measure",
+    "learned": "false"
+  },
+  {
+    "word": "measurement",
+    "learned": "false"
+  },
+  {
+    "word": "meat",
+    "learned": "false"
+  },
+  {
+    "word": "mechanism",
+    "learned": "false"
+  },
+  {
+    "word": "media",
+    "learned": "false"
+  },
+  {
+    "word": "medical",
+    "learned": "false"
+  },
+  {
+    "word": "medication",
+    "learned": "false"
+  },
+  {
+    "word": "medicine",
+    "learned": "false"
+  },
+  {
+    "word": "medium",
+    "learned": "false"
+  },
+  {
+    "word": "meet",
+    "learned": "false"
+  },
+  {
+    "word": "meeting",
+    "learned": "false"
+  },
+  {
+    "word": "member",
+    "learned": "false"
+  },
+  {
+    "word": "membership",
+    "learned": "false"
+  },
+  {
+    "word": "memory",
+    "learned": "false"
+  },
+  {
+    "word": "mental",
+    "learned": "false"
+  },
+  {
+    "word": "mention",
+    "learned": "false"
+  },
+  {
+    "word": "menu",
+    "learned": "false"
+  },
+  {
+    "word": "mere",
+    "learned": "false"
+  },
+  {
+    "word": "merely",
+    "learned": "false"
+  },
+  {
+    "word": "mess",
+    "learned": "false"
+  },
+  {
+    "word": "message",
+    "learned": "false"
+  },
+  {
+    "word": "metal",
+    "learned": "false"
+  },
+  {
+    "word": "meter",
+    "learned": "false"
+  },
+  {
+    "word": "method",
+    "learned": "false"
+  },
+  {
+    "word": "Mexican",
+    "learned": "false"
+  },
+  {
+    "word": "middle",
+    "learned": "false"
+  },
+  {
+    "word": "might",
+    "learned": "false"
+  },
+  {
+    "word": "military",
+    "learned": "false"
+  },
+  {
+    "word": "milk",
+    "learned": "false"
+  },
+  {
+    "word": "million",
+    "learned": "false"
+  },
+  {
+    "word": "mind",
+    "learned": "false"
+  },
+  {
+    "word": "mine",
+    "learned": "false"
+  },
+  {
+    "word": "minister",
+    "learned": "false"
+  },
+  {
+    "word": "minor",
+    "learned": "false"
+  },
+  {
+    "word": "minority",
+    "learned": "false"
+  },
+  {
+    "word": "minute",
+    "learned": "false"
+  },
+  {
+    "word": "miracle",
+    "learned": "false"
+  },
+  {
+    "word": "mirror",
+    "learned": "false"
+  },
+  {
+    "word": "miss",
+    "learned": "false"
+  },
+  {
+    "word": "missile",
+    "learned": "false"
+  },
+  {
+    "word": "mission",
+    "learned": "false"
+  },
+  {
+    "word": "mistake",
+    "learned": "false"
+  },
+  {
+    "word": "mix",
+    "learned": "false"
+  },
+  {
+    "word": "mixture",
+    "learned": "false"
+  },
+  {
+    "word": "mm-hmm",
+    "learned": "false"
+  },
+  {
+    "word": "mode",
+    "learned": "false"
+  },
+  {
+    "word": "model",
+    "learned": "false"
+  },
+  {
+    "word": "moderate",
+    "learned": "false"
+  },
+  {
+    "word": "modern",
+    "learned": "false"
+  },
+  {
+    "word": "modest",
+    "learned": "false"
+  },
+  {
+    "word": "mom",
+    "learned": "false"
+  },
+  {
+    "word": "moment",
+    "learned": "false"
+  },
+  {
+    "word": "money",
+    "learned": "false"
+  },
+  {
+    "word": "monitor",
+    "learned": "false"
+  },
+  {
+    "word": "month",
+    "learned": "false"
+  },
+  {
+    "word": "mood",
+    "learned": "false"
+  },
+  {
+    "word": "moon",
+    "learned": "false"
+  },
+  {
+    "word": "moral",
+    "learned": "false"
+  },
+  {
+    "word": "more",
+    "learned": "false"
+  },
+  {
+    "word": "moreover",
+    "learned": "false"
+  },
+  {
+    "word": "morning",
+    "learned": "false"
+  },
+  {
+    "word": "mortgage",
+    "learned": "false"
+  },
+  {
+    "word": "most",
+    "learned": "false"
+  },
+  {
+    "word": "mostly",
+    "learned": "false"
+  },
+  {
+    "word": "mother",
+    "learned": "false"
+  },
+  {
+    "word": "motion",
+    "learned": "false"
+  },
+  {
+    "word": "motivation",
+    "learned": "false"
+  },
+  {
+    "word": "motor",
+    "learned": "false"
+  },
+  {
+    "word": "mount",
+    "learned": "false"
+  },
+  {
+    "word": "mountain",
+    "learned": "false"
+  },
+  {
+    "word": "mouse",
+    "learned": "false"
+  },
+  {
+    "word": "mouth",
+    "learned": "false"
+  },
+  {
+    "word": "move",
+    "learned": "false"
+  },
+  {
+    "word": "movement",
+    "learned": "false"
+  },
+  {
+    "word": "movie",
+    "learned": "false"
+  },
+  {
+    "word": "Mr",
+    "learned": "false"
+  },
+  {
+    "word": "Mrs",
+    "learned": "false"
+  },
+  {
+    "word": "Ms",
+    "learned": "false"
+  },
+  {
+    "word": "much",
+    "learned": "false"
+  },
+  {
+    "word": "multiple",
+    "learned": "false"
+  },
+  {
+    "word": "murder",
+    "learned": "false"
+  },
+  {
+    "word": "muscle",
+    "learned": "false"
+  },
+  {
+    "word": "museum",
+    "learned": "false"
+  },
+  {
+    "word": "music",
+    "learned": "false"
+  },
+  {
+    "word": "musical",
+    "learned": "false"
+  },
+  {
+    "word": "musician",
+    "learned": "false"
+  },
+  {
+    "word": "Muslim",
+    "learned": "false"
+  },
+  {
+    "word": "must",
+    "learned": "false"
+  },
+  {
+    "word": "mutual",
+    "learned": "false"
+  },
+  {
+    "word": "my",
+    "learned": "false"
+  },
+  {
+    "word": "myself",
+    "learned": "false"
+  },
+  {
+    "word": "mystery",
+    "learned": "false"
+  },
+  {
+    "word": "myth",
+    "learned": "false"
+  },
+  {
+    "word": "naked",
+    "learned": "false"
+  },
+  {
+    "word": "name",
+    "learned": "false"
+  },
+  {
+    "word": "narrative",
+    "learned": "false"
+  },
+  {
+    "word": "narrow",
+    "learned": "false"
+  },
+  {
+    "word": "nation",
+    "learned": "false"
+  },
+  {
+    "word": "national",
+    "learned": "false"
+  },
+  {
+    "word": "native",
+    "learned": "false"
+  },
+  {
+    "word": "natural",
+    "learned": "false"
+  },
+  {
+    "word": "naturally",
+    "learned": "false"
+  },
+  {
+    "word": "nature",
+    "learned": "false"
+  },
+  {
+    "word": "near",
+    "learned": "false"
+  },
+  {
+    "word": "nearby",
+    "learned": "false"
+  },
+  {
+    "word": "nearly",
+    "learned": "false"
+  },
+  {
+    "word": "necessarily",
+    "learned": "false"
+  },
+  {
+    "word": "necessary",
+    "learned": "false"
+  },
+  {
+    "word": "neck",
+    "learned": "false"
+  },
+  {
+    "word": "need",
+    "learned": "false"
+  },
+  {
+    "word": "negative",
+    "learned": "false"
+  },
+  {
+    "word": "negotiate",
+    "learned": "false"
+  },
+  {
+    "word": "negotiation",
+    "learned": "false"
+  },
+  {
+    "word": "neighbor",
+    "learned": "false"
+  },
+  {
+    "word": "neighborhood",
+    "learned": "false"
+  },
+  {
+    "word": "neither",
+    "learned": "false"
+  },
+  {
+    "word": "nerve",
+    "learned": "false"
+  },
+  {
+    "word": "nervous",
+    "learned": "false"
+  },
+  {
+    "word": "net",
+    "learned": "false"
+  },
+  {
+    "word": "network",
+    "learned": "false"
+  },
+  {
+    "word": "never",
+    "learned": "false"
+  },
+  {
+    "word": "nevertheless",
+    "learned": "false"
+  },
+  {
+    "word": "new",
+    "learned": "false"
+  },
+  {
+    "word": "newly",
+    "learned": "false"
+  },
+  {
+    "word": "news",
+    "learned": "false"
+  },
+  {
+    "word": "newspaper",
+    "learned": "false"
+  },
+  {
+    "word": "next",
+    "learned": "false"
+  },
+  {
+    "word": "nice",
+    "learned": "false"
+  },
+  {
+    "word": "night",
+    "learned": "false"
+  },
+  {
+    "word": "nine",
+    "learned": "false"
+  },
+  {
+    "word": "no",
+    "learned": "false"
+  },
+  {
+    "word": "nobody",
+    "learned": "false"
+  },
+  {
+    "word": "nod",
+    "learned": "false"
+  },
+  {
+    "word": "noise",
+    "learned": "false"
+  },
+  {
+    "word": "nomination",
+    "learned": "false"
+  },
+  {
+    "word": "none",
+    "learned": "false"
+  },
+  {
+    "word": "nonetheless",
+    "learned": "false"
+  },
+  {
+    "word": "nor",
+    "learned": "false"
+  },
+  {
+    "word": "normal",
+    "learned": "false"
+  },
+  {
+    "word": "normally",
+    "learned": "false"
+  },
+  {
+    "word": "north",
+    "learned": "false"
+  },
+  {
+    "word": "northern",
+    "learned": "false"
+  },
+  {
+    "word": "nose",
+    "learned": "false"
+  },
+  {
+    "word": "not",
+    "learned": "false"
+  },
+  {
+    "word": "note",
+    "learned": "false"
+  },
+  {
+    "word": "nothing",
+    "learned": "false"
+  },
+  {
+    "word": "notice",
+    "learned": "false"
+  },
+  {
+    "word": "notion",
+    "learned": "false"
+  },
+  {
+    "word": "novel",
+    "learned": "false"
+  },
+  {
+    "word": "now",
+    "learned": "false"
+  },
+  {
+    "word": "nowhere",
+    "learned": "false"
+  },
+  {
+    "word": "n't",
+    "learned": "false"
+  },
+  {
+    "word": "nuclear",
+    "learned": "false"
+  },
+  {
+    "word": "number",
+    "learned": "false"
+  },
+  {
+    "word": "numerous",
+    "learned": "false"
+  },
+  {
+    "word": "nurse",
+    "learned": "false"
+  },
+  {
+    "word": "nut",
+    "learned": "false"
+  },
+  {
+    "word": "object",
+    "learned": "false"
+  },
+  {
+    "word": "objective",
+    "learned": "false"
+  },
+  {
+    "word": "obligation",
+    "learned": "false"
+  },
+  {
+    "word": "observation",
+    "learned": "false"
+  },
+  {
+    "word": "observe",
+    "learned": "false"
+  },
+  {
+    "word": "observer",
+    "learned": "false"
+  },
+  {
+    "word": "obtain",
+    "learned": "false"
+  },
+  {
+    "word": "obvious",
+    "learned": "false"
+  },
+  {
+    "word": "obviously",
+    "learned": "false"
+  },
+  {
+    "word": "occasion",
+    "learned": "false"
+  },
+  {
+    "word": "occasionally",
+    "learned": "false"
+  },
+  {
+    "word": "occupation",
+    "learned": "false"
+  },
+  {
+    "word": "occupy",
+    "learned": "false"
+  },
+  {
+    "word": "occur",
+    "learned": "false"
+  },
+  {
+    "word": "ocean",
+    "learned": "false"
+  },
+  {
+    "word": "odd",
+    "learned": "false"
+  },
+  {
+    "word": "odds",
+    "learned": "false"
+  },
+  {
+    "word": "of",
+    "learned": "false"
+  },
+  {
+    "word": "off",
+    "learned": "false"
+  },
+  {
+    "word": "offense",
+    "learned": "false"
+  },
+  {
+    "word": "offensive",
+    "learned": "false"
+  },
+  {
+    "word": "offer",
+    "learned": "false"
+  },
+  {
+    "word": "office",
+    "learned": "false"
+  },
+  {
+    "word": "officer",
+    "learned": "false"
+  },
+  {
+    "word": "official",
+    "learned": "false"
+  },
+  {
+    "word": "often",
+    "learned": "false"
+  },
+  {
+    "word": "oh",
+    "learned": "false"
+  },
+  {
+    "word": "oil",
+    "learned": "false"
+  },
+  {
+    "word": "ok",
+    "learned": "false"
+  },
+  {
+    "word": "okay",
+    "learned": "false"
+  },
+  {
+    "word": "old",
+    "learned": "false"
+  },
+  {
+    "word": "Olympic",
+    "learned": "false"
+  },
+  {
+    "word": "on",
+    "learned": "false"
+  },
+  {
+    "word": "once",
+    "learned": "false"
+  },
+  {
+    "word": "one",
+    "learned": "false"
+  },
+  {
+    "word": "ongoing",
+    "learned": "false"
+  },
+  {
+    "word": "onion",
+    "learned": "false"
+  },
+  {
+    "word": "online",
+    "learned": "false"
+  },
+  {
+    "word": "only",
+    "learned": "false"
+  },
+  {
+    "word": "onto",
+    "learned": "false"
+  },
+  {
+    "word": "open",
+    "learned": "false"
+  },
+  {
+    "word": "opening",
+    "learned": "false"
+  },
+  {
+    "word": "operate",
+    "learned": "false"
+  },
+  {
+    "word": "operating",
+    "learned": "false"
+  },
+  {
+    "word": "operation",
+    "learned": "false"
+  },
+  {
+    "word": "operator",
+    "learned": "false"
+  },
+  {
+    "word": "opinion",
+    "learned": "false"
+  },
+  {
+    "word": "opponent",
+    "learned": "false"
+  },
+  {
+    "word": "opportunity",
+    "learned": "false"
+  },
+  {
+    "word": "oppose",
+    "learned": "false"
+  },
+  {
+    "word": "opposite",
+    "learned": "false"
+  },
+  {
+    "word": "opposition",
+    "learned": "false"
+  },
+  {
+    "word": "option",
+    "learned": "false"
+  },
+  {
+    "word": "or",
+    "learned": "false"
+  },
+  {
+    "word": "orange",
+    "learned": "false"
+  },
+  {
+    "word": "order",
+    "learned": "false"
+  },
+  {
+    "word": "ordinary",
+    "learned": "false"
+  },
+  {
+    "word": "organic",
+    "learned": "false"
+  },
+  {
+    "word": "organization",
+    "learned": "false"
+  },
+  {
+    "word": "organize",
+    "learned": "false"
+  },
+  {
+    "word": "orientation",
+    "learned": "false"
+  },
+  {
+    "word": "origin",
+    "learned": "false"
+  },
+  {
+    "word": "original",
+    "learned": "false"
+  },
+  {
+    "word": "originally",
+    "learned": "false"
+  },
+  {
+    "word": "other",
+    "learned": "false"
+  },
+  {
+    "word": "others",
+    "learned": "false"
+  },
+  {
+    "word": "otherwise",
+    "learned": "false"
+  },
+  {
+    "word": "ought",
+    "learned": "false"
+  },
+  {
+    "word": "our",
+    "learned": "false"
+  },
+  {
+    "word": "ourselves",
+    "learned": "false"
+  },
+  {
+    "word": "out",
+    "learned": "false"
+  },
+  {
+    "word": "outcome",
+    "learned": "false"
+  },
+  {
+    "word": "outside",
+    "learned": "false"
+  },
+  {
+    "word": "oven",
+    "learned": "false"
+  },
+  {
+    "word": "over",
+    "learned": "false"
+  },
+  {
+    "word": "overall",
+    "learned": "false"
+  },
+  {
+    "word": "overcome",
+    "learned": "false"
+  },
+  {
+    "word": "overlook",
+    "learned": "false"
+  },
+  {
+    "word": "owe",
+    "learned": "false"
+  },
+  {
+    "word": "own",
+    "learned": "false"
+  },
+  {
+    "word": "owner",
+    "learned": "false"
+  },
+  {
+    "word": "pace",
+    "learned": "false"
+  },
+  {
+    "word": "pack",
+    "learned": "false"
+  },
+  {
+    "word": "package",
+    "learned": "false"
+  },
+  {
+    "word": "page",
+    "learned": "false"
+  },
+  {
+    "word": "pain",
+    "learned": "false"
+  },
+  {
+    "word": "painful",
+    "learned": "false"
+  },
+  {
+    "word": "paint",
+    "learned": "false"
+  },
+  {
+    "word": "painter",
+    "learned": "false"
+  },
+  {
+    "word": "painting",
+    "learned": "false"
+  },
+  {
+    "word": "pair",
+    "learned": "false"
+  },
+  {
+    "word": "pale",
+    "learned": "false"
+  },
+  {
+    "word": "Palestinian",
+    "learned": "false"
+  },
+  {
+    "word": "palm",
+    "learned": "false"
+  },
+  {
+    "word": "pan",
+    "learned": "false"
+  },
+  {
+    "word": "panel",
+    "learned": "false"
+  },
+  {
+    "word": "pant",
+    "learned": "false"
+  },
+  {
+    "word": "paper",
+    "learned": "false"
+  },
+  {
+    "word": "parent",
+    "learned": "false"
+  },
+  {
+    "word": "park",
+    "learned": "false"
+  },
+  {
+    "word": "parking",
+    "learned": "false"
+  },
+  {
+    "word": "part",
+    "learned": "false"
+  },
+  {
+    "word": "participant",
+    "learned": "false"
+  },
+  {
+    "word": "participate",
+    "learned": "false"
+  },
+  {
+    "word": "participation",
+    "learned": "false"
+  },
+  {
+    "word": "particular",
+    "learned": "false"
+  },
+  {
+    "word": "particularly",
+    "learned": "false"
+  },
+  {
+    "word": "partly",
+    "learned": "false"
+  },
+  {
+    "word": "partner",
+    "learned": "false"
+  },
+  {
+    "word": "partnership",
+    "learned": "false"
+  },
+  {
+    "word": "party",
+    "learned": "false"
+  },
+  {
+    "word": "pass",
+    "learned": "false"
+  },
+  {
+    "word": "passage",
+    "learned": "false"
+  },
+  {
+    "word": "passenger",
+    "learned": "false"
+  },
+  {
+    "word": "passion",
+    "learned": "false"
+  },
+  {
+    "word": "past",
+    "learned": "false"
+  },
+  {
+    "word": "patch",
+    "learned": "false"
+  },
+  {
+    "word": "path",
+    "learned": "false"
+  },
+  {
+    "word": "patient",
+    "learned": "false"
+  },
+  {
+    "word": "pattern",
+    "learned": "false"
+  },
+  {
+    "word": "pause",
+    "learned": "false"
+  },
+  {
+    "word": "pay",
+    "learned": "false"
+  },
+  {
+    "word": "payment",
+    "learned": "false"
+  },
+  {
+    "word": "PC",
+    "learned": "false"
+  },
+  {
+    "word": "peace",
+    "learned": "false"
+  },
+  {
+    "word": "peak",
+    "learned": "false"
+  },
+  {
+    "word": "peer",
+    "learned": "false"
+  },
+  {
+    "word": "penalty",
+    "learned": "false"
+  },
+  {
+    "word": "people",
+    "learned": "false"
+  },
+  {
+    "word": "pepper",
+    "learned": "false"
+  },
+  {
+    "word": "per",
+    "learned": "false"
+  },
+  {
+    "word": "perceive",
+    "learned": "false"
+  },
+  {
+    "word": "percentage",
+    "learned": "false"
+  },
+  {
+    "word": "perception",
+    "learned": "false"
+  },
+  {
+    "word": "perfect",
+    "learned": "false"
+  },
+  {
+    "word": "perfectly",
+    "learned": "false"
+  },
+  {
+    "word": "perform",
+    "learned": "false"
+  },
+  {
+    "word": "performance",
+    "learned": "false"
+  },
+  {
+    "word": "perhaps",
+    "learned": "false"
+  },
+  {
+    "word": "period",
+    "learned": "false"
+  },
+  {
+    "word": "permanent",
+    "learned": "false"
+  },
+  {
+    "word": "permission",
+    "learned": "false"
+  },
+  {
+    "word": "permit",
+    "learned": "false"
+  },
+  {
+    "word": "person",
+    "learned": "false"
+  },
+  {
+    "word": "personal",
+    "learned": "false"
+  },
+  {
+    "word": "personality",
+    "learned": "false"
+  },
+  {
+    "word": "personally",
+    "learned": "false"
+  },
+  {
+    "word": "personnel",
+    "learned": "false"
+  },
+  {
+    "word": "perspective",
+    "learned": "false"
+  },
+  {
+    "word": "persuade",
+    "learned": "false"
+  },
+  {
+    "word": "pet",
+    "learned": "false"
+  },
+  {
+    "word": "phase",
+    "learned": "false"
+  },
+  {
+    "word": "phenomenon",
+    "learned": "false"
+  },
+  {
+    "word": "philosophy",
+    "learned": "false"
+  },
+  {
+    "word": "phone",
+    "learned": "false"
+  },
+  {
+    "word": "photo",
+    "learned": "false"
+  },
+  {
+    "word": "photograph",
+    "learned": "false"
+  },
+  {
+    "word": "photographer",
+    "learned": "false"
+  },
+  {
+    "word": "phrase",
+    "learned": "false"
+  },
+  {
+    "word": "physical",
+    "learned": "false"
+  },
+  {
+    "word": "physically",
+    "learned": "false"
+  },
+  {
+    "word": "physician",
+    "learned": "false"
+  },
+  {
+    "word": "piano",
+    "learned": "false"
+  },
+  {
+    "word": "pick",
+    "learned": "false"
+  },
+  {
+    "word": "picture",
+    "learned": "false"
+  },
+  {
+    "word": "pie",
+    "learned": "false"
+  },
+  {
+    "word": "piece",
+    "learned": "false"
+  },
+  {
+    "word": "pile",
+    "learned": "false"
+  },
+  {
+    "word": "pilot",
+    "learned": "false"
+  },
+  {
+    "word": "pine",
+    "learned": "false"
+  },
+  {
+    "word": "pink",
+    "learned": "false"
+  },
+  {
+    "word": "pipe",
+    "learned": "false"
+  },
+  {
+    "word": "pitch",
+    "learned": "false"
+  },
+  {
+    "word": "place",
+    "learned": "false"
+  },
+  {
+    "word": "plan",
+    "learned": "false"
+  },
+  {
+    "word": "plane",
+    "learned": "false"
+  },
+  {
+    "word": "planet",
+    "learned": "false"
+  },
+  {
+    "word": "planning",
+    "learned": "false"
+  },
+  {
+    "word": "plant",
+    "learned": "false"
+  },
+  {
+    "word": "plastic",
+    "learned": "false"
+  },
+  {
+    "word": "plate",
+    "learned": "false"
+  },
+  {
+    "word": "platform",
+    "learned": "false"
+  },
+  {
+    "word": "play",
+    "learned": "false"
+  },
+  {
+    "word": "player",
+    "learned": "false"
+  },
+  {
+    "word": "please",
+    "learned": "false"
+  },
+  {
+    "word": "pleasure",
+    "learned": "false"
+  },
+  {
+    "word": "plenty",
+    "learned": "false"
+  },
+  {
+    "word": "plot",
+    "learned": "false"
+  },
+  {
+    "word": "plus",
+    "learned": "false"
+  },
+  {
+    "word": "PM",
+    "learned": "false"
+  },
+  {
+    "word": "pocket",
+    "learned": "false"
+  },
+  {
+    "word": "poem",
+    "learned": "false"
+  },
+  {
+    "word": "poet",
+    "learned": "false"
+  },
+  {
+    "word": "poetry",
+    "learned": "false"
+  },
+  {
+    "word": "point",
+    "learned": "false"
+  },
+  {
+    "word": "pole",
+    "learned": "false"
+  },
+  {
+    "word": "police",
+    "learned": "false"
+  },
+  {
+    "word": "policy",
+    "learned": "false"
+  },
+  {
+    "word": "political",
+    "learned": "false"
+  },
+  {
+    "word": "politically",
+    "learned": "false"
+  },
+  {
+    "word": "politician",
+    "learned": "false"
+  },
+  {
+    "word": "politics",
+    "learned": "false"
+  },
+  {
+    "word": "poll",
+    "learned": "false"
+  },
+  {
+    "word": "pollution",
+    "learned": "false"
+  },
+  {
+    "word": "pool",
+    "learned": "false"
+  },
+  {
+    "word": "poor",
+    "learned": "false"
+  },
+  {
+    "word": "pop",
+    "learned": "false"
+  },
+  {
+    "word": "popular",
+    "learned": "false"
+  },
+  {
+    "word": "population",
+    "learned": "false"
+  },
+  {
+    "word": "porch",
+    "learned": "false"
+  },
+  {
+    "word": "port",
+    "learned": "false"
+  },
+  {
+    "word": "portion",
+    "learned": "false"
+  },
+  {
+    "word": "portrait",
+    "learned": "false"
+  },
+  {
+    "word": "portray",
+    "learned": "false"
+  },
+  {
+    "word": "pose",
+    "learned": "false"
+  },
+  {
+    "word": "position",
+    "learned": "false"
+  },
+  {
+    "word": "positive",
+    "learned": "false"
+  },
+  {
+    "word": "possess",
+    "learned": "false"
+  },
+  {
+    "word": "possibility",
+    "learned": "false"
+  },
+  {
+    "word": "possible",
+    "learned": "false"
+  },
+  {
+    "word": "possibly",
+    "learned": "false"
+  },
+  {
+    "word": "post",
+    "learned": "false"
+  },
+  {
+    "word": "pot",
+    "learned": "false"
+  },
+  {
+    "word": "potato",
+    "learned": "false"
+  },
+  {
+    "word": "potential",
+    "learned": "false"
+  },
+  {
+    "word": "potentially",
+    "learned": "false"
+  },
+  {
+    "word": "pound",
+    "learned": "false"
+  },
+  {
+    "word": "pour",
+    "learned": "false"
+  },
+  {
+    "word": "poverty",
+    "learned": "false"
+  },
+  {
+    "word": "powder",
+    "learned": "false"
+  },
+  {
+    "word": "power",
+    "learned": "false"
+  },
+  {
+    "word": "powerful",
+    "learned": "false"
+  },
+  {
+    "word": "practical",
+    "learned": "false"
+  },
+  {
+    "word": "practice",
+    "learned": "false"
+  },
+  {
+    "word": "pray",
+    "learned": "false"
+  },
+  {
+    "word": "prayer",
+    "learned": "false"
+  },
+  {
+    "word": "precisely",
+    "learned": "false"
+  },
+  {
+    "word": "predict",
+    "learned": "false"
+  },
+  {
+    "word": "prefer",
+    "learned": "false"
+  },
+  {
+    "word": "preference",
+    "learned": "false"
+  },
+  {
+    "word": "pregnancy",
+    "learned": "false"
+  },
+  {
+    "word": "pregnant",
+    "learned": "false"
+  },
+  {
+    "word": "preparation",
+    "learned": "false"
+  },
+  {
+    "word": "prepare",
+    "learned": "false"
+  },
+  {
+    "word": "prescription",
+    "learned": "false"
+  },
+  {
+    "word": "presence",
+    "learned": "false"
+  },
+  {
+    "word": "present",
+    "learned": "false"
+  },
+  {
+    "word": "presentation",
+    "learned": "false"
+  },
+  {
+    "word": "preserve",
+    "learned": "false"
+  },
+  {
+    "word": "president",
+    "learned": "false"
+  },
+  {
+    "word": "presidential",
+    "learned": "false"
+  },
+  {
+    "word": "press",
+    "learned": "false"
+  },
+  {
+    "word": "pressure",
+    "learned": "false"
+  },
+  {
+    "word": "pretend",
+    "learned": "false"
+  },
+  {
+    "word": "pretty",
+    "learned": "false"
+  },
+  {
+    "word": "prevent",
+    "learned": "false"
+  },
+  {
+    "word": "previous",
+    "learned": "false"
+  },
+  {
+    "word": "previously",
+    "learned": "false"
+  },
+  {
+    "word": "price",
+    "learned": "false"
+  },
+  {
+    "word": "pride",
+    "learned": "false"
+  },
+  {
+    "word": "priest",
+    "learned": "false"
+  },
+  {
+    "word": "primarily",
+    "learned": "false"
+  },
+  {
+    "word": "primary",
+    "learned": "false"
+  },
+  {
+    "word": "prime",
+    "learned": "false"
+  },
+  {
+    "word": "principal",
+    "learned": "false"
+  },
+  {
+    "word": "principle",
+    "learned": "false"
+  },
+  {
+    "word": "print",
+    "learned": "false"
+  },
+  {
+    "word": "prior",
+    "learned": "false"
+  },
+  {
+    "word": "priority",
+    "learned": "false"
+  },
+  {
+    "word": "prison",
+    "learned": "false"
+  },
+  {
+    "word": "prisoner",
+    "learned": "false"
+  },
+  {
+    "word": "privacy",
+    "learned": "false"
+  },
+  {
+    "word": "private",
+    "learned": "false"
+  },
+  {
+    "word": "probably",
+    "learned": "false"
+  },
+  {
+    "word": "problem",
+    "learned": "false"
+  },
+  {
+    "word": "procedure",
+    "learned": "false"
+  },
+  {
+    "word": "proceed",
+    "learned": "false"
+  },
+  {
+    "word": "process",
+    "learned": "false"
+  },
+  {
+    "word": "produce",
+    "learned": "false"
+  },
+  {
+    "word": "producer",
+    "learned": "false"
+  },
+  {
+    "word": "product",
+    "learned": "false"
+  },
+  {
+    "word": "production",
+    "learned": "false"
+  },
+  {
+    "word": "profession",
+    "learned": "false"
+  },
+  {
+    "word": "professional",
+    "learned": "false"
+  },
+  {
+    "word": "professor",
+    "learned": "false"
+  },
+  {
+    "word": "profile",
+    "learned": "false"
+  },
+  {
+    "word": "profit",
+    "learned": "false"
+  },
+  {
+    "word": "program",
+    "learned": "false"
+  },
+  {
+    "word": "progress",
+    "learned": "false"
+  },
+  {
+    "word": "project",
+    "learned": "false"
+  },
+  {
+    "word": "prominent",
+    "learned": "false"
+  },
+  {
+    "word": "promise",
+    "learned": "false"
+  },
+  {
+    "word": "promote",
+    "learned": "false"
+  },
+  {
+    "word": "prompt",
+    "learned": "false"
+  },
+  {
+    "word": "proof",
+    "learned": "false"
+  },
+  {
+    "word": "proper",
+    "learned": "false"
+  },
+  {
+    "word": "properly",
+    "learned": "false"
+  },
+  {
+    "word": "property",
+    "learned": "false"
+  },
+  {
+    "word": "proportion",
+    "learned": "false"
+  },
+  {
+    "word": "proposal",
+    "learned": "false"
+  },
+  {
+    "word": "propose",
+    "learned": "false"
+  },
+  {
+    "word": "proposed",
+    "learned": "false"
+  },
+  {
+    "word": "prosecutor",
+    "learned": "false"
+  },
+  {
+    "word": "prospect",
+    "learned": "false"
+  },
+  {
+    "word": "protect",
+    "learned": "false"
+  },
+  {
+    "word": "protection",
+    "learned": "false"
+  },
+  {
+    "word": "protein",
+    "learned": "false"
+  },
+  {
+    "word": "protest",
+    "learned": "false"
+  },
+  {
+    "word": "proud",
+    "learned": "false"
+  },
+  {
+    "word": "prove",
+    "learned": "false"
+  },
+  {
+    "word": "provide",
+    "learned": "false"
+  },
+  {
+    "word": "provider",
+    "learned": "false"
+  },
+  {
+    "word": "province",
+    "learned": "false"
+  },
+  {
+    "word": "provision",
+    "learned": "false"
+  },
+  {
+    "word": "psychological",
+    "learned": "false"
+  },
+  {
+    "word": "psychologist",
+    "learned": "false"
+  },
+  {
+    "word": "psychology",
+    "learned": "false"
+  },
+  {
+    "word": "public",
+    "learned": "false"
+  },
+  {
+    "word": "publication",
+    "learned": "false"
+  },
+  {
+    "word": "publicly",
+    "learned": "false"
+  },
+  {
+    "word": "publish",
+    "learned": "false"
+  },
+  {
+    "word": "publisher",
+    "learned": "false"
+  },
+  {
+    "word": "pull",
+    "learned": "false"
+  },
+  {
+    "word": "punishment",
+    "learned": "false"
+  },
+  {
+    "word": "purchase",
+    "learned": "false"
+  },
+  {
+    "word": "pure",
+    "learned": "false"
+  },
+  {
+    "word": "purpose",
+    "learned": "false"
+  },
+  {
+    "word": "pursue",
+    "learned": "false"
+  },
+  {
+    "word": "push",
+    "learned": "false"
+  },
+  {
+    "word": "put",
+    "learned": "false"
+  },
+  {
+    "word": "qualify",
+    "learned": "false"
+  },
+  {
+    "word": "quality",
+    "learned": "false"
+  },
+  {
+    "word": "quarter",
+    "learned": "false"
+  },
+  {
+    "word": "quarterback",
+    "learned": "false"
+  },
+  {
+    "word": "question",
+    "learned": "false"
+  },
+  {
+    "word": "quick",
+    "learned": "false"
+  },
+  {
+    "word": "quickly",
+    "learned": "false"
+  },
+  {
+    "word": "quiet",
+    "learned": "false"
+  },
+  {
+    "word": "quietly",
+    "learned": "false"
+  },
+  {
+    "word": "quit",
+    "learned": "false"
+  },
+  {
+    "word": "quite",
+    "learned": "false"
+  },
+  {
+    "word": "quote",
+    "learned": "false"
+  },
+  {
+    "word": "race",
+    "learned": "false"
+  },
+  {
+    "word": "racial",
+    "learned": "false"
+  },
+  {
+    "word": "radical",
+    "learned": "false"
+  },
+  {
+    "word": "radio",
+    "learned": "false"
+  },
+  {
+    "word": "rail",
+    "learned": "false"
+  },
+  {
+    "word": "rain",
+    "learned": "false"
+  },
+  {
+    "word": "raise",
+    "learned": "false"
+  },
+  {
+    "word": "range",
+    "learned": "false"
+  },
+  {
+    "word": "rank",
+    "learned": "false"
+  },
+  {
+    "word": "rapid",
+    "learned": "false"
+  },
+  {
+    "word": "rapidly",
+    "learned": "false"
+  },
+  {
+    "word": "rare",
+    "learned": "false"
+  },
+  {
+    "word": "rarely",
+    "learned": "false"
+  },
+  {
+    "word": "rate",
+    "learned": "false"
+  },
+  {
+    "word": "rather",
+    "learned": "false"
+  },
+  {
+    "word": "rating",
+    "learned": "false"
+  },
+  {
+    "word": "ratio",
+    "learned": "false"
+  },
+  {
+    "word": "raw",
+    "learned": "false"
+  },
+  {
+    "word": "reach",
+    "learned": "false"
+  },
+  {
+    "word": "react",
+    "learned": "false"
+  },
+  {
+    "word": "reaction",
+    "learned": "false"
+  },
+  {
+    "word": "read",
+    "learned": "false"
+  },
+  {
+    "word": "reader",
+    "learned": "false"
+  },
+  {
+    "word": "reading",
+    "learned": "false"
+  },
+  {
+    "word": "ready",
+    "learned": "false"
+  },
+  {
+    "word": "real",
+    "learned": "false"
+  },
+  {
+    "word": "reality",
+    "learned": "false"
+  },
+  {
+    "word": "realize",
+    "learned": "false"
+  },
+  {
+    "word": "really",
+    "learned": "false"
+  },
+  {
+    "word": "reason",
+    "learned": "false"
+  },
+  {
+    "word": "reasonable",
+    "learned": "false"
+  },
+  {
+    "word": "recall",
+    "learned": "false"
+  },
+  {
+    "word": "receive",
+    "learned": "false"
+  },
+  {
+    "word": "recent",
+    "learned": "false"
+  },
+  {
+    "word": "recently",
+    "learned": "false"
+  },
+  {
+    "word": "recipe",
+    "learned": "false"
+  },
+  {
+    "word": "recognition",
+    "learned": "false"
+  },
+  {
+    "word": "recognize",
+    "learned": "false"
+  },
+  {
+    "word": "recommend",
+    "learned": "false"
+  },
+  {
+    "word": "recommendation",
+    "learned": "false"
+  },
+  {
+    "word": "record",
+    "learned": "false"
+  },
+  {
+    "word": "recording",
+    "learned": "false"
+  },
+  {
+    "word": "recover",
+    "learned": "false"
+  },
+  {
+    "word": "recovery",
+    "learned": "false"
+  },
+  {
+    "word": "recruit",
+    "learned": "false"
+  },
+  {
+    "word": "red",
+    "learned": "false"
+  },
+  {
+    "word": "reduce",
+    "learned": "false"
+  },
+  {
+    "word": "reduction",
+    "learned": "false"
+  },
+  {
+    "word": "refer",
+    "learned": "false"
+  },
+  {
+    "word": "reference",
+    "learned": "false"
+  },
+  {
+    "word": "reflect",
+    "learned": "false"
+  },
+  {
+    "word": "reflection",
+    "learned": "false"
+  },
+  {
+    "word": "reform",
+    "learned": "false"
+  },
+  {
+    "word": "refugee",
+    "learned": "false"
+  },
+  {
+    "word": "refuse",
+    "learned": "false"
+  },
+  {
+    "word": "regard",
+    "learned": "false"
+  },
+  {
+    "word": "regarding",
+    "learned": "false"
+  },
+  {
+    "word": "regardless",
+    "learned": "false"
+  },
+  {
+    "word": "regime",
+    "learned": "false"
+  },
+  {
+    "word": "region",
+    "learned": "false"
+  },
+  {
+    "word": "regional",
+    "learned": "false"
+  },
+  {
+    "word": "register",
+    "learned": "false"
+  },
+  {
+    "word": "regular",
+    "learned": "false"
+  },
+  {
+    "word": "regularly",
+    "learned": "false"
+  },
+  {
+    "word": "regulate",
+    "learned": "false"
+  },
+  {
+    "word": "regulation",
+    "learned": "false"
+  },
+  {
+    "word": "reinforce",
+    "learned": "false"
+  },
+  {
+    "word": "reject",
+    "learned": "false"
+  },
+  {
+    "word": "relate",
+    "learned": "false"
+  },
+  {
+    "word": "relation",
+    "learned": "false"
+  },
+  {
+    "word": "relationship",
+    "learned": "false"
+  },
+  {
+    "word": "relative",
+    "learned": "false"
+  },
+  {
+    "word": "relatively",
+    "learned": "false"
+  },
+  {
+    "word": "relax",
+    "learned": "false"
+  },
+  {
+    "word": "release",
+    "learned": "false"
+  },
+  {
+    "word": "relevant",
+    "learned": "false"
+  },
+  {
+    "word": "relief",
+    "learned": "false"
+  },
+  {
+    "word": "religion",
+    "learned": "false"
+  },
+  {
+    "word": "religious",
+    "learned": "false"
+  },
+  {
+    "word": "rely",
+    "learned": "false"
+  },
+  {
+    "word": "remain",
+    "learned": "false"
+  },
+  {
+    "word": "remaining",
+    "learned": "false"
+  },
+  {
+    "word": "remarkable",
+    "learned": "false"
+  },
+  {
+    "word": "remember",
+    "learned": "false"
+  },
+  {
+    "word": "remind",
+    "learned": "false"
+  },
+  {
+    "word": "remote",
+    "learned": "false"
+  },
+  {
+    "word": "remove",
+    "learned": "false"
+  },
+  {
+    "word": "repeat",
+    "learned": "false"
+  },
+  {
+    "word": "repeatedly",
+    "learned": "false"
+  },
+  {
+    "word": "replace",
+    "learned": "false"
+  },
+  {
+    "word": "reply",
+    "learned": "false"
+  },
+  {
+    "word": "report",
+    "learned": "false"
+  },
+  {
+    "word": "reporter",
+    "learned": "false"
+  },
+  {
+    "word": "represent",
+    "learned": "false"
+  },
+  {
+    "word": "representation",
+    "learned": "false"
+  },
+  {
+    "word": "representative",
+    "learned": "false"
+  },
+  {
+    "word": "Republican",
+    "learned": "false"
+  },
+  {
+    "word": "reputation",
+    "learned": "false"
+  },
+  {
+    "word": "request",
+    "learned": "false"
+  },
+  {
+    "word": "require",
+    "learned": "false"
+  },
+  {
+    "word": "requirement",
+    "learned": "false"
+  },
+  {
+    "word": "research",
+    "learned": "false"
+  },
+  {
+    "word": "researcher",
+    "learned": "false"
+  },
+  {
+    "word": "resemble",
+    "learned": "false"
+  },
+  {
+    "word": "reservation",
+    "learned": "false"
+  },
+  {
+    "word": "resident",
+    "learned": "false"
+  },
+  {
+    "word": "resist",
+    "learned": "false"
+  },
+  {
+    "word": "resistance",
+    "learned": "false"
+  },
+  {
+    "word": "resolution",
+    "learned": "false"
+  },
+  {
+    "word": "resolve",
+    "learned": "false"
+  },
+  {
+    "word": "resort",
+    "learned": "false"
+  },
+  {
+    "word": "resource",
+    "learned": "false"
+  },
+  {
+    "word": "respect",
+    "learned": "false"
+  },
+  {
+    "word": "respond",
+    "learned": "false"
+  },
+  {
+    "word": "respondent",
+    "learned": "false"
+  },
+  {
+    "word": "response",
+    "learned": "false"
+  },
+  {
+    "word": "responsibility",
+    "learned": "false"
+  },
+  {
+    "word": "responsible",
+    "learned": "false"
+  },
+  {
+    "word": "rest",
+    "learned": "false"
+  },
+  {
+    "word": "restaurant",
+    "learned": "false"
+  },
+  {
+    "word": "restore",
+    "learned": "false"
+  },
+  {
+    "word": "restriction",
+    "learned": "false"
+  },
+  {
+    "word": "result",
+    "learned": "false"
+  },
+  {
+    "word": "retain",
+    "learned": "false"
+  },
+  {
+    "word": "retire",
+    "learned": "false"
+  },
+  {
+    "word": "retirement",
+    "learned": "false"
+  },
+  {
+    "word": "return",
+    "learned": "false"
+  },
+  {
+    "word": "reveal",
+    "learned": "false"
+  },
+  {
+    "word": "revenue",
+    "learned": "false"
+  },
+  {
+    "word": "review",
+    "learned": "false"
+  },
+  {
+    "word": "revolution",
+    "learned": "false"
+  },
+  {
+    "word": "rhythm",
+    "learned": "false"
+  },
+  {
+    "word": "rice",
+    "learned": "false"
+  },
+  {
+    "word": "rich",
+    "learned": "false"
+  },
+  {
+    "word": "rid",
+    "learned": "false"
+  },
+  {
+    "word": "ride",
+    "learned": "false"
+  },
+  {
+    "word": "rifle",
+    "learned": "false"
+  },
+  {
+    "word": "right",
+    "learned": "false"
+  },
+  {
+    "word": "ring",
+    "learned": "false"
+  },
+  {
+    "word": "rise",
+    "learned": "false"
+  },
+  {
+    "word": "risk",
+    "learned": "false"
+  },
+  {
+    "word": "river",
+    "learned": "false"
+  },
+  {
+    "word": "road",
+    "learned": "false"
+  },
+  {
+    "word": "rock",
+    "learned": "false"
+  },
+  {
+    "word": "role",
+    "learned": "false"
+  },
+  {
+    "word": "roll",
+    "learned": "false"
+  },
+  {
+    "word": "romantic",
+    "learned": "false"
+  },
+  {
+    "word": "roof",
+    "learned": "false"
+  },
+  {
+    "word": "room",
+    "learned": "false"
+  },
+  {
+    "word": "root",
+    "learned": "false"
+  },
+  {
+    "word": "rope",
+    "learned": "false"
+  },
+  {
+    "word": "rose",
+    "learned": "false"
+  },
+  {
+    "word": "rough",
+    "learned": "false"
+  },
+  {
+    "word": "roughly",
+    "learned": "false"
+  },
+  {
+    "word": "round",
+    "learned": "false"
+  },
+  {
+    "word": "route",
+    "learned": "false"
+  },
+  {
+    "word": "routine",
+    "learned": "false"
+  },
+  {
+    "word": "row",
+    "learned": "false"
+  },
+  {
+    "word": "rub",
+    "learned": "false"
+  },
+  {
+    "word": "rule",
+    "learned": "false"
+  },
+  {
+    "word": "run",
+    "learned": "false"
+  },
+  {
+    "word": "running",
+    "learned": "false"
+  },
+  {
+    "word": "rural",
+    "learned": "false"
+  },
+  {
+    "word": "rush",
+    "learned": "false"
+  },
+  {
+    "word": "Russian",
+    "learned": "false"
+  },
+  {
+    "word": "sacred",
+    "learned": "false"
+  },
+  {
+    "word": "sad",
+    "learned": "false"
+  },
+  {
+    "word": "safe",
+    "learned": "false"
+  },
+  {
+    "word": "safety",
+    "learned": "false"
+  },
+  {
+    "word": "sake",
+    "learned": "false"
+  },
+  {
+    "word": "salad",
+    "learned": "false"
+  },
+  {
+    "word": "salary",
+    "learned": "false"
+  },
+  {
+    "word": "sale",
+    "learned": "false"
+  },
+  {
+    "word": "sales",
+    "learned": "false"
+  },
+  {
+    "word": "salt",
+    "learned": "false"
+  },
+  {
+    "word": "same",
+    "learned": "false"
+  },
+  {
+    "word": "sample",
+    "learned": "false"
+  },
+  {
+    "word": "sanction",
+    "learned": "false"
+  },
+  {
+    "word": "sand",
+    "learned": "false"
+  },
+  {
+    "word": "satellite",
+    "learned": "false"
+  },
+  {
+    "word": "satisfaction",
+    "learned": "false"
+  },
+  {
+    "word": "satisfy",
+    "learned": "false"
+  },
+  {
+    "word": "sauce",
+    "learned": "false"
+  },
+  {
+    "word": "save",
+    "learned": "false"
+  },
+  {
+    "word": "saving",
+    "learned": "false"
+  },
+  {
+    "word": "say",
+    "learned": "false"
+  },
+  {
+    "word": "scale",
+    "learned": "false"
+  },
+  {
+    "word": "scandal",
+    "learned": "false"
+  },
+  {
+    "word": "scared",
+    "learned": "false"
+  },
+  {
+    "word": "scenario",
+    "learned": "false"
+  },
+  {
+    "word": "scene",
+    "learned": "false"
+  },
+  {
+    "word": "schedule",
+    "learned": "false"
+  },
+  {
+    "word": "scheme",
+    "learned": "false"
+  },
+  {
+    "word": "scholar",
+    "learned": "false"
+  },
+  {
+    "word": "scholarship",
+    "learned": "false"
+  },
+  {
+    "word": "school",
+    "learned": "false"
+  },
+  {
+    "word": "science",
+    "learned": "false"
+  },
+  {
+    "word": "scientific",
+    "learned": "false"
+  },
+  {
+    "word": "scientist",
+    "learned": "false"
+  },
+  {
+    "word": "scope",
+    "learned": "false"
+  },
+  {
+    "word": "score",
+    "learned": "false"
+  },
+  {
+    "word": "scream",
+    "learned": "false"
+  },
+  {
+    "word": "screen",
+    "learned": "false"
+  },
+  {
+    "word": "script",
+    "learned": "false"
+  },
+  {
+    "word": "sea",
+    "learned": "false"
+  },
+  {
+    "word": "search",
+    "learned": "false"
+  },
+  {
+    "word": "season",
+    "learned": "false"
+  },
+  {
+    "word": "seat",
+    "learned": "false"
+  },
+  {
+    "word": "second",
+    "learned": "false"
+  },
+  {
+    "word": "secret",
+    "learned": "false"
+  },
+  {
+    "word": "secretary",
+    "learned": "false"
+  },
+  {
+    "word": "section",
+    "learned": "false"
+  },
+  {
+    "word": "sector",
+    "learned": "false"
+  },
+  {
+    "word": "secure",
+    "learned": "false"
+  },
+  {
+    "word": "security",
+    "learned": "false"
+  },
+  {
+    "word": "see",
+    "learned": "false"
+  },
+  {
+    "word": "seed",
+    "learned": "false"
+  },
+  {
+    "word": "seek",
+    "learned": "false"
+  },
+  {
+    "word": "seem",
+    "learned": "false"
+  },
+  {
+    "word": "segment",
+    "learned": "false"
+  },
+  {
+    "word": "seize",
+    "learned": "false"
+  },
+  {
+    "word": "select",
+    "learned": "false"
+  },
+  {
+    "word": "selection",
+    "learned": "false"
+  },
+  {
+    "word": "self",
+    "learned": "false"
+  },
+  {
+    "word": "sell",
+    "learned": "false"
+  },
+  {
+    "word": "Senate",
+    "learned": "false"
+  },
+  {
+    "word": "senator",
+    "learned": "false"
+  },
+  {
+    "word": "send",
+    "learned": "false"
+  },
+  {
+    "word": "senior",
+    "learned": "false"
+  },
+  {
+    "word": "sense",
+    "learned": "false"
+  },
+  {
+    "word": "sensitive",
+    "learned": "false"
+  },
+  {
+    "word": "sentence",
+    "learned": "false"
+  },
+  {
+    "word": "separate",
+    "learned": "false"
+  },
+  {
+    "word": "sequence",
+    "learned": "false"
+  },
+  {
+    "word": "series",
+    "learned": "false"
+  },
+  {
+    "word": "serious",
+    "learned": "false"
+  },
+  {
+    "word": "seriously",
+    "learned": "false"
+  },
+  {
+    "word": "serve",
+    "learned": "false"
+  },
+  {
+    "word": "service",
+    "learned": "false"
+  },
+  {
+    "word": "session",
+    "learned": "false"
+  },
+  {
+    "word": "set",
+    "learned": "false"
+  },
+  {
+    "word": "setting",
+    "learned": "false"
+  },
+  {
+    "word": "settle",
+    "learned": "false"
+  },
+  {
+    "word": "settlement",
+    "learned": "false"
+  },
+  {
+    "word": "seven",
+    "learned": "false"
+  },
+  {
+    "word": "several",
+    "learned": "false"
+  },
+  {
+    "word": "severe",
+    "learned": "false"
+  },
+  {
+    "word": "sex",
+    "learned": "false"
+  },
+  {
+    "word": "sexual",
+    "learned": "false"
+  },
+  {
+    "word": "shade",
+    "learned": "false"
+  },
+  {
+    "word": "shadow",
+    "learned": "false"
+  },
+  {
+    "word": "shake",
+    "learned": "false"
+  },
+  {
+    "word": "shall",
+    "learned": "false"
+  },
+  {
+    "word": "shape",
+    "learned": "false"
+  },
+  {
+    "word": "share",
+    "learned": "false"
+  },
+  {
+    "word": "sharp",
+    "learned": "false"
+  },
+  {
+    "word": "she",
+    "learned": "false"
+  },
+  {
+    "word": "sheet",
+    "learned": "false"
+  },
+  {
+    "word": "shelf",
+    "learned": "false"
+  },
+  {
+    "word": "shell",
+    "learned": "false"
+  },
+  {
+    "word": "shelter",
+    "learned": "false"
+  },
+  {
+    "word": "shift",
+    "learned": "false"
+  },
+  {
+    "word": "shine",
+    "learned": "false"
+  },
+  {
+    "word": "ship",
+    "learned": "false"
+  },
+  {
+    "word": "shirt",
+    "learned": "false"
+  },
+  {
+    "word": "shit",
+    "learned": "false"
+  },
+  {
+    "word": "shock",
+    "learned": "false"
+  },
+  {
+    "word": "shoe",
+    "learned": "false"
+  },
+  {
+    "word": "shoot",
+    "learned": "false"
+  },
+  {
+    "word": "shooting",
+    "learned": "false"
+  },
+  {
+    "word": "shop",
+    "learned": "false"
+  },
+  {
+    "word": "shopping",
+    "learned": "false"
+  },
+  {
+    "word": "shore",
+    "learned": "false"
+  },
+  {
+    "word": "short",
+    "learned": "false"
+  },
+  {
+    "word": "shortly",
+    "learned": "false"
+  },
+  {
+    "word": "shot",
+    "learned": "false"
+  },
+  {
+    "word": "should",
+    "learned": "false"
+  },
+  {
+    "word": "shoulder",
+    "learned": "false"
+  },
+  {
+    "word": "shout",
+    "learned": "false"
+  },
+  {
+    "word": "show",
+    "learned": "false"
+  },
+  {
+    "word": "shower",
+    "learned": "false"
+  },
+  {
+    "word": "shrug",
+    "learned": "false"
+  },
+  {
+    "word": "shut",
+    "learned": "false"
+  },
+  {
+    "word": "sick",
+    "learned": "false"
+  },
+  {
+    "word": "side",
+    "learned": "false"
+  },
+  {
+    "word": "sigh",
+    "learned": "false"
+  },
+  {
+    "word": "sight",
+    "learned": "false"
+  },
+  {
+    "word": "sign",
+    "learned": "false"
+  },
+  {
+    "word": "signal",
+    "learned": "false"
+  },
+  {
+    "word": "significance",
+    "learned": "false"
+  },
+  {
+    "word": "significant",
+    "learned": "false"
+  },
+  {
+    "word": "significantly",
+    "learned": "false"
+  },
+  {
+    "word": "silence",
+    "learned": "false"
+  },
+  {
+    "word": "silent",
+    "learned": "false"
+  },
+  {
+    "word": "silver",
+    "learned": "false"
+  },
+  {
+    "word": "similar",
+    "learned": "false"
+  },
+  {
+    "word": "similarly",
+    "learned": "false"
+  },
+  {
+    "word": "simple",
+    "learned": "false"
+  },
+  {
+    "word": "simply",
+    "learned": "false"
+  },
+  {
+    "word": "sin",
+    "learned": "false"
+  },
+  {
+    "word": "since",
+    "learned": "false"
+  },
+  {
+    "word": "sing",
+    "learned": "false"
+  },
+  {
+    "word": "singer",
+    "learned": "false"
+  },
+  {
+    "word": "single",
+    "learned": "false"
+  },
+  {
+    "word": "sink",
+    "learned": "false"
+  },
+  {
+    "word": "sir",
+    "learned": "false"
+  },
+  {
+    "word": "sister",
+    "learned": "false"
+  },
+  {
+    "word": "sit",
+    "learned": "false"
+  },
+  {
+    "word": "site",
+    "learned": "false"
+  },
+  {
+    "word": "situation",
+    "learned": "false"
+  },
+  {
+    "word": "six",
+    "learned": "false"
+  },
+  {
+    "word": "size",
+    "learned": "false"
+  },
+  {
+    "word": "ski",
+    "learned": "false"
+  },
+  {
+    "word": "skill",
+    "learned": "false"
+  },
+  {
+    "word": "skin",
+    "learned": "false"
+  },
+  {
+    "word": "sky",
+    "learned": "false"
+  },
+  {
+    "word": "slave",
+    "learned": "false"
+  },
+  {
+    "word": "sleep",
+    "learned": "false"
+  },
+  {
+    "word": "slice",
+    "learned": "false"
+  },
+  {
+    "word": "slide",
+    "learned": "false"
+  },
+  {
+    "word": "slight",
+    "learned": "false"
+  },
+  {
+    "word": "slightly",
+    "learned": "false"
+  },
+  {
+    "word": "slip",
+    "learned": "false"
+  },
+  {
+    "word": "slow",
+    "learned": "false"
+  },
+  {
+    "word": "slowly",
+    "learned": "false"
+  },
+  {
+    "word": "small",
+    "learned": "false"
+  },
+  {
+    "word": "smart",
+    "learned": "false"
+  },
+  {
+    "word": "smell",
+    "learned": "false"
+  },
+  {
+    "word": "smile",
+    "learned": "false"
+  },
+  {
+    "word": "smoke",
+    "learned": "false"
+  },
+  {
+    "word": "smooth",
+    "learned": "false"
+  },
+  {
+    "word": "snap",
+    "learned": "false"
+  },
+  {
+    "word": "snow",
+    "learned": "false"
+  },
+  {
+    "word": "so",
+    "learned": "false"
+  },
+  {
+    "word": "so-called",
+    "learned": "false"
+  },
+  {
+    "word": "soccer",
+    "learned": "false"
+  },
+  {
+    "word": "social",
+    "learned": "false"
+  },
+  {
+    "word": "society",
+    "learned": "false"
+  },
+  {
+    "word": "soft",
+    "learned": "false"
+  },
+  {
+    "word": "software",
+    "learned": "false"
+  },
+  {
+    "word": "soil",
+    "learned": "false"
+  },
+  {
+    "word": "solar",
+    "learned": "false"
+  },
+  {
+    "word": "soldier",
+    "learned": "false"
+  },
+  {
+    "word": "solid",
+    "learned": "false"
+  },
+  {
+    "word": "solution",
+    "learned": "false"
+  },
+  {
+    "word": "solve",
+    "learned": "false"
+  },
+  {
+    "word": "some",
+    "learned": "false"
+  },
+  {
+    "word": "somebody",
+    "learned": "false"
+  },
+  {
+    "word": "somehow",
+    "learned": "false"
+  },
+  {
+    "word": "someone",
+    "learned": "false"
+  },
+  {
+    "word": "something",
+    "learned": "false"
+  },
+  {
+    "word": "sometimes",
+    "learned": "false"
+  },
+  {
+    "word": "somewhat",
+    "learned": "false"
+  },
+  {
+    "word": "somewhere",
+    "learned": "false"
+  },
+  {
+    "word": "son",
+    "learned": "false"
+  },
+  {
+    "word": "song",
+    "learned": "false"
+  },
+  {
+    "word": "soon",
+    "learned": "false"
+  },
+  {
+    "word": "sophisticated",
+    "learned": "false"
+  },
+  {
+    "word": "sorry",
+    "learned": "false"
+  },
+  {
+    "word": "sort",
+    "learned": "false"
+  },
+  {
+    "word": "soul",
+    "learned": "false"
+  },
+  {
+    "word": "sound",
+    "learned": "false"
+  },
+  {
+    "word": "soup",
+    "learned": "false"
+  },
+  {
+    "word": "source",
+    "learned": "false"
+  },
+  {
+    "word": "south",
+    "learned": "false"
+  },
+  {
+    "word": "southern",
+    "learned": "false"
+  },
+  {
+    "word": "Soviet",
+    "learned": "false"
+  },
+  {
+    "word": "space",
+    "learned": "false"
+  },
+  {
+    "word": "Spanish",
+    "learned": "false"
+  },
+  {
+    "word": "speak",
+    "learned": "false"
+  },
+  {
+    "word": "speaker",
+    "learned": "false"
+  },
+  {
+    "word": "special",
+    "learned": "false"
+  },
+  {
+    "word": "specialist",
+    "learned": "false"
+  },
+  {
+    "word": "species",
+    "learned": "false"
+  },
+  {
+    "word": "specific",
+    "learned": "false"
+  },
+  {
+    "word": "specifically",
+    "learned": "false"
+  },
+  {
+    "word": "speech",
+    "learned": "false"
+  },
+  {
+    "word": "speed",
+    "learned": "false"
+  },
+  {
+    "word": "spend",
+    "learned": "false"
+  },
+  {
+    "word": "spending",
+    "learned": "false"
+  },
+  {
+    "word": "spin",
+    "learned": "false"
+  },
+  {
+    "word": "spirit",
+    "learned": "false"
+  },
+  {
+    "word": "spiritual",
+    "learned": "false"
+  },
+  {
+    "word": "split",
+    "learned": "false"
+  },
+  {
+    "word": "spokesman",
+    "learned": "false"
+  },
+  {
+    "word": "sport",
+    "learned": "false"
+  },
+  {
+    "word": "spot",
+    "learned": "false"
+  },
+  {
+    "word": "spread",
+    "learned": "false"
+  },
+  {
+    "word": "spring",
+    "learned": "false"
+  },
+  {
+    "word": "square",
+    "learned": "false"
+  },
+  {
+    "word": "squeeze",
+    "learned": "false"
+  },
+  {
+    "word": "stability",
+    "learned": "false"
+  },
+  {
+    "word": "stable",
+    "learned": "false"
+  },
+  {
+    "word": "staff",
+    "learned": "false"
+  },
+  {
+    "word": "stage",
+    "learned": "false"
+  },
+  {
+    "word": "stair",
+    "learned": "false"
+  },
+  {
+    "word": "stake",
+    "learned": "false"
+  },
+  {
+    "word": "stand",
+    "learned": "false"
+  },
+  {
+    "word": "standard",
+    "learned": "false"
+  },
+  {
+    "word": "standing",
+    "learned": "false"
+  },
+  {
+    "word": "star",
+    "learned": "false"
+  },
+  {
+    "word": "stare",
+    "learned": "false"
+  },
+  {
+    "word": "start",
+    "learned": "false"
+  },
+  {
+    "word": "state",
+    "learned": "false"
+  },
+  {
+    "word": "statement",
+    "learned": "false"
+  },
+  {
+    "word": "station",
+    "learned": "false"
+  },
+  {
+    "word": "statistics",
+    "learned": "false"
+  },
+  {
+    "word": "status",
+    "learned": "false"
+  },
+  {
+    "word": "stay",
+    "learned": "false"
+  },
+  {
+    "word": "steady",
+    "learned": "false"
+  },
+  {
+    "word": "steal",
+    "learned": "false"
+  },
+  {
+    "word": "steel",
+    "learned": "false"
+  },
+  {
+    "word": "step",
+    "learned": "false"
+  },
+  {
+    "word": "stick",
+    "learned": "false"
+  },
+  {
+    "word": "still",
+    "learned": "false"
+  },
+  {
+    "word": "stir",
+    "learned": "false"
+  },
+  {
+    "word": "stock",
+    "learned": "false"
+  },
+  {
+    "word": "stomach",
+    "learned": "false"
+  },
+  {
+    "word": "stone",
+    "learned": "false"
+  },
+  {
+    "word": "stop",
+    "learned": "false"
+  },
+  {
+    "word": "storage",
+    "learned": "false"
+  },
+  {
+    "word": "store",
+    "learned": "false"
+  },
+  {
+    "word": "storm",
+    "learned": "false"
+  },
+  {
+    "word": "story",
+    "learned": "false"
+  },
+  {
+    "word": "straight",
+    "learned": "false"
+  },
+  {
+    "word": "strange",
+    "learned": "false"
+  },
+  {
+    "word": "stranger",
+    "learned": "false"
+  },
+  {
+    "word": "strategic",
+    "learned": "false"
+  },
+  {
+    "word": "strategy",
+    "learned": "false"
+  },
+  {
+    "word": "stream",
+    "learned": "false"
+  },
+  {
+    "word": "street",
+    "learned": "false"
+  },
+  {
+    "word": "strength",
+    "learned": "false"
+  },
+  {
+    "word": "strengthen",
+    "learned": "false"
+  },
+  {
+    "word": "stress",
+    "learned": "false"
+  },
+  {
+    "word": "stretch",
+    "learned": "false"
+  },
+  {
+    "word": "strike",
+    "learned": "false"
+  },
+  {
+    "word": "string",
+    "learned": "false"
+  },
+  {
+    "word": "strip",
+    "learned": "false"
+  },
+  {
+    "word": "stroke",
+    "learned": "false"
+  },
+  {
+    "word": "strong",
+    "learned": "false"
+  },
+  {
+    "word": "strongly",
+    "learned": "false"
+  },
+  {
+    "word": "structure",
+    "learned": "false"
+  },
+  {
+    "word": "struggle",
+    "learned": "false"
+  },
+  {
+    "word": "student",
+    "learned": "false"
+  },
+  {
+    "word": "studio",
+    "learned": "false"
+  },
+  {
+    "word": "study",
+    "learned": "false"
+  },
+  {
+    "word": "stuff",
+    "learned": "false"
+  },
+  {
+    "word": "stupid",
+    "learned": "false"
+  },
+  {
+    "word": "style",
+    "learned": "false"
+  },
+  {
+    "word": "subject",
+    "learned": "false"
+  },
+  {
+    "word": "submit",
+    "learned": "false"
+  },
+  {
+    "word": "subsequent",
+    "learned": "false"
+  },
+  {
+    "word": "substance",
+    "learned": "false"
+  },
+  {
+    "word": "substantial",
+    "learned": "false"
+  },
+  {
+    "word": "succeed",
+    "learned": "false"
+  },
+  {
+    "word": "success",
+    "learned": "false"
+  },
+  {
+    "word": "successful",
+    "learned": "false"
+  },
+  {
+    "word": "successfully",
+    "learned": "false"
+  },
+  {
+    "word": "such",
+    "learned": "false"
+  },
+  {
+    "word": "sudden",
+    "learned": "false"
+  },
+  {
+    "word": "suddenly",
+    "learned": "false"
+  },
+  {
+    "word": "sue",
+    "learned": "false"
+  },
+  {
+    "word": "suffer",
+    "learned": "false"
+  },
+  {
+    "word": "sufficient",
+    "learned": "false"
+  },
+  {
+    "word": "sugar",
+    "learned": "false"
+  },
+  {
+    "word": "suggest",
+    "learned": "false"
+  },
+  {
+    "word": "suggestion",
+    "learned": "false"
+  },
+  {
+    "word": "suicide",
+    "learned": "false"
+  },
+  {
+    "word": "suit",
+    "learned": "false"
+  },
+  {
+    "word": "summer",
+    "learned": "false"
+  },
+  {
+    "word": "summit",
+    "learned": "false"
+  },
+  {
+    "word": "sun",
+    "learned": "false"
+  },
+  {
+    "word": "super",
+    "learned": "false"
+  },
+  {
+    "word": "supply",
+    "learned": "false"
+  },
+  {
+    "word": "support",
+    "learned": "false"
+  },
+  {
+    "word": "supporter",
+    "learned": "false"
+  },
+  {
+    "word": "suppose",
+    "learned": "false"
+  },
+  {
+    "word": "supposed",
+    "learned": "false"
+  },
+  {
+    "word": "Supreme",
+    "learned": "false"
+  },
+  {
+    "word": "sure",
+    "learned": "false"
+  },
+  {
+    "word": "surely",
+    "learned": "false"
+  },
+  {
+    "word": "surface",
+    "learned": "false"
+  },
+  {
+    "word": "surgery",
+    "learned": "false"
+  },
+  {
+    "word": "surprise",
+    "learned": "false"
+  },
+  {
+    "word": "surprised",
+    "learned": "false"
+  },
+  {
+    "word": "surprising",
+    "learned": "false"
+  },
+  {
+    "word": "surprisingly",
+    "learned": "false"
+  },
+  {
+    "word": "surround",
+    "learned": "false"
+  },
+  {
+    "word": "survey",
+    "learned": "false"
+  },
+  {
+    "word": "survival",
+    "learned": "false"
+  },
+  {
+    "word": "survive",
+    "learned": "false"
+  },
+  {
+    "word": "survivor",
+    "learned": "false"
+  },
+  {
+    "word": "suspect",
+    "learned": "false"
+  },
+  {
+    "word": "sustain",
+    "learned": "false"
+  },
+  {
+    "word": "swear",
+    "learned": "false"
+  },
+  {
+    "word": "sweep",
+    "learned": "false"
+  },
+  {
+    "word": "sweet",
+    "learned": "false"
+  },
+  {
+    "word": "swim",
+    "learned": "false"
+  },
+  {
+    "word": "swing",
+    "learned": "false"
+  },
+  {
+    "word": "switch",
+    "learned": "false"
+  },
+  {
+    "word": "symbol",
+    "learned": "false"
+  },
+  {
+    "word": "symptom",
+    "learned": "false"
+  },
+  {
+    "word": "system",
+    "learned": "false"
+  },
+  {
+    "word": "table",
+    "learned": "false"
+  },
+  {
+    "word": "tablespoon",
+    "learned": "false"
+  },
+  {
+    "word": "tactic",
+    "learned": "false"
+  },
+  {
+    "word": "tail",
+    "learned": "false"
+  },
+  {
+    "word": "take",
+    "learned": "false"
+  },
+  {
+    "word": "tale",
+    "learned": "false"
+  },
+  {
+    "word": "talent",
+    "learned": "false"
+  },
+  {
+    "word": "talk",
+    "learned": "false"
+  },
+  {
+    "word": "tall",
+    "learned": "false"
+  },
+  {
+    "word": "tank",
+    "learned": "false"
+  },
+  {
+    "word": "tap",
+    "learned": "false"
+  },
+  {
+    "word": "tape",
+    "learned": "false"
+  },
+  {
+    "word": "target",
+    "learned": "false"
+  },
+  {
+    "word": "task",
+    "learned": "false"
+  },
+  {
+    "word": "taste",
+    "learned": "false"
+  },
+  {
+    "word": "tax",
+    "learned": "false"
+  },
+  {
+    "word": "taxpayer",
+    "learned": "false"
+  },
+  {
+    "word": "tea",
+    "learned": "false"
+  },
+  {
+    "word": "teach",
+    "learned": "false"
+  },
+  {
+    "word": "teacher",
+    "learned": "false"
+  },
+  {
+    "word": "teaching",
+    "learned": "false"
+  },
+  {
+    "word": "team",
+    "learned": "false"
+  },
+  {
+    "word": "tear",
+    "learned": "false"
+  },
+  {
+    "word": "teaspoon",
+    "learned": "false"
+  },
+  {
+    "word": "technical",
+    "learned": "false"
+  },
+  {
+    "word": "technique",
+    "learned": "false"
+  },
+  {
+    "word": "technology",
+    "learned": "false"
+  },
+  {
+    "word": "teen",
+    "learned": "false"
+  },
+  {
+    "word": "teenager",
+    "learned": "false"
+  },
+  {
+    "word": "telephone",
+    "learned": "false"
+  },
+  {
+    "word": "telescope",
+    "learned": "false"
+  },
+  {
+    "word": "television",
+    "learned": "false"
+  },
+  {
+    "word": "tell",
+    "learned": "false"
+  },
+  {
+    "word": "temperature",
+    "learned": "false"
+  },
+  {
+    "word": "temporary",
+    "learned": "false"
+  },
+  {
+    "word": "ten",
+    "learned": "false"
+  },
+  {
+    "word": "tend",
+    "learned": "false"
+  },
+  {
+    "word": "tendency",
+    "learned": "false"
+  },
+  {
+    "word": "tennis",
+    "learned": "false"
+  },
+  {
+    "word": "tension",
+    "learned": "false"
+  },
+  {
+    "word": "tent",
+    "learned": "false"
+  },
+  {
+    "word": "term",
+    "learned": "false"
+  },
+  {
+    "word": "terms",
+    "learned": "false"
+  },
+  {
+    "word": "terrible",
+    "learned": "false"
+  },
+  {
+    "word": "territory",
+    "learned": "false"
+  },
+  {
+    "word": "terror",
+    "learned": "false"
+  },
+  {
+    "word": "terrorism",
+    "learned": "false"
+  },
+  {
+    "word": "terrorist",
+    "learned": "false"
+  },
+  {
+    "word": "test",
+    "learned": "false"
+  },
+  {
+    "word": "testify",
+    "learned": "false"
+  },
+  {
+    "word": "testimony",
+    "learned": "false"
+  },
+  {
+    "word": "testing",
+    "learned": "false"
+  },
+  {
+    "word": "text",
+    "learned": "false"
+  },
+  {
+    "word": "than",
+    "learned": "false"
+  },
+  {
+    "word": "thank",
+    "learned": "false"
+  },
+  {
+    "word": "thanks",
+    "learned": "false"
+  },
+  {
+    "word": "that",
+    "learned": "false"
+  },
+  {
+    "word": "the",
+    "learned": "false"
+  },
+  {
+    "word": "theater",
+    "learned": "false"
+  },
+  {
+    "word": "their",
+    "learned": "false"
+  },
+  {
+    "word": "them",
+    "learned": "false"
+  },
+  {
+    "word": "theme",
+    "learned": "false"
+  },
+  {
+    "word": "themselves",
+    "learned": "false"
+  },
+  {
+    "word": "then",
+    "learned": "false"
+  },
+  {
+    "word": "theory",
+    "learned": "false"
+  },
+  {
+    "word": "therapy",
+    "learned": "false"
+  },
+  {
+    "word": "there",
+    "learned": "false"
+  },
+  {
+    "word": "therefore",
+    "learned": "false"
+  },
+  {
+    "word": "these",
+    "learned": "false"
+  },
+  {
+    "word": "they",
+    "learned": "false"
+  },
+  {
+    "word": "thick",
+    "learned": "false"
+  },
+  {
+    "word": "thin",
+    "learned": "false"
+  },
+  {
+    "word": "thing",
+    "learned": "false"
+  },
+  {
+    "word": "think",
+    "learned": "false"
+  },
+  {
+    "word": "thinking",
+    "learned": "false"
+  },
+  {
+    "word": "third",
+    "learned": "false"
+  },
+  {
+    "word": "thirty",
+    "learned": "false"
+  },
+  {
+    "word": "this",
+    "learned": "false"
+  },
+  {
+    "word": "those",
+    "learned": "false"
+  },
+  {
+    "word": "though",
+    "learned": "false"
+  },
+  {
+    "word": "thought",
+    "learned": "false"
+  },
+  {
+    "word": "thousand",
+    "learned": "false"
+  },
+  {
+    "word": "threat",
+    "learned": "false"
+  },
+  {
+    "word": "threaten",
+    "learned": "false"
+  },
+  {
+    "word": "three",
+    "learned": "false"
+  },
+  {
+    "word": "throat",
+    "learned": "false"
+  },
+  {
+    "word": "through",
+    "learned": "false"
+  },
+  {
+    "word": "throughout",
+    "learned": "false"
+  },
+  {
+    "word": "throw",
+    "learned": "false"
+  },
+  {
+    "word": "thus",
+    "learned": "false"
+  },
+  {
+    "word": "ticket",
+    "learned": "false"
+  },
+  {
+    "word": "tie",
+    "learned": "false"
+  },
+  {
+    "word": "tight",
+    "learned": "false"
+  },
+  {
+    "word": "time",
+    "learned": "false"
+  },
+  {
+    "word": "tiny",
+    "learned": "false"
+  },
+  {
+    "word": "tip",
+    "learned": "false"
+  },
+  {
+    "word": "tire",
+    "learned": "false"
+  },
+  {
+    "word": "tired",
+    "learned": "false"
+  },
+  {
+    "word": "tissue",
+    "learned": "false"
+  },
+  {
+    "word": "title",
+    "learned": "false"
+  },
+  {
+    "word": "to",
+    "learned": "false"
+  },
+  {
+    "word": "tobacco",
+    "learned": "false"
+  },
+  {
+    "word": "today",
+    "learned": "false"
+  },
+  {
+    "word": "toe",
+    "learned": "false"
+  },
+  {
+    "word": "together",
+    "learned": "false"
+  },
+  {
+    "word": "tomato",
+    "learned": "false"
+  },
+  {
+    "word": "tomorrow",
+    "learned": "false"
+  },
+  {
+    "word": "tone",
+    "learned": "false"
+  },
+  {
+    "word": "tongue",
+    "learned": "false"
+  },
+  {
+    "word": "tonight",
+    "learned": "false"
+  },
+  {
+    "word": "too",
+    "learned": "false"
+  },
+  {
+    "word": "tool",
+    "learned": "false"
+  },
+  {
+    "word": "tooth",
+    "learned": "false"
+  },
+  {
+    "word": "top",
+    "learned": "false"
+  },
+  {
+    "word": "topic",
+    "learned": "false"
+  },
+  {
+    "word": "toss",
+    "learned": "false"
+  },
+  {
+    "word": "total",
+    "learned": "false"
+  },
+  {
+    "word": "totally",
+    "learned": "false"
+  },
+  {
+    "word": "touch",
+    "learned": "false"
+  },
+  {
+    "word": "tough",
+    "learned": "false"
+  },
+  {
+    "word": "tour",
+    "learned": "false"
+  },
+  {
+    "word": "tourist",
+    "learned": "false"
+  },
+  {
+    "word": "tournament",
+    "learned": "false"
+  },
+  {
+    "word": "toward",
+    "learned": "false"
+  },
+  {
+    "word": "towards",
+    "learned": "false"
+  },
+  {
+    "word": "tower",
+    "learned": "false"
+  },
+  {
+    "word": "town",
+    "learned": "false"
+  },
+  {
+    "word": "toy",
+    "learned": "false"
+  },
+  {
+    "word": "trace",
+    "learned": "false"
+  },
+  {
+    "word": "track",
+    "learned": "false"
+  },
+  {
+    "word": "trade",
+    "learned": "false"
+  },
+  {
+    "word": "tradition",
+    "learned": "false"
+  },
+  {
+    "word": "traditional",
+    "learned": "false"
+  },
+  {
+    "word": "traffic",
+    "learned": "false"
+  },
+  {
+    "word": "tragedy",
+    "learned": "false"
+  },
+  {
+    "word": "trail",
+    "learned": "false"
+  },
+  {
+    "word": "train",
+    "learned": "false"
+  },
+  {
+    "word": "training",
+    "learned": "false"
+  },
+  {
+    "word": "transfer",
+    "learned": "false"
+  },
+  {
+    "word": "transform",
+    "learned": "false"
+  },
+  {
+    "word": "transformation",
+    "learned": "false"
+  },
+  {
+    "word": "transition",
+    "learned": "false"
+  },
+  {
+    "word": "translate",
+    "learned": "false"
+  },
+  {
+    "word": "transportation",
+    "learned": "false"
+  },
+  {
+    "word": "travel",
+    "learned": "false"
+  },
+  {
+    "word": "treat",
+    "learned": "false"
+  },
+  {
+    "word": "treatment",
+    "learned": "false"
+  },
+  {
+    "word": "treaty",
+    "learned": "false"
+  },
+  {
+    "word": "tree",
+    "learned": "false"
+  },
+  {
+    "word": "tremendous",
+    "learned": "false"
+  },
+  {
+    "word": "trend",
+    "learned": "false"
+  },
+  {
+    "word": "trial",
+    "learned": "false"
+  },
+  {
+    "word": "tribe",
+    "learned": "false"
+  },
+  {
+    "word": "trick",
+    "learned": "false"
+  },
+  {
+    "word": "trip",
+    "learned": "false"
+  },
+  {
+    "word": "troop",
+    "learned": "false"
+  },
+  {
+    "word": "trouble",
+    "learned": "false"
+  },
+  {
+    "word": "truck",
+    "learned": "false"
+  },
+  {
+    "word": "true",
+    "learned": "false"
+  },
+  {
+    "word": "truly",
+    "learned": "false"
+  },
+  {
+    "word": "trust",
+    "learned": "false"
+  },
+  {
+    "word": "truth",
+    "learned": "false"
+  },
+  {
+    "word": "try",
+    "learned": "false"
+  },
+  {
+    "word": "tube",
+    "learned": "false"
+  },
+  {
+    "word": "tunnel",
+    "learned": "false"
+  },
+  {
+    "word": "turn",
+    "learned": "false"
+  },
+  {
+    "word": "TV",
+    "learned": "false"
+  },
+  {
+    "word": "twelve",
+    "learned": "false"
+  },
+  {
+    "word": "twenty",
+    "learned": "false"
+  },
+  {
+    "word": "twice",
+    "learned": "false"
+  },
+  {
+    "word": "twin",
+    "learned": "false"
+  },
+  {
+    "word": "two",
+    "learned": "false"
+  },
+  {
+    "word": "type",
+    "learned": "false"
+  },
+  {
+    "word": "typical",
+    "learned": "false"
+  },
+  {
+    "word": "typically",
+    "learned": "false"
+  },
+  {
+    "word": "ugly",
+    "learned": "false"
+  },
+  {
+    "word": "ultimate",
+    "learned": "false"
+  },
+  {
+    "word": "ultimately",
+    "learned": "false"
+  },
+  {
+    "word": "unable",
+    "learned": "false"
+  },
+  {
+    "word": "uncle",
+    "learned": "false"
+  },
+  {
+    "word": "under",
+    "learned": "false"
+  },
+  {
+    "word": "undergo",
+    "learned": "false"
+  },
+  {
+    "word": "understand",
+    "learned": "false"
+  },
+  {
+    "word": "understanding",
+    "learned": "false"
+  },
+  {
+    "word": "unfortunately",
+    "learned": "false"
+  },
+  {
+    "word": "uniform",
+    "learned": "false"
+  },
+  {
+    "word": "union",
+    "learned": "false"
+  },
+  {
+    "word": "unique",
+    "learned": "false"
+  },
+  {
+    "word": "unit",
+    "learned": "false"
+  },
+  {
+    "word": "United",
+    "learned": "false"
+  },
+  {
+    "word": "universal",
+    "learned": "false"
+  },
+  {
+    "word": "universe",
+    "learned": "false"
+  },
+  {
+    "word": "university",
+    "learned": "false"
+  },
+  {
+    "word": "unknown",
+    "learned": "false"
+  },
+  {
+    "word": "unless",
+    "learned": "false"
+  },
+  {
+    "word": "unlike",
+    "learned": "false"
+  },
+  {
+    "word": "unlikely",
+    "learned": "false"
+  },
+  {
+    "word": "until",
+    "learned": "false"
+  },
+  {
+    "word": "unusual",
+    "learned": "false"
+  },
+  {
+    "word": "up",
+    "learned": "false"
+  },
+  {
+    "word": "upon",
+    "learned": "false"
+  },
+  {
+    "word": "upper",
+    "learned": "false"
+  },
+  {
+    "word": "urban",
+    "learned": "false"
+  },
+  {
+    "word": "urge",
+    "learned": "false"
+  },
+  {
+    "word": "us",
+    "learned": "false"
+  },
+  {
+    "word": "use",
+    "learned": "false"
+  },
+  {
+    "word": "used",
+    "learned": "false"
+  },
+  {
+    "word": "useful",
+    "learned": "false"
+  },
+  {
+    "word": "user",
+    "learned": "false"
+  },
+  {
+    "word": "usual",
+    "learned": "false"
+  },
+  {
+    "word": "usually",
+    "learned": "false"
+  },
+  {
+    "word": "utility",
+    "learned": "false"
+  },
+  {
+    "word": "vacation",
+    "learned": "false"
+  },
+  {
+    "word": "valley",
+    "learned": "false"
+  },
+  {
+    "word": "valuable",
+    "learned": "false"
+  },
+  {
+    "word": "value",
+    "learned": "false"
+  },
+  {
+    "word": "variable",
+    "learned": "false"
+  },
+  {
+    "word": "variation",
+    "learned": "false"
+  },
+  {
+    "word": "variety",
+    "learned": "false"
+  },
+  {
+    "word": "various",
+    "learned": "false"
+  },
+  {
+    "word": "vary",
+    "learned": "false"
+  },
+  {
+    "word": "vast",
+    "learned": "false"
+  },
+  {
+    "word": "vegetable",
+    "learned": "false"
+  },
+  {
+    "word": "vehicle",
+    "learned": "false"
+  },
+  {
+    "word": "venture",
+    "learned": "false"
+  },
+  {
+    "word": "version",
+    "learned": "false"
+  },
+  {
+    "word": "versus",
+    "learned": "false"
+  },
+  {
+    "word": "very",
+    "learned": "false"
+  },
+  {
+    "word": "vessel",
+    "learned": "false"
+  },
+  {
+    "word": "veteran",
+    "learned": "false"
+  },
+  {
+    "word": "via",
+    "learned": "false"
+  },
+  {
+    "word": "victim",
+    "learned": "false"
+  },
+  {
+    "word": "victory",
+    "learned": "false"
+  },
+  {
+    "word": "video",
+    "learned": "false"
+  },
+  {
+    "word": "view",
+    "learned": "false"
+  },
+  {
+    "word": "viewer",
+    "learned": "false"
+  },
+  {
+    "word": "village",
+    "learned": "false"
+  },
+  {
+    "word": "violate",
+    "learned": "false"
+  },
+  {
+    "word": "violation",
+    "learned": "false"
+  },
+  {
+    "word": "violence",
+    "learned": "false"
+  },
+  {
+    "word": "violent",
+    "learned": "false"
+  },
+  {
+    "word": "virtually",
+    "learned": "false"
+  },
+  {
+    "word": "virtue",
+    "learned": "false"
+  },
+  {
+    "word": "virus",
+    "learned": "false"
+  },
+  {
+    "word": "visible",
+    "learned": "false"
+  },
+  {
+    "word": "vision",
+    "learned": "false"
+  },
+  {
+    "word": "visit",
+    "learned": "false"
+  },
+  {
+    "word": "visitor",
+    "learned": "false"
+  },
+  {
+    "word": "visual",
+    "learned": "false"
+  },
+  {
+    "word": "vital",
+    "learned": "false"
+  },
+  {
+    "word": "voice",
+    "learned": "false"
+  },
+  {
+    "word": "volume",
+    "learned": "false"
+  },
+  {
+    "word": "volunteer",
+    "learned": "false"
+  },
+  {
+    "word": "vote",
+    "learned": "false"
+  },
+  {
+    "word": "voter",
+    "learned": "false"
+  },
+  {
+    "word": "vs",
+    "learned": "false"
+  },
+  {
+    "word": "vulnerable",
+    "learned": "false"
+  },
+  {
+    "word": "wage",
+    "learned": "false"
+  },
+  {
+    "word": "wait",
+    "learned": "false"
+  },
+  {
+    "word": "wake",
+    "learned": "false"
+  },
+  {
+    "word": "walk",
+    "learned": "false"
+  },
+  {
+    "word": "wall",
+    "learned": "false"
+  },
+  {
+    "word": "wander",
+    "learned": "false"
+  },
+  {
+    "word": "want",
+    "learned": "false"
+  },
+  {
+    "word": "war",
+    "learned": "false"
+  },
+  {
+    "word": "warm",
+    "learned": "false"
+  },
+  {
+    "word": "warn",
+    "learned": "false"
+  },
+  {
+    "word": "warning",
+    "learned": "false"
+  },
+  {
+    "word": "wash",
+    "learned": "false"
+  },
+  {
+    "word": "waste",
+    "learned": "false"
+  },
+  {
+    "word": "watch",
+    "learned": "false"
+  },
+  {
+    "word": "water",
+    "learned": "false"
+  },
+  {
+    "word": "wave",
+    "learned": "false"
+  },
+  {
+    "word": "way",
+    "learned": "false"
+  },
+  {
+    "word": "we",
+    "learned": "false"
+  },
+  {
+    "word": "weak",
+    "learned": "false"
+  },
+  {
+    "word": "wealth",
+    "learned": "false"
+  },
+  {
+    "word": "wealthy",
+    "learned": "false"
+  },
+  {
+    "word": "weapon",
+    "learned": "false"
+  },
+  {
+    "word": "wear",
+    "learned": "false"
+  },
+  {
+    "word": "weather",
+    "learned": "false"
+  },
+  {
+    "word": "wedding",
+    "learned": "false"
+  },
+  {
+    "word": "week",
+    "learned": "false"
+  },
+  {
+    "word": "weekend",
+    "learned": "false"
+  },
+  {
+    "word": "weekly",
+    "learned": "false"
+  },
+  {
+    "word": "weigh",
+    "learned": "false"
+  },
+  {
+    "word": "weight",
+    "learned": "false"
+  },
+  {
+    "word": "welcome",
+    "learned": "false"
+  },
+  {
+    "word": "welfare",
+    "learned": "false"
+  },
+  {
+    "word": "well",
+    "learned": "false"
+  },
+  {
+    "word": "west",
+    "learned": "false"
+  },
+  {
+    "word": "western",
+    "learned": "false"
+  },
+  {
+    "word": "wet",
+    "learned": "false"
+  },
+  {
+    "word": "what",
+    "learned": "false"
+  },
+  {
+    "word": "whatever",
+    "learned": "false"
+  },
+  {
+    "word": "wheel",
+    "learned": "false"
+  },
+  {
+    "word": "when",
+    "learned": "false"
+  },
+  {
+    "word": "whenever",
+    "learned": "false"
+  },
+  {
+    "word": "where",
+    "learned": "false"
+  },
+  {
+    "word": "whereas",
+    "learned": "false"
+  },
+  {
+    "word": "whether",
+    "learned": "false"
+  },
+  {
+    "word": "which",
+    "learned": "false"
+  },
+  {
+    "word": "while",
+    "learned": "false"
+  },
+  {
+    "word": "whisper",
+    "learned": "false"
+  },
+  {
+    "word": "white",
+    "learned": "false"
+  },
+  {
+    "word": "who",
+    "learned": "false"
+  },
+  {
+    "word": "whole",
+    "learned": "false"
+  },
+  {
+    "word": "whom",
+    "learned": "false"
+  },
+  {
+    "word": "whose",
+    "learned": "false"
+  },
+  {
+    "word": "why",
+    "learned": "false"
+  },
+  {
+    "word": "wide",
+    "learned": "false"
+  },
+  {
+    "word": "widely",
+    "learned": "false"
+  },
+  {
+    "word": "widespread",
+    "learned": "false"
+  },
+  {
+    "word": "wife",
+    "learned": "false"
+  },
+  {
+    "word": "wild",
+    "learned": "false"
+  },
+  {
+    "word": "will",
+    "learned": "false"
+  },
+  {
+    "word": "willing",
+    "learned": "false"
+  },
+  {
+    "word": "win",
+    "learned": "false"
+  },
+  {
+    "word": "wind",
+    "learned": "false"
+  },
+  {
+    "word": "window",
+    "learned": "false"
+  },
+  {
+    "word": "wine",
+    "learned": "false"
+  },
+  {
+    "word": "wing",
+    "learned": "false"
+  },
+  {
+    "word": "winner",
+    "learned": "false"
+  },
+  {
+    "word": "winter",
+    "learned": "false"
+  },
+  {
+    "word": "wipe",
+    "learned": "false"
+  },
+  {
+    "word": "wire",
+    "learned": "false"
+  },
+  {
+    "word": "wisdom",
+    "learned": "false"
+  },
+  {
+    "word": "wise",
+    "learned": "false"
+  },
+  {
+    "word": "wish",
+    "learned": "false"
+  },
+  {
+    "word": "with",
+    "learned": "false"
+  },
+  {
+    "word": "withdraw",
+    "learned": "false"
+  },
+  {
+    "word": "within",
+    "learned": "false"
+  },
+  {
+    "word": "without",
+    "learned": "false"
+  },
+  {
+    "word": "witness",
+    "learned": "false"
+  },
+  {
+    "word": "woman",
+    "learned": "false"
+  },
+  {
+    "word": "wonder",
+    "learned": "false"
+  },
+  {
+    "word": "wonderful",
+    "learned": "false"
+  },
+  {
+    "word": "wood",
+    "learned": "false"
+  },
+  {
+    "word": "wooden",
+    "learned": "false"
+  },
+  {
+    "word": "word",
+    "learned": "false"
+  },
+  {
+    "word": "work",
+    "learned": "false"
+  },
+  {
+    "word": "worker",
+    "learned": "false"
+  },
+  {
+    "word": "working",
+    "learned": "false"
+  },
+  {
+    "word": "works",
+    "learned": "false"
+  },
+  {
+    "word": "workshop",
+    "learned": "false"
+  },
+  {
+    "word": "world",
+    "learned": "false"
+  },
+  {
+    "word": "worried",
+    "learned": "false"
+  },
+  {
+    "word": "worry",
+    "learned": "false"
+  },
+  {
+    "word": "worth",
+    "learned": "false"
+  },
+  {
+    "word": "would",
+    "learned": "false"
+  },
+  {
+    "word": "wound",
+    "learned": "false"
+  },
+  {
+    "word": "wrap",
+    "learned": "false"
+  },
+  {
+    "word": "write",
+    "learned": "false"
+  },
+  {
+    "word": "writer",
+    "learned": "false"
+  },
+  {
+    "word": "writing",
+    "learned": "false"
+  },
+  {
+    "word": "wrong",
+    "learned": "false"
+  },
+  {
+    "word": "yard",
+    "learned": "false"
+  },
+  {
+    "word": "yeah",
+    "learned": "false"
+  },
+  {
+    "word": "year",
+    "learned": "false"
+  },
+  {
+    "word": "yell",
+    "learned": "false"
+  },
+  {
+    "word": "yellow",
+    "learned": "false"
+  },
+  {
+    "word": "yes",
+    "learned": "false"
+  },
+  {
+    "word": "yesterday",
+    "learned": "false"
+  },
+  {
+    "word": "yet",
+    "learned": "false"
+  },
+  {
+    "word": "yield",
+    "learned": "false"
+  },
+  {
+    "word": "you",
+    "learned": "false"
+  },
+  {
+    "word": "young",
+    "learned": "false"
+  },
+  {
+    "word": "your",
+    "learned": "false"
+  },
+  {
+    "word": "yours",
+    "learned": "false"
+  },
+  {
+    "word": "yourself",
+    "learned": "false"
+  },
+  {
+    "word": "youth",
+    "learned": "false"
+  },
+  {
+    "word": "zone",
+    "learned": "false"
+  }
+]
