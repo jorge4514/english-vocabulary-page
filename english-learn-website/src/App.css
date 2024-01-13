@@ -1,0 +1,39 @@
+/* App.css */
+html{
+  height: 100%;
+}
+body{
+  height: 100%;
+}
+
+#root{
+  height: 100%;
+}
+
+.word-item {
+  cursor: pointer;
+  transition: transform 0.3s ease-out;
+  margin: 10px; /* Añade espacio entre los elementos si es necesario */
+}
+
+.word-item:hover {
+  transform: scale(1.1);
+}
+
+.btn-learn {
+  opacity: 0;
+  transition: opacity 0.3s ease-out;
+  margin-top: 10px; /* Añade espacio entre la palabra y el botón */
+}
+
+.word-item:hover .btn-learn {
+  opacity: 1;
+}
+
+.word-text {
+  font-size: 40px;
+}
+
+.options-container button{
+  margin-left: 5px;
+}
